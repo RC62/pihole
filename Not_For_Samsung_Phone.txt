@@ -1,7 +1,0 @@
-cbsinteractive.hb.omtrdc.net
-imasdk.googleapis.com
-pubads.g.doubleclick.net
-cbsi.com.ssl.sc.omtrdc.net
-www3.l.google.com
-dai.google.com
-partnerad.l.doubleclick.net
