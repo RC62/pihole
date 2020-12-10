@@ -69,7 +69,6 @@ adservice.google.com
 adtracker.mkjigsaw.com
 advert.puzzles.mkjigsaw.com
 advertising.amazon.co.jp
-aidc.origin-apple.com.akadns.net
 aka-cdn.adtechus.com
 aktrack.pubmatic.com
 alb.reddit.com
@@ -172,7 +171,6 @@ c.msn.com
 c1.rfihub.net
 ca4-bid.adsrvr.org
 cache.addthiscdn.com
-carrierbundle.itunes-apple.com.akadns.net
 casalemedia.com
 cbsi.demdex.net
 cc.swiftype.com
@@ -220,8 +218,6 @@ cf.iadsdk.apple.com
 chimpstatic.com
 choices.trustarc.com
 chryslerjeepcom.mpeasylink.com
-cl2-cdn.origin-apple.com.akadns.net
-cl5-cdn.origin-apple.com.akadns.net
 click.icptrack.com
 click.virt.exacttarget.com
 click.virt.s10.exacttarget.com
@@ -236,9 +232,6 @@ cnt.xhamster.com
 collect10854wrdcr.deltadna.net
 collector.githubapp.com
 collector.xhamster.com
-commnat-cohort-gc.ess-apple.com.akadns.net
-commnat-main-gc.ess-apple.com.akadns.net
-common-us.onedrive.akadns.net
 common.duapps.com
 confiant-integrations.global.ssl.fastly.net
 config.88-f.net
@@ -249,7 +242,6 @@ config.uca.cloud.unity3d.com
 config.unityads.unity3d.com
 config2.mparticle.com
 configprd.samsungcloudsolution.net
-configuration.apple.com.akadns.net
 connect.facebook.net
 connect.tapjoy.com
 connectivitycheck.gstatic.com
@@ -308,7 +300,6 @@ di.rlcdn.com
 direct-events-collector.spot.im
 dis.criteo.com
 disney.tt.omtrdc.net
-dm3p.wns.notify.windows.com.akadns.net
 dmd.metaservices.microsoft.com
 dmqdd6hw24ucf.cloudfront.net
 doppler.hulu.com
@@ -376,7 +367,6 @@ gannett-d.openx.net
 gate.hockeyapp.net
 gateway.foresee.com
 gcdn.2mdn.net
-gdmf.apple.com.akadns.net
 generalmotors.112.2o7.net
 generalmotorscorpora.tt.omtrdc.net
 generalmotorscorporation.sc.omtrdc.net
@@ -396,13 +386,8 @@ googleads4.g.doubleclick.net
 gpm.samsungqbe.com
 gql.reddit.com
 graph.facebook.com
-gs-loc-new.ls-apple.com.akadns.net
-gs-loc.ls-apple.com.akadns.net
-gsa.apple.com.akadns.net
-gsas.apple.com.akadns.net
 gscounters.eu1.gigya.com
 gslbeacon.lijit.com
-gsp57-ssl-background.ls-apple.com.akadns.net
 gstaticadssl.l.google.com
 guce.adaptv.advertising.com
 guce.adtech.de
@@ -448,9 +433,6 @@ in.appcenter.ms
 inapps.appsflyer.com
 incoming.telemetry.mozilla.org
 infolink.pavv.co.kr
-init-cdn.itunes-apple.com.akadns.net
-init-p01st-lb.push-apple.com.akadns.net
-init.push-apple.com.akadns.net
 init.supersonicads.com
 insight.adsrvr.org
 insights-collector.newrelic.com
@@ -460,10 +442,7 @@ intg.snapchat.com
 invitation.samsungiotcloud.com
 invitejs.trustpilot.com
 ip-info.ff.avast.com
-iphone-ld.origin-apple.com.akadns.net
-iphonesubmissions.apple.com.akadns.net
 ir-na.amazon-adsystem.com
-is-ssl.mzstatic.com.itunes-apple.com.akadns.net
 jadserve.postrelease.com
 jntis9dzyll94i6acil6vnqbcnbpc1605917026.uaid.imrworldwide.com
 js-agent.newrelic.com
@@ -481,7 +460,6 @@ launcher.us.yeshen.com
 launches.appsflyer.com
 lax1-ib.adnxs.com
 lb.production-public.tubi.io
-lcdn-locator-usuqo.apple.com.akadns.net
 lcprd1.samsungcloudsolution.net
 libs.coremetrics.com
 licensing.blinkreceipt.com
@@ -516,8 +494,6 @@ mb.moatads.com
 md-a-c.apptimize.com
 md-i-s.apptimize.com
 messenger.com
-mesu-cdn.apple.com.akadns.net
-mesu-cdn.origin-apple.com.akadns.net
 metrics-logger.spot.im
 metrics.brightcove.com
 microsoftmscompoc.tt.omtrdc.net
@@ -530,7 +506,6 @@ mobile.launchdarkly.com
 mobile.pipe.aria.microsoft.com
 mps.cnbc.com
 mpsnare.iesnare.com
-mr-mailws.icloud.com.akadns.net
 ms.applovin.com
 ms.applvn.com
 mssl.fwmrm.net
@@ -544,7 +519,6 @@ nbcstreaming.sc.omtrdc.net
 nbcu.demdex.net
 nbcume.hb.omtrdc.net
 networksdk.ssacdn.com
-news-edge.origin-apple.com.akadns.net
 nexus.ensighten.com
 nexusrules.officeapps.live.com
 nmtracking.netflix.com
@@ -557,7 +531,6 @@ ns11.whois.co.kr
 oba.media.net
 obo.moatads.com
 ocfconnect-shard-na03-useast2.samsungiotcloud.com
-ocsp-lb.apple.com.akadns.net
 ocsp.godaddy.com.akadns.net
 odb.outbrain.com
 odr.mookie1.com
@@ -580,16 +553,13 @@ otnprd11.samsungcloudsolution.net
 otnprd8.samsungcloudsolution.net
 otnprd9.samsungcloudsolution.net
 outcome-ssp.supersonicads.com
-outsideapple.apple.com.akadns.net
 ovp.iris.tv
 oy2fy32m3q2vdupxspakqvnrvkb4m1605710607.uaid.imrworldwide.com
 p.adsymptotic.com
 p.liadm.com
 p.tvpixel.com
 p.yotpo.com
-p2-buy.itunes-apple.com.akadns.net
 pagead2.googlesyndication.com
-pancake.cdn-apple.com.akadns.net
 partner.googleadservices.com
 pasta.esfile.duapps.com
 pbid.pro-market.net
@@ -636,7 +606,6 @@ px.owneriq.net
 px.srvcs.tumblr.com
 qoe-1.yottaa.net
 quantcast.mgr.consensu.org
-query.ess-apple.com.akadns.net
 query.prod.cms.rt.microsoft.com
 r.remarketingpixel.com
 r.skimresources.com
@@ -664,7 +633,6 @@ rum.minutemediaservices.com
 rumcdn.geoedge.be
 run.adrizer.com
 rupload.facebook.com
-s-mzstatic-applak.itunes-apple.com.akadns.net
 s-static.innovid.com
 s-video.innovid.com
 s.adroll.com
@@ -834,10 +802,8 @@ unitedparcelservice.sc.omtrdc.net
 universal.iperceptions.com
 upu.samsungelectronics.com
 us-ma.sam4m.com
-us-se-courier-4.push-apple.com.akadns.net
 us.tags.newscgp.com
 us04logfiles.zoom.us
-us1.roaming1.live.com.akadns.net
 usage.trackjs.com
 use-application-dns.net
 use-tor.adsrvr.org
@@ -871,12 +837,10 @@ widgets.outbrain.com
 widgets.pinterest.com
 win8.ipv6.microsoft.com
 wm5vhwoa5mhsmxw96hgouubjzy2ce1605916044.uaid.imrworldwide.com
-wns.notify.windows.com.akadns.net
 ws-na.amazon-adsystem.com
 ws.sessioncam.com
 ws.tapjoyads.com
 wv.inner-active.mobi
-www-cdn.icloud.com.akadns.net
 www-google-analytics.l.google.com
 www.adadvisor.net
 www.agkn.com
@@ -898,7 +862,6 @@ www.zergnet.com
 x.bidswitch.net
 x.dlx.addthis.com
 ximcgndgcacjbq6mrbwqzwrrv18px1605916421.uaid.imrworldwide.com
-xp.itunes-apple.com.akadns.net
 xpu.samsungelectronics.com
 xs1rukuoymskk39gltl4jkhkolcmf1605915740.uaid.imrworldwide.com
 yield-manager.browsiprod.com
