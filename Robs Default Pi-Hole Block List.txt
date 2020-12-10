@@ -616,6 +616,7 @@ p.tvpixel.com
 p.yotpo.com
 pagead2.googlesyndication.com
 partner.googleadservices.com
+partnerad.l.doubleclick.net
 pasta.esfile.duapps.com
 pbid.pro-market.net
 phillateemis.iad-03.braze.com
