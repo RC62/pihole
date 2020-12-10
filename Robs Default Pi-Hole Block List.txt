@@ -503,7 +503,6 @@ m2m-api.inmarket.com
 mads.amazon-adsystem.com
 mads.amazon.com
 manage.devcenter.microsoft.com
-manifest.googlevideo.com
 manifest.localytics.com
 maps.googleapis.com
 maps.gstatic.com
@@ -633,7 +632,6 @@ rcom.dynamicyield.com
 reachms.bfmio.com
 realmedia.com
 recirculation.spot.im
-redirector.googlevideo.com
 redirector.gvt1.com
 referrer.disqus.com
 remote-data.urbanairship.com

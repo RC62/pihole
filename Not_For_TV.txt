@@ -6,3 +6,5 @@ www3.l.google.com
 dai.google.com
 partnerad.l.doubleclick.net
 nbcume.sc.omtrdc.net
+redirector.googlevideo.com
+manifest.googlevideo.com
