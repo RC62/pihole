@@ -400,6 +400,7 @@ googleadservices.com
 googlesyndication.com
 gql.reddit.com
 graph.facebook.com
+graph.instagram.com
 gravity.com
 gscounters.eu1.gigya.com
 gslbeacon.lijit.com
