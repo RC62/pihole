@@ -273,7 +273,6 @@ control.kochava.com
 control.smbeat.jp
 conversions.adaptv.advertising.com
 cookiex.ngd.yahoo.com
-cooper.logs.roku.com
 coremetrics.com
 countess.twitch.tv
 crowdscience.com
@@ -685,7 +684,6 @@ scontent.ftpa1-1.fna.fbcdn.net
 scontent.ftpa1-2.fna.fbcdn.net
 scontent.xx.fbcdn.net
 scorecardresearch.com
-scribe.logs.roku.com
 script.crazyegg.com
 script.ioam.de
 scripts.webcontentassessor.com
