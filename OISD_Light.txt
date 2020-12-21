@@ -60264,9 +60264,32 @@ zzshw.net
 zzyjtsgls.com
 zzz111.uk
 zzztech.com
+#
+#
+# Robs default added section
+#
+#
 sb.scorecardresearch.com.edgekey.net
 d3p8zr0ffa9t17.cloudfront.net
 d11depkj6bh0w3.cloudfront.net
 www-google-analytics.l.google.com
 googleads4.g.doubleclick.net
 pagead46.l.doubleclick.net
+#
+#
+# Robs Roku added section
+#
+#
+austin.logs.roku.com
+cooper.logs.roku.com
+giga.logs.roku.com
+griffin.logs.roku.com
+liberty.logs.roku.com
+littlefield.logs.roku.com
+logs.roku.com
+paolo.logs.roku.com
+scribe.logs.roku.com
+sugarland.logs.roku.com
+tyler.logs.roku.com
+victoria.logs.roku.com
+windsor.logs.roku.com
