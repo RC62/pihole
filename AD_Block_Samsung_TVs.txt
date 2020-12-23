@@ -75,3 +75,8 @@ vdterms.samsungcloudsolution.com
 www.samsungotn.net
 www.samsungrm.net
 xpu.samsungelectronics.com
+#
+#
+#
+#. Rob's Entries
+tvpnlogopus.samsungcloud.tv
