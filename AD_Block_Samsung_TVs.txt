@@ -80,3 +80,4 @@ xpu.samsungelectronics.com
 #
 #. Rob's Entries
 tvpnlogopus.samsungcloud.tv
+prderrordumphsm.samsungcloudsolution.com
