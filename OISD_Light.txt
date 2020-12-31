@@ -15,7 +15,6 @@ bm.adentifi.com
 ets-us-east-1.track.smaato.net
 ad.atdmt.com
 dart.l.doubleclick.net
-aax-us-east.amazon-adsystem.com
 use-tor.adsrvr.org
 #
 #
@@ -57,7 +56,6 @@ pubmatic-server.thinknearhub.com
 reports.ubimo.com
 sdk-ios.ad.smaato.net
 stage-ms.applovin.com
-star.c10r.facebook.com
 tracker.samplicio.us
 ws.tapjoyads.com
 wv.inner-active.mobi
