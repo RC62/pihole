@@ -46,7 +46,6 @@ aktrack.pubmatic.com
 assets.ads.mygrocerydeals.com
 cdn4.crispadvertising.com
 d.applvn.com
-endpoint.prod.us-east-1.forester.a2z.com
 fw.adsafeprotected.com
 imps.trk.mwstats.net
 loadr.exelator.com
