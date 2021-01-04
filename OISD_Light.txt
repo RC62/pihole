@@ -15,7 +15,11 @@ bm.adentifi.com
 ets-us-east-1.track.smaato.net
 ad.atdmt.com
 dart.l.doubleclick.net
+adsrvr.org
 use-tor.adsrvr.org
+adservice.google.com
+apple.comscoreresearch.com
+sb.scorecardresearch.com
 #
 #
 # Rob's Roku specific added section
