@@ -57,7 +57,7 @@ ws.tapjoyads.com
 wv.inner-active.mobi
 #
 #
-#Rob's Ad blocking
+#Rob's Additional Ad blocking
 ads.aerserv.com
 ads.avocarrot.com
 ads30.adcolony.com
