@@ -1,4 +1,4 @@
-# Rob's default section
+# Default section
 ad.atdmt.com
 ads.eastus.trafficmanager.net
 adservice.google.com
@@ -16,9 +16,10 @@ sb.scorecardresearch.com.edgekey.net
 track.celtra.com
 use-tor.adsrvr.org
 www-google-analytics.l.google.com
-#
-#
-# Rob's Roku specific added section
+
+
+
+# Roku specific
 austin.logs.roku.com
 cooper.logs.roku.com
 giga.logs.roku.com
@@ -32,8 +33,9 @@ sugarland.logs.roku.com
 tyler.logs.roku.com
 victoria.logs.roku.com
 windsor.logs.roku.com
-#
-#
+
+
+
 #Jeannie's Game Ad blocking
 adrta.com
 ads.mygrocerydeals.com
@@ -55,9 +57,10 @@ stage-ms.applovin.com
 tracker.samplicio.us
 ws.tapjoyads.com
 wv.inner-active.mobi
-#
-#
-#Rob's Additional Ad blocking
+
+
+
+#Additional Ad blocking (from Pi-Hole Logs)
 a.applvn.com
 adc3-launch.adcolony.com
 admin.appnext.com
@@ -81,3 +84,12 @@ v2.chartboost.com
 wd.adcolony.com
 wd.adcolony.xyz
 webview.unityads.unity3d.com
+
+
+
+# Other Commonly blacklisted domains
+# Pandora
+ad.pandora.tv
+ads.pandora.tv.net
+adserver.pandora.com
+stats.pandora.com
