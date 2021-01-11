@@ -16,7 +16,46 @@ sb.scorecardresearch.com.edgekey.net
 track.celtra.com
 use-tor.adsrvr.org
 www-google-analytics.l.google.com
-
+adc3-launch.adcolony.com
+admin.appnext.com
+ads.aerserv.com
+ads.avocarrot.com
+ads30.adcolony.com
+adserver.unityads.unity3d.com
+app.appsflyer.com
+auction.unityads.unity3d.com
+config.unityads.unity3d.com
+device-metrics-us.amazon.com
+dishanalyticsandtesting.sc.omtrdc.net
+dishpurchasingcorporation.hb-api.omtrdc.net
+events3alt.adcolony.com
+events3alt.adcolony.com
+live.chartboost.com
+v2.chartboost.com
+wd.adcolony.com
+wd.adcolony.xyz
+webview.unityads.unity3d.com
+adrta.com
+ads.mygrocerydeals.com
+aktrack.pubmatic.com
+assets.ads.mygrocerydeals.com
+cdn4.crispadvertising.com
+fw.adsafeprotected.com
+imps.trk.mwstats.net
+loadr.exelator.com
+mb.moatads.com
+nym1-ib.adnxs.com
+products.mygrocerydeals.com
+pubmatic-server.thinknearhub.com
+reports.ubimo.com
+sdk-ios.ad.smaato.net
+tracker.samplicio.us
+ws.tapjoyads.com
+wv.inner-active.mobi
+ad.pandora.tv
+ads.pandora.tv.net
+adserver.pandora.com
+stats.pandora.com
 
 
 # Roku specific
@@ -36,60 +75,4 @@ windsor.logs.roku.com
 
 
 
-#Jeannie's Game Ad blocking
-adrta.com
-ads.mygrocerydeals.com
-aktrack.pubmatic.com
-assets.ads.mygrocerydeals.com
-cdn4.crispadvertising.com
-d.applvn.com
-fw.adsafeprotected.com
-imps.trk.mwstats.net
-loadr.exelator.com
-mb.moatads.com
-nym1-ib.adnxs.com
-prod-ms.applovin.com
-products.mygrocerydeals.com
-pubmatic-server.thinknearhub.com
-reports.ubimo.com
-sdk-ios.ad.smaato.net
-stage-ms.applovin.com
-tracker.samplicio.us
-ws.tapjoyads.com
-wv.inner-active.mobi
-
-
-
-#Additional Ad blocking (from Pi-Hole Logs)
-a.applvn.com
-adc3-launch.adcolony.com
-admin.appnext.com
-ads.aerserv.com
-ads.avocarrot.com
-ads30.adcolony.com
-adserver.unityads.unity3d.com
-app.appsflyer.com
-auction.unityads.unity3d.com
-config.unityads.unity3d.com
-d.applvn.com
-device-metrics-us.amazon.com
-dishanalyticsandtesting.sc.omtrdc.net
-dishpurchasingcorporation.hb-api.omtrdc.net
-events3alt.adcolony.com
-events3alt.adcolony.com
-live.chartboost.com
-rt.applovin.com
-rt.applvn.com
-v2.chartboost.com
-wd.adcolony.com
-wd.adcolony.xyz
-webview.unityads.unity3d.com
-
-
-
-# Other Commonly blacklisted domains
-# Pandora
-ad.pandora.tv
-ads.pandora.tv.net
-adserver.pandora.com
-stats.pandora.com
+#Testing Additional Ad blocking (from Pi-Hole Logs)
