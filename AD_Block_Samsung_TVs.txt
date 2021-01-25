@@ -28,7 +28,6 @@ game.internetat.tv
 gld.samsungosp.com
 gpm.samsungqbe.com
 i-stream.pl
-infolink.pavv.co.kr
 lcprd1.samsungcloudsolution.net
 lcprd2.samsungcloudsolution.net
 log-1.samsungacr.com
