@@ -38,6 +38,9 @@ live.chartboost.com
 loadr.exelator.com
 mb.moatads.com
 nym1-ib.adnxs.com
+p-adapt-a.movetv.com
+p-adapt.movetv.com
+p-stats.movetv.com
 pagead46.l.doubleclick.net
 products.mygrocerydeals.com
 pubmatic-server.thinknearhub.com
@@ -50,8 +53,6 @@ track.celtra.com
 tracker.samplicio.us
 use-tor.adsrvr.org
 v2.chartboost.com
-wd.adcolony.com
-wd.adcolony.xyz
 webview.unityads.unity3d.com
 ws.tapjoyads.com
 wv.inner-active.mobi
