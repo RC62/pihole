@@ -25,7 +25,6 @@ config.unityads.unity3d.com
 d3p8zr0ffa9t17.cloudfront.net
 d11depkj6bh0w3.cloudfront.net
 dart.l.doubleclick.net
-device-metrics-us.amazon.com
 dishanalyticsandtesting.sc.omtrdc.net
 dishpurchasingcorporation.hb-api.omtrdc.net
 ets-us-east-1.track.smaato.net
@@ -45,8 +44,6 @@ pagead46.l.doubleclick.net
 products.mygrocerydeals.com
 pubmatic-server.thinknearhub.com
 reports.ubimo.com
-sb.scorecardresearch.com
-sb.scorecardresearch.com.edgekey.net
 sdk-ios.ad.smaato.net
 stats.pandora.com
 track.celtra.com
