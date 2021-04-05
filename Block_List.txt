@@ -323,7 +323,6 @@ s.update.stickyadstv.com
 s.update.wtag.adaptv.advertising.com
 s.vertamedia.com
 s.yieldmo.com
-s.youtube.com
 s0-2mdn-net.l.google.com
 s0.2mdn.net
 s2.go-mpulse.net
