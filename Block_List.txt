@@ -814,7 +814,6 @@ ws.tapjoyads.com
 wt.soundestlink.com
 wtbevents.pricespider.com
 wv.inner-active.mobi
-www-cdn.icloud.com.akadns.net
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 www.adadvisor.net
