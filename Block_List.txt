@@ -1,5 +1,5 @@
 ### Blocked Domains Pulled from Pihole DB 2021-04-05
-# 2021-04-05_135646
+# 2021-04-07_110713
 
 outcome-ssp.supersonicads.com
 ovp.iris.tv
