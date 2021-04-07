@@ -399,7 +399,6 @@ segment-data-us-east.zqtk.net
 segment-data.zqtk.net
 segments.company-target.com
 sejs.moatads.com
-self-events-data.trafficmanager.net
 sendgrid.net
 sentry.wixpress.com
 servedby.flashtalking.com
