@@ -1,17 +1,7 @@
 ### Blocked Domains Pulled from Pihole DB 2021-04-05
-# 2021-04-09_185124
+# 2021-04-10_095202
 
 outcome-ssp.supersonicads.com
-ovp.iris.tv
-ow.pubmatic.com
-p-adapt.movetv.com
-p-aptime.gtm.movetv.com
-p-cdn-cms-cbd46b77.rtm.movetv.com
-p-cdn1-c-cg14-linear-cbd46b77.movetv.com
-p-cdn3-c-cg14-linear-cbd46b77.movetv.com
-p-cdn4-c-cg14-linear-cbd46b77.movetv.com
-p-cmwnext.movetv.com
-p-cmwpush.movetv.com
 p.ad.gt
 p.ads.roku.com
 p.adsymptotic.com
@@ -23,7 +13,6 @@ p.rfihub.com
 p.teads.tv
 p.tvpixel.com
 p.yotpo.com
-p2-buy.itunes-apple.com.akadns.net
 p11.techlab-cdn.com
 p425764.clksite.com
 pasta.esfile.duapps.com
@@ -598,14 +587,12 @@ us-east-1.event.prod.bidr.io
 us-east-1.onemobile.yahoo.com
 us-east-pbs.automatad.com
 us-gmtdmp.mookie1.com
-us-se-courier-4.push-apple.com.akadns.net
 us-tracker.inside-graph.com
 us-u.openx.net
 us-west-2.event.prod.bidr.io
 us.ads.justpremium.com
 us.tags.newscgp.com
 us04logfiles.zoom.us
-us1.roaming1.live.com.akadns.net
 usage.influxdata.com
 usage.trackjs.com
 usasync01.admantx.com
