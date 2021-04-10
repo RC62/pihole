@@ -1,3 +1,4 @@
+#  2021-04-10_101034
 # Default section
 
 ad.pandora.tv
@@ -20,6 +21,9 @@ products.mygrocerydeals.com
 pubmatic-server.thinknearhub.com
 webview.unityads.unity3d.com
 ws.tapjoyads.com
+x4w8j5q4.stackpathcdn.com
+a.appbaqend.com
+winner-lb2-f918b4c7bf5ab40c.elb.us-east-1.amazonaws.com
 
 
 # Roku specific
