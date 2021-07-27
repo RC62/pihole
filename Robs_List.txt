@@ -36,7 +36,7 @@ sugarland.logs.roku.com
 tyler.logs.roku.com
 victoria.logs.roku.com
 windsor.logs.roku.com
-
+scribe.logs.roku.com
 
 
 #Testing Additional Ad blocking (from Pi-Hole Logs)
