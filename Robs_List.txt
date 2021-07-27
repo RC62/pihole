@@ -1,4 +1,4 @@
-# 2021-07-27_105020
+# 2021-07-27_110106
 # Default section
 
 ad.pandora.tv
@@ -24,19 +24,6 @@ ws.tapjoyads.com
 x4w8j5q4.stackpathcdn.com
 a.appbaqend.com
 winner-lb2-f918b4c7bf5ab40c.elb.us-east-1.amazonaws.com
-
-
-# Roku specific
-
-cooper.logs.roku.com
-giga.logs.roku.com
-griffin.logs.roku.com
-paolo.logs.roku.com
-sugarland.logs.roku.com
-tyler.logs.roku.com
-victoria.logs.roku.com
-windsor.logs.roku.com
-scribe.logs.roku.com
 
 
 #Testing Additional Ad blocking (from Pi-Hole Logs)
