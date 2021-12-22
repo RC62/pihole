@@ -446,7 +446,6 @@ p.tvpixel.com
 p.yotpo.com
 pagead2.googlesyndication.com
 partner.googleadservices.com
-partnerad.l.doubleclick.net
 paywall-prod.appspot.com
 peoplegraph.firstpartyapps.oaspapps.com
 phillateemis.iad-03.braze.com
