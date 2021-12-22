@@ -811,7 +811,6 @@ mediag2481ed.airspace-e.cbsivideo.com
 mediag2481ed.airspace-f.cbsivideo.com
 sb55-gslb.cbsivideo.com
 sb55.ns1.cbsivideo.com
-syncbak-gslb.cbsivideo.com
 trial-measurements-akamai.cbsivideo.com
 vod62c350g.airspace-a.cbsivideo.com
 vod62c350g.airspace-c.cbsivideo.com
