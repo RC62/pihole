@@ -158,7 +158,7 @@ ca.iadsdk.apple.com
 cache.addthiscdn.com
 capture.trackjs.com
 cbsi.com.ssl.sc.omtrdc.net
-cbsinteractive.hb.omtrdc.net
+
 ccpa.sp-prod.net
 cdn-engagement.inmarket.com
 cdn-gl.imrworldwide.com
