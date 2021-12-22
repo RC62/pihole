@@ -678,7 +678,6 @@ usermatch.krxd.net
 usersync.samplicio.us
 ut.iadsdk.apple.com
 v.adsrvr.org
-va-edge.sc.omtrdc.net
 va6-bid.adsrvr.org
 vad-bid.adsrvr.org
 vae-bid.adsrvr.org
