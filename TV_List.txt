@@ -789,7 +789,13 @@ vod62c350g.airspace-f.cbsivideo.com
 vodc206gb6.airspace-f.cbsivideo.com
 #
 #
-#  These are covered by Regex
+#   Channel 9 Related Domains
+rr1.sn-5uaeznr6.googlevideo.com
+rr3.sn-5uaezn6r.googlevideo.com
+rr4.sn-5uaeznde.googlevideo.com
+#
+#
+#  These are covered by a Regex
 #  (.*\.|^)dns-clientinfo\.cbsivideo\.com$
 #
 #	00c21c5b-8ec9-437b-bca2-6c221616ccbe.dns-clientinfo.cbsivideo.com
