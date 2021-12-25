@@ -789,10 +789,13 @@ vod62c350g.airspace-f.cbsivideo.com
 vodc206gb6.airspace-f.cbsivideo.com
 #
 #
-#   Channel 9 Related Domains
+#   Channel 6 and 9 Related Ad Domains
 rr1.sn-5uaeznr6.googlevideo.com
 rr3.sn-5uaezn6r.googlevideo.com
 rr4.sn-5uaeznde.googlevideo.com
+rr4---sn-5ualdnee.googlevideo.com
+rr4.sn-5ualdne7.googlevideo.com
+rr4---sn-5ualdne7.googlevideo.com
 #
 #
 #  These are covered by a Regex
