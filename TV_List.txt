@@ -34,7 +34,6 @@ ad.doubleclick.net
 adc3-launch.adcolony.com
 ade.googlesyndication.com
 ads-brand-postback.unityads.unity3d.com
-ads-v-darwin.hulu.com.c.footprint.net
 ads.adap.tv
 ads.adaptv.advertising.com
 ads.adthrive.com
