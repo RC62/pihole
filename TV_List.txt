@@ -800,6 +800,10 @@ rr2---sn-5ualdne7.googlevideo.com
 rr4.sn-5uaeznks.googlevideo.com
 rr4.sn-5ualdn7s.gvt1.com
 rr4---sn-5ualdn7s.gvt1.com
+rr6.sn-5uaeznde.googlevideo.com
+rr6---sn-5uaeznde.googlevideo.com
+rr2.sn-5uaeznyy.googlevideo.com
+rr2---sn-5uaeznyy.googlevideo.com
 #
 #
 #
