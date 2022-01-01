@@ -1161,7 +1161,7 @@ s0-2mdn-net.l.google.com
 s0.2mdn.net
 s7.addthis.com
 s8t.teads.tv
-saa.cbsi.com
+# saa.cbsi.com    # Breaks Paramount+
 saa.paramountplus.com
 samples.voice.cti.roku.com
 sandbox.googleanalytics.com
@@ -1656,48 +1656,48 @@ zw.googletagmanager.com
 #
 #  Dunno if these will break paramount plus tv
 #
-12edcee5f0d8.airspace-cdn.cbsivideo.com
-194946ab287g.airspace-cdn.cbsivideo.com
-396f832070f1.airspace-cdn.cbsivideo.com
-3e1a775f2869.airspace-cdn.cbsivideo.com
-58a3bb5h4170.airspace-cdn.cbsivideo.com
-9bad1hc5f8e6-f.airspace-cdn.cbsivideo.com
-airspace-a.cbsivideo.com
-airspace-c.cbsivideo.com
-airspace-cdn.cbsivideo.com
-airspace-e.cbsivideo.com
-airspace-f.cbsivideo.com
-bf97c3bec615.airspace-cdn.cbsivideo.com
-cbsivideo.com
-cbsndal-live.fa-doppler-cbsn.ns1.cbsivideo.com
-cfed548hfehe.airspace-cdn.cbsivideo.com
-dev.cbsivideo.com
-dicta6f14bcd.airspace-cdn.cbsivideo.com
-doppler-config.cbsivideo.com
-doppler-config.dev.cbsivideo.com
-doppler-error.cbsivideo.com
-doppler-goog.cbsivideo.com
-doppler-tasks.cbsivideo.com
-ec3fb3aa18ae.airspace-cdn.cbsivideo.com
-edge463ghf8.airspace-c.cbsivideo.com
-edge463ghf8.airspace-e.cbsivideo.com
-edge463ghf8.airspace-f.cbsivideo.com
-ef801g48af76.airspace-cdn.cbsivideo.com
-gslb.sb55.ns1.cbsivideo.com
-livec0a3575.airspace-c.cbsivideo.com
-livec0a3575.airspace-e.cbsivideo.com
-livec0a3575.airspace-f.cbsivideo.com
-mediag2481ed.airspace-cdn.cbsivideo.com
-mediag2481ed.airspace-e.cbsivideo.com
-mediag2481ed.airspace-f.cbsivideo.com
-sb55-gslb.cbsivideo.com
-sb55.ns1.cbsivideo.com
-trial-measurements-akamai.cbsivideo.com
-vod62c350g.airspace-a.cbsivideo.com
-vod62c350g.airspace-c.cbsivideo.com
-vod62c350g.airspace-e.cbsivideo.com
-vod62c350g.airspace-f.cbsivideo.com
-vodc206gb6.airspace-f.cbsivideo.com
+#	12edcee5f0d8.airspace-cdn.cbsivideo.com
+#	194946ab287g.airspace-cdn.cbsivideo.com
+#	396f832070f1.airspace-cdn.cbsivideo.com
+#	3e1a775f2869.airspace-cdn.cbsivideo.com
+#	58a3bb5h4170.airspace-cdn.cbsivideo.com
+#	9bad1hc5f8e6-f.airspace-cdn.cbsivideo.com
+#	airspace-a.cbsivideo.com
+#	airspace-c.cbsivideo.com
+#	airspace-cdn.cbsivideo.com
+#	airspace-e.cbsivideo.com
+#	airspace-f.cbsivideo.com
+#	bf97c3bec615.airspace-cdn.cbsivideo.com
+#	cbsivideo.com
+#	cbsndal-live.fa-doppler-cbsn.ns1.cbsivideo.com
+#	cfed548hfehe.airspace-cdn.cbsivideo.com
+#	dev.cbsivideo.com
+#	dicta6f14bcd.airspace-cdn.cbsivideo.com
+#	doppler-config.cbsivideo.com
+#	doppler-config.dev.cbsivideo.com
+#	doppler-error.cbsivideo.com
+#	doppler-goog.cbsivideo.com
+#	doppler-tasks.cbsivideo.com
+#	ec3fb3aa18ae.airspace-cdn.cbsivideo.com
+#	edge463ghf8.airspace-c.cbsivideo.com
+#	edge463ghf8.airspace-e.cbsivideo.com
+#	edge463ghf8.airspace-f.cbsivideo.com
+#	ef801g48af76.airspace-cdn.cbsivideo.com
+#	gslb.sb55.ns1.cbsivideo.com
+#	livec0a3575.airspace-c.cbsivideo.com
+#	livec0a3575.airspace-e.cbsivideo.com
+#	livec0a3575.airspace-f.cbsivideo.com
+#	mediag2481ed.airspace-cdn.cbsivideo.com
+#	mediag2481ed.airspace-e.cbsivideo.com
+#	mediag2481ed.airspace-f.cbsivideo.com
+#	sb55-gslb.cbsivideo.com
+#	sb55.ns1.cbsivideo.com
+#	trial-measurements-akamai.cbsivideo.com
+#	vod62c350g.airspace-a.cbsivideo.com
+#	vod62c350g.airspace-c.cbsivideo.com
+#	vod62c350g.airspace-e.cbsivideo.com
+#	vod62c350g.airspace-f.cbsivideo.com
+#	vodc206gb6.airspace-f.cbsivideo.com
 #
 #
 #   Channel 6 and 9 Related Ad Domains
