@@ -1004,7 +1004,7 @@ pagead2.googlesyndication.com
 pagead3.googlesyndication.com
 pagead46.googlesyndication.com
 partner.googleadservices.com
-partnerad.l.doubleclick.net
+# partnerad.l.doubleclick.net    #Breaks Paramount+
 partnerad.l.google.com
 partnerssl.googleadservices.com
 passwordgoogle.com
