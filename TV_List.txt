@@ -1,5 +1,5 @@
 # Block List for Apple TV
-# 2021-12-22_091411
+# 2022-01-01
 0.afs.googleadservices.com
 10.72.105.165googleanalytics.matomo.cloud
 10.afs.googleadservices.com
@@ -45,7 +45,6 @@ ad-thd-east.tagdelivery.com
 ad.doubleclick.net
 adc3-launch.adcolony.com
 ade.googlesyndication.com
-ade.googlesyndication.com
 adrtb-google-use.sundaysky.com
 adrtb-google-usw.sundaysky.com
 adrtb-google-usw1.sundaysky.com
@@ -78,7 +77,6 @@ adservice.google.co.in.domain.name
 adservice.google.co.jp
 adservice.google.co.uk
 adservice.google.co.za
-adservice.google.com
 adservice.google.com
 adservice.google.com.au
 adservice.google.com.br.domain.name
@@ -117,7 +115,6 @@ amp.akamaized.net
 amp.casalemedia.com
 amp.mediavine.com
 ampcid.google.co.id.domain.name
-ampcid.google.com
 ampcid.google.com
 amplify.outbrain.com
 amprtc.media.net
@@ -465,7 +462,6 @@ go.ezoic.net
 gogoogle.aniview.com
 gogoogle.digitalremedy.com
 google-analytics.com
-google-analytics.com
 google-analytics.touchdownworld.cz
 google-api.secure.blismedia.com
 google-bidder.ads.wish.com
@@ -611,11 +607,9 @@ google9560.clickfunnels.com
 google98474mc.clickfunnels.com
 googleadapis.l.google.com
 googleads.g.doubleclick.net
-googleads.g.doubleclick.net
 googleads.g.doubleclick.net.domain.name
 googleads.github.io
 googleads2.g.doubleclick.net
-googleads4.g.doubleclick.net
 googleads4.g.doubleclick.net
 googleads4.g.doubleclick.net.domain.name
 googleadservices.com
@@ -1007,11 +1001,10 @@ pagead.l.google.com
 pagead1.googlesyndication.com
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
-pagead2.googlesyndication.com
 pagead3.googlesyndication.com
 pagead46.googlesyndication.com
 partner.googleadservices.com
-partner.googleadservices.com
+partnerad.l.doubleclick.net
 partnerad.l.google.com
 partnerssl.googleadservices.com
 passwordgoogle.com
@@ -1105,6 +1098,7 @@ rc.rlcdn.com
 reachms.bfmio.com
 readmo.yahoo.com
 redirector.c.googlesyndication.com
+redirector.gvt1.com
 redirectvirusgoogle.accountkit.com
 redirectvirusgoogle.whitedate.net
 referrer.disqus.com
@@ -1247,7 +1241,6 @@ ssbsync-global.smartadserver.com
 ssc.33across.com
 ssl-google-analytics.l.google.com
 ssl.google-analytics.com
-ssl.google-analytics.com
 ssl.google-analytics.comstatic.xx.fbcdn.nett.skimresources.com
 ssl.googleanalytics.com
 ssl.googlemaail.com
@@ -1325,7 +1318,6 @@ tiger.googlemaail.com
 tlx.3lift.com
 tn.alphonso.tv
 token.rubiconproject.com
-tpc.googlesyndication.com
 tpc.googlesyndication.com
 tpcnc.googlesyndication.com
 tps.doubleverify.com
@@ -1515,9 +1507,7 @@ ww38.xn--wwwgoogle-d4a.com
 ww8.googleprank.com
 www-gh.googletagmanager.com
 www-google-analytics.l.google.com
-www-google-analytics.l.google.com
 www-google.nl
-www-googletagmanager.l.google.com
 www-googletagmanager.l.google.com
 www-lax0.googletagmanager.com
 www-lax3.googletagmanager.com
@@ -1546,7 +1536,6 @@ www.frgoogle.com
 www.gbordercorruption.apps.cironline.orgoogle.com
 www.gigoogle.com
 www.google-analytics.com
-www.google-analytics.com
 www.google-chrome-beta.apponic.com
 www.google-deckoffice.ml
 www.google-docs.com
@@ -1574,7 +1563,6 @@ www.google20d4.clickfunnels.com
 www.google2411017785.clickfunnels.com
 www.googleads.github.io
 www.googleadservices.com
-www.googleadservices.com
 www.googleailesi.com
 www.googleanalytics.com
 www.googleapis.cn.domain.name
@@ -1589,7 +1577,6 @@ www.googlemaail.com
 www.googlemerchant.com
 www.googlenewssubmit.com
 www.googleoptimize.com
-www.googleoptimize.com
 www.googleplas.com
 www.googleplaystor.com
 www.googleplaystoreapks.com
@@ -1598,9 +1585,7 @@ www.googlerive.com
 www.googlesettings.com
 www.googlessites.com
 www.googletagmanager.com
-www.googletagmanager.com
 www.googletagservice.com
-www.googletagservices.com
 www.googletagservices.com
 www.googlevideosx.com
 www.googlew.com
@@ -1717,6 +1702,10 @@ vodc206gb6.airspace-f.cbsivideo.com
 #
 #   Channel 6 and 9 Related Ad Domains
 #
+r1---sn-5ualdnee.googlevideo.com
+r1.sn-5ualdnee.googlevideo.com
+r3---sn-5uaeznrz.googlevideo.com
+r3.sn-5uaeznrz.googlevideo.com
 rr1.sn-5uaeznr6.googlevideo.com
 rr2---sn-5uaeznyy.googlevideo.com
 rr2---sn-5ualdne7.googlevideo.com
@@ -1730,43 +1719,10 @@ rr4.sn-5uaeznde.googlevideo.com
 rr4.sn-5uaeznks.googlevideo.com
 rr4.sn-5ualdn7s.gvt1.com
 rr4.sn-5ualdne7.googlevideo.com
+rr4.sn-5ualdnll.googlevideo.com
+rr5---sn-5uaeznzk.googlevideo.com
+rr5---sn-5ualdn7e.googlevideo.com
+rr5.sn-5uaeznzk.googlevideo.com
+rr5.sn-5ualdn7e.googlevideo.com
 rr6---sn-5uaeznde.googlevideo.com
 rr6.sn-5uaeznde.googlevideo.com
-#
-#
-#
-#  These are covered by a Regex
-#  (.*\.|^)dns-clientinfo\.cbsivideo\.com$
-#
-#	00c21c5b-8ec9-437b-bca2-6c221616ccbe.dns-clientinfo.cbsivideo.com
-#	013762a7-5bfa-491c-ab05-eab833c21400.dns-clientinfo.cbsivideo.com
-#	019b0330-bd57-4edb-a304-f0a609aab7d8.dns-clientinfo.cbsivideo.com
-#	01bb47a7-5c61-43c4-bbf1-e73f879e9655.dns-clientinfo.cbsivideo.com
-#	02c12e0a-cf5d-4872-a32a-2078bf24dd4d.dns-clientinfo.cbsivideo.com
-#	02c9367e-f9a1-4f47-a357-7d96c73e9890.dns-clientinfo.cbsivideo.com
-#	03122c12-6cc5-4170-acb1-6e983f8a809b.dns-clientinfo.cbsivideo.com
-#	031c1ac1-6ea7-47e3-9abb-f6e0c5e02a4b.dns-clientinfo.cbsivideo.com
-#	0359bda4-63b6-45ba-95f6-0aede1e6e2de.dns-clientinfo.cbsivideo.com
-#	04179f9c-0329-4bbb-9e03-a72a97f37595.dns-clientinfo.cbsivideo.com
-#	0540cdf1-2a31-4c4c-952a-b9b04add1ba2.dns-clientinfo.cbsivideo.com
-#	05883696-52a2-487e-ba84-e38713c053ed.dns-clientinfo.cbsivideo.com
-#	05dc2b0b-012e-4d2b-bee6-a335b5540ebc.dns-clientinfo.cbsivideo.com
-#	0714b4ea-90cb-498d-9d12-25c2f11e9865.dns-clientinfo.cbsivideo.com
-#	07c08061-c88f-4ce8-9f62-af08e560ddb0.dns-clientinfo.cbsivideo.com
-#	086c5b84-2b66-4007-a13d-e1b8a8a7028a.dns-clientinfo.cbsivideo.com
-#	09920dcc-1ba3-44af-8b00-eb296dc442cd.dns-clientinfo.cbsivideo.com
-#	0b0c6ab6-757d-4f64-81ee-8ef576873257.dns-clientinfo.cbsivideo.com
-#	0b8e8a2e-49c8-446b-b3de-9b2a4d8a4b1c.dns-clientinfo.cbsivideo.com
-#	0c9ff2a6-1cf4-446e-b483-0ab22f8c544f.dns-clientinfo.cbsivideo.com
-#	0dd7a353-beef-42ad-9cdc-6ce7b66ae667.dns-clientinfo.cbsivideo.com
-#	107ee2d0-3e01-43b7-88c2-25a2774cb300.dns-clientinfo.cbsivideo.com
-#	11fafc19-585e-4770-bf73-fa063101ecfa.dns-clientinfo.cbsivideo.com
-#	1221e6e3-212f-48d1-aea5-7c5f41a4f986.dns-clientinfo.cbsivideo.com
-#	12a6e114-ece5-4943-bb4b-f64794420221.dns-clientinfo.cbsivideo.com
-#	13761e36-4c9f-44a8-87f4-9c413b5b03db.dns-clientinfo.cbsivideo.com
-#	1380d5b8-c10c-4a4a-aeab-dda4396f955a.dns-clientinfo.cbsivideo.com
-#	1610c7cf-0eba-4ca4-9f96-93b77125e065.dns-clientinfo.cbsivideo.com
-#	28c61455-7ada-4026-9b8c-d68db10daca0.dns-clientinfo.cbsivideo.com
-#	960a31d8-35c1-46f1-8fb2-057be076d34e.dns-clientinfo.cbsivideo.com
-#	dns-clientinfo.cbsivideo.com
-#	f40fb9db-8cf1-4071-ba6a-085c4a7d1a88.dns-clientinfo.cbsivideo.com
