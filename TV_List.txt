@@ -1,5 +1,7 @@
 # Block List for Apple TV
 # 2022-01-01
+# partnerad.l.doubleclick.net    #Breaks Paramount+
+# saa.cbsi.com    # Breaks Paramount+
 0.afs.googleadservices.com
 10.72.105.165googleanalytics.matomo.cloud
 10.afs.googleadservices.com
@@ -136,6 +138,7 @@ api-google-v3.conductrics.com
 api-google.conductrics.com
 api-public.addthis.com
 api.amplitude.com
+api.apple.go.yahoo.com
 api.apptentive.com
 api.branch.io
 api.btloader.com
@@ -164,6 +167,7 @@ app.adjust.net.in
 app.adjust.world
 app.pendo.io
 app.whoisvisiting.com
+apple-finance.query.yahoo.com
 apps.elfsight.com
 apps.nexus.bazaarvoice.com
 appsrv.display.io
@@ -180,6 +184,7 @@ assets.huluim.com
 assets.kochava.com
 assets.micpn.com
 assets.rbl.ms
+assets.video.yahoo.net
 atozgoogle.onesignal.com
 ats.rlcdn.com
 auction-banner.unityads.unity3d.com
@@ -289,6 +294,7 @@ cdn9.forter.com
 cdp.cloud.unity3d.com
 celebsunmasked.googletagmanager.com
 cella.home.hedbor.org
+cerebro.edna.yahoo.net
 certify-amp.alexametrics.com
 cf.iadsdk.apple.com
 check.analytics.rlcdn.com
@@ -338,6 +344,7 @@ correo.googlemaail.com
 counter.theconversation.com
 crashlytics2.l.google.com
 crashlyticsreports-pa.googleapis.com
+csp.yahoo.com
 cstat.apple.com
 csync.loopme.me
 ct.pinterest.com
@@ -380,6 +387,9 @@ displayads-formats.googleusercontent.com
 distance.googletagmanager.com
 dl.googleplaystoreapks.com
 dmp.truoptik.com
+dns-7yfo8alm2.sombrero.yahoo.net
+dns-j7m48m1uq.sombrero.yahoo.net
+dns-plkjdlk68.sombrero.yahoo.net
 dns.google
 dns64.dns.google
 dns64.dns.google.domain.name
@@ -396,13 +406,20 @@ drive.google.com.it-barcelona.com
 drive.googledrie.com
 drive.googlerive.com
 drm-google-analtyic.com
+ds-oob-fo-media-router1.prod.media.g01.yahoodns.net
 dsa.moatads.com
 dts.innovid.com
 e-distance.googletagmanager.com
 e.deployads.com
 eb2.3lift.com
+edge-mcdn.secure.yahoo.com
+edge.gycpi.b.yahoodns.net
+edgecast-cf-prod.yahoo.net
+edgecast-vod.yahoo.net
 email.googlemaail.com
 email.googlesettings.com
+embed.fireplace.yahoo.com
+embed.video.yahoo.com
 engage10854wrdcr.deltadna.net
 entitlements.jwplayer.com
 eq97f.publishers.tremorhub.com
@@ -443,9 +460,11 @@ fundingchoices.google.com
 fundingchoicesmessages.google.com
 fw.adsafeprotected.com
 g2.gumgum.com
+gallery.tv.widgets.yahoo.com
 gateway.foresee.com
 gateway.googlemaail.com
 gcdn.2mdn.net
+geo-applefinance-cache.internal.query.g03.yahoodns.net
 geo.moatads.com
 geolocation.onetrust.com
 get.s-onetag.com
@@ -859,6 +878,7 @@ mb.moatads.com
 mbox.google-docs.com
 mbox.googlemaail.com
 mbox.googlesettings.com
+media-router-brb1.prod.media.g03.yahoodns.net
 meeting.googlerive.com
 metamask.googletagmanager.com
 meter-svc.nytimes.com
@@ -922,11 +942,14 @@ nbcstreaming.hb.omtrdc.net
 neewgoogle.com
 network.bazaarvoice.com
 networksdk.ssacdn.com
+new-news.g06.yahoodns.net
 new.google-docs.com
 newmail.google-docs.com
 newmail.googlemaail.com
 news-server-drm-google.com
+news-yahoo-com.cdn.ampproject.org
 news.googlerive.com
+news.yahoo.com
 nexus.ensighten.com
 nic.googlerive.com
 nlwww.google.sewww.yahoo.comwww.youtube.devops.comads.adap.tv
@@ -1004,7 +1027,6 @@ pagead2.googlesyndication.com
 pagead3.googlesyndication.com
 pagead46.googlesyndication.com
 partner.googleadservices.com
-# partnerad.l.doubleclick.net    #Breaks Paramount+
 partnerad.l.google.com
 partnerssl.googleadservices.com
 passwordgoogle.com
@@ -1161,7 +1183,6 @@ s0-2mdn-net.l.google.com
 s0.2mdn.net
 s7.addthis.com
 s8t.teads.tv
-# saa.cbsi.com    # Breaks Paramount+
 saa.paramountplus.com
 samples.voice.cti.roku.com
 sandbox.googleanalytics.com
@@ -1362,7 +1383,17 @@ usage.trackjs.com
 usermatch.krxd.net
 usersync.samplicio.us
 ut.iadsdk.apple.com
+v-ab85mqbvka.wc.yahoodns.net
+v-au6j7aep9j.wc.yahoodns.net
+v-ay796kl8po.wc.yahoodns.net
+v-b539ns2qy6.wc.yahoodns.net
+v-bbbx9d7ilu.wc.yahoodns.net
+v-bkppvujqwv.wc.yahoodns.net
+v-c1opxza2v7.wc.yahoodns.net
+v-c2zz1d53ar.wc.yahoodns.net
+v-cbg2tgpha4.wc.yahoodns.net
 v.adsrvr.org
+v4-edge.gycpi.b.yahoodns.net
 va6-bid.adsrvr.org
 vaccin-timisoara.googletagmanager.com
 vaccin.googletagmanager.com
@@ -1379,6 +1410,7 @@ vid.springserve.com
 video-ad-stats.googlesyndication.com
 video-ads-module.ad-tech.nbcuni.com
 video-ads.rubiconproject.com
+video-api.yql.yahoo.com
 video-stats.video.google.com
 video.adsafeprotected.com
 video.moatads.com
@@ -1390,6 +1422,8 @@ virusisrbija.googletagmanager.com
 viruslex.googletagmanager.com
 vmail.googlemaail.com
 vnet.googlemaail.com
+vop-yahoo.akamaized.net
+vop-yahoo.secure.footprint.net
 vtrk.doubleverify.com
 w.usabilla.com
 wam-google.solution.weborama.fr
@@ -1639,6 +1673,8 @@ xn--wwwgoogle-d4a.com
 xnsx.translategoogle.com
 xp.apple.com131788053.log.optimizely.comaccounts.google.comad.sxp.smartclip.net
 xroads.googletagmanager.com
+yahoovod.hs.llnwd.net
+yep.video.yahoo.com
 yogoogle.com
 z-net.pilen.nordnet.segoogle.com
 z.cdp-dev.cnn.com

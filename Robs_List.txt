@@ -1,30 +1,66 @@
 # 2021-07-29_102826
 # Default section
 
+a.appbaqend.com
 ad.pandora.tv
 admin.appnext.com
 ads.eastus.trafficmanager.net
 ads.mygrocerydeals.com
 ads.pandora.tv.net
+api.apple.go.yahoo.com
+apple-finance.query.yahoo.com
 apple.comscoreresearch.com
 assets.ads.mygrocerydeals.com
+assets.video.yahoo.net
+cerebro.edna.yahoo.net
+csp.yahoo.com
 d11depkj6bh0w3.cloudfront.net
 dart.l.doubleclick.net
 dishanalyticsandtesting.sc.omtrdc.net
 dishpurchasingcorporation.hb-api.omtrdc.net
+dns-7yfo8alm2.sombrero.yahoo.net
+dns-j7m48m1uq.sombrero.yahoo.net
+dns-plkjdlk68.sombrero.yahoo.net
+ds-oob-fo-media-router1.prod.media.g01.yahoodns.net
+edge-mcdn.secure.yahoo.com
+edge.gycpi.b.yahoodns.net
+edgecast-cf-prod.yahoo.net
+edgecast-vod.yahoo.net
+embed.fireplace.yahoo.com
+embed.video.yahoo.com
+gallery.tv.widgets.yahoo.com
+geo-applefinance-cache.internal.query.g03.yahoodns.net
 imps.trk.mwstats.net
+media-router-brb1.prod.media.g03.yahoodns.net
+new-news.g06.yahoodns.net
+news-yahoo-com.cdn.ampproject.org
+news.yahoo.com
 p-adapt-a.movetv.com
 p-adapt.movetv.com
 p-stats.movetv.com
 pagead46.l.doubleclick.net
 products.mygrocerydeals.com
 pubmatic-server.thinknearhub.com
+sp.analytics.yahoo.com
+v-ab85mqbvka.wc.yahoodns.net
+v-au6j7aep9j.wc.yahoodns.net
+v-ay796kl8po.wc.yahoodns.net
+v-b539ns2qy6.wc.yahoodns.net
+v-bbbx9d7ilu.wc.yahoodns.net
+v-bkppvujqwv.wc.yahoodns.net
+v-c1opxza2v7.wc.yahoodns.net
+v-c2zz1d53ar.wc.yahoodns.net
+v-cbg2tgpha4.wc.yahoodns.net
+v4-edge.gycpi.b.yahoodns.net
+video-api.yql.yahoo.com
+vop-yahoo.akamaized.net
+vop-yahoo.secure.footprint.net
 webview.unityads.unity3d.com
+winner-lb2-f918b4c7bf5ab40c.elb.us-east-1.amazonaws.com
 ws.tapjoyads.com
 x4w8j5q4.stackpathcdn.com
-a.appbaqend.com
-winner-lb2-f918b4c7bf5ab40c.elb.us-east-1.amazonaws.com
-
+yahoovod.hs.llnwd.net
+yep.video.yahoo.com
 
 
 
