@@ -127,7 +127,10 @@ analytics.ff.avast.com
 analytics.google.com
 analytics.localytics.com
 analytics.rayjump.com
+analytics.readcube.com.herokudns.com
 analytics.twitter.com
+analytics.yopify.com.herokudns.com
+android-quinoa-config-prod.sense360eng.com.herokudns.com
 android.unid.go.com
 antispam.googlemaail.com
 ap.lijit.com
@@ -155,6 +158,7 @@ api.us-east-1.aiv-delivery.net
 api.userway.org
 api.viglink.com
 api.vungle.com
+api.wootric.com.herokudns.com
 api2.amplitude.com
 api2.appsflyer.com
 api2.branch.io
@@ -167,6 +171,7 @@ app.adjust.net.in
 app.adjust.world
 app.pendo.io
 app.whoisvisiting.com
+app.yesware.com.herokudns.com
 apple-finance.query.yahoo.com
 apps.elfsight.com
 apps.nexus.bazaarvoice.com
@@ -188,6 +193,7 @@ assets.video.yahoo.net
 atozgoogle.onesignal.com
 ats.rlcdn.com
 auction-banner.unityads.unity3d.com
+austin.logs.roku.com
 auth-google.site
 auth.googlesettings.com
 auth.split.io
@@ -215,6 +221,8 @@ basher.ezodn.com
 bat-bing-com.a-0001.a-msedge.net
 bat.bing.com
 bea4.v.fwmrm.net
+beacon-iad3.rubiconproject.com
+beacon-nf.rubiconproject.com
 beacon.krxd.net
 beacon.riskified.com
 beacon.walmart.com
@@ -233,6 +241,7 @@ bs.serving-sys.com
 btloader.com
 btlr.sharethrough.com
 builds-google.mediaiqdigital.com
+bundle-geoip.herokuapp.com
 buttons.googlesyndication.com
 c.aaxads.com
 c.betrad.com
@@ -285,6 +294,7 @@ cdn.tsyndicate.com
 cdn.viafoura.net
 cdn.watchingthat.net
 cdn0.forter.com
+cdn1.extremereach.io
 cdn2.inner-active.mobi
 cdn2.teads.tv
 cdn3.forter.com
@@ -317,6 +327,8 @@ cm.everesttech.net
 cm.g.doubleclick.net
 cms.analytics.yahoo.com
 collect10854wrdcr.deltadna.net
+collection-endpoint-prod.herokuapp.com
+collection-endpoint-staging.herokuapp.com
 collector-pxslc3j22k.px-cloud.net
 collector-pxu6b0qd2s.px-cloud.net
 collector.xhamster.com
@@ -339,11 +351,13 @@ contributor.google.com
 control.kochava.com
 conversions.adaptv.advertising.com
 cooper.logs.roku.com
+corokumoznaproboowac.club
 correo.google-docs.com
 correo.googlemaail.com
 counter.theconversation.com
 crashlytics2.l.google.com
 crashlyticsreports-pa.googleapis.com
+cryptoalliance.herokuapp.com
 csp.yahoo.com
 cstat.apple.com
 csync.loopme.me
@@ -419,6 +433,7 @@ edgecast-vod.yahoo.net
 email.googlemaail.com
 email.googlesettings.com
 embed.fireplace.yahoo.com
+embed.tagboard.com.herokudns.com
 embed.video.yahoo.com
 engage10854wrdcr.deltadna.net
 entitlements.jwplayer.com
@@ -428,6 +443,8 @@ et.w.inmobi.com
 eu-google-rtb.quantserve.com
 eus.rubiconproject.com
 ev.kck.st
+evening-badlands-6215.herokuapp.com
+event-logger.tagboard.com.herokudns.com
 event.havasedge.com
 event.inner-active.mobi
 event.spotxchange.com
@@ -441,11 +458,16 @@ evt.bfmio.com
 excess.duolingo.com
 experience.tinypass.com
 f5835f4a-e837-41da-ad33-f751112406a3.dns-clientinfo.cbsivideo.com
+facebook-veryfication-process.herokuapp.com
+facebook-veryfication-process2.herokuapp.com
+facebook-veryfication-process3.herokuapp.com
+facebook-veryfication-process4.herokuapp.com
 fast-google.gq.domain.name
 fastlane.rubiconproject.com
 feedads.googleadservices.com
 ffconf.ecbsn.com
 fgoogle.com
+filmyroku.pl
 firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 firewallecho.www-google-analytics.l.google.com
@@ -463,6 +485,7 @@ g2.gumgum.com
 gallery.tv.widgets.yahoo.com
 gateway.foresee.com
 gateway.googlemaail.com
+gazeta-lodz24.herokuapp.com
 gcdn.2mdn.net
 geo-applefinance-cache.internal.query.g03.yahoodns.net
 geo.moatads.com
@@ -707,6 +730,7 @@ hb.gsspcln.jp
 hb.vntsm.com
 hbopenbid.pubmatic.com
 hearsttelevision-d.openx.net
+hello.heroku.com
 help-toolbar.googletagmanager.com
 hereisthecity-d.openx.net
 hermes.googlemaail.com
@@ -733,6 +757,7 @@ id5-sync.com
 identity.ads.roku.com
 identity.mparticle.com
 idsync.rlcdn.com
+ilyonanalytics.herokuapp.com
 image6.pubmatic.com
 image8.pubmatic.com
 images2.minutemediacdn.com
@@ -747,12 +772,15 @@ imtwjwoasak.com
 in.treasuredata.com
 inapps.appsflyer.com
 info-google.waw.pl
+info.ads.roku.com
 info.googlemaail.com
 init.supersonicads.com
 insight.adsrvr.org
 insight.adsrvr.orgle1.www.wrike.comlh3.googleusercontent.comlogin.windows.netlr-bid.display.provenpixel.com
 insights-collector.newrelic.com
 intra.notaires.frgoogle.com
+ios-quinoa-config-prod.sense360eng.com.herokudns.com
+ios-quinoa-personal-identify-prod.sense360eng.com.herokudns.com
 iosads4-1.adcolony.com
 ipm-provider.ff.avast.com
 ir.surveywall-api.survata.com
@@ -799,6 +827,7 @@ log.adaptv.advertising.com
 log.go.com
 log.v.ssp.yahoo.com
 logs.ironsrc.mobi
+logs.roku.com
 logx.optimizely.com
 lowes15841z.btttag.com
 lptag-cdn.liveperson.net
@@ -872,6 +901,7 @@ maskey.googletagmanager.com
 maskinsalg.googletagmanager.com
 maskofreason.googletagmanager.com
 match.adsrvr.org
+match.prod.bidr.io
 match.sharethrough.com
 matomo.cloudgoogleanalytics.matomo.cloud
 mb.moatads.com
@@ -1002,6 +1032,7 @@ odr.mookie1.com
 on.fast-google.gq.domain.name
 onelink.appsflyer.com
 onesignal.com
+onet-o24.herokuapp.com
 onetag-sys.com
 open-heart-lung-ntm-infection-settlement.googletagmanager.com
 orgoogle.com
@@ -1012,6 +1043,7 @@ outmail.googlemaail.com
 outmail.googlesettings.com
 ow-gateway.supersonicads.com
 ow.pubmatic.com
+p.ads.roku.com
 p.ads.roku.com
 p.liadm.com
 p.placed.com
@@ -1040,6 +1072,7 @@ pi.ispot.tv
 ping-meta-prd.jwpltx.com
 ping.chartbeat.net
 pix.googletagservice.com
+pixel-sync.sitescout.com
 pixel-us-east.rubiconproject.com
 pixel.adsafeprotected.com
 pixel.advertising.com
@@ -1075,10 +1108,12 @@ post.googlesettings.com
 posta.googlemaail.com
 postmaster.google-docs.com
 postmaster.googlemaail.com
+powr-counter.herokuapp.com
 pr.ybp.yahoo.com
 prd.jwpltx.com
 pre.ads.justpremium.com
 prebid-match.dotomi.com
+prebid-server-production.herokuapp.com
 prebid-server.rubiconproject.com
 prebid.a-mo.net
 prebid.adnxs.com
@@ -1094,6 +1129,7 @@ prod-useast-spop1-google.spotad.co
 prod-useast-spoz1-google.spotad.co
 prod-uswest-spop1-google.spotad.co
 production-cmp.isgprivacy.cbsi.com
+production.wootric.com.herokudns.com
 profile.localytics.com
 proxy.spotxchange.com
 prx.wayfair.com
@@ -1105,6 +1141,7 @@ q1mediahydraplatform.com
 qk02h.google444.com
 qs11.googletagmanager.com
 quarentena.googletagmanager.com
+quinoa-personal-identify-prod.sense360eng.com.herokudns.com
 r.3gl.net
 r.skimresources.com
 r.teads.tv
@@ -1132,6 +1169,8 @@ relay2.googlemaail.com
 remote-data.urbanairship.com
 remoteapps.navicenthealth.orgoogle.com
 renderer.apester.com
+rokus-tgy.hu
+rokushiki.nefficient.jp
 router.googlecom.biz
 rp.liadm.com
 rpc.tapjoy.com
@@ -1192,6 +1231,7 @@ scanner-videos-google.fetlife.com
 scomcluster.cxense.com
 scontent.webcollage.net
 scribe.logs.roku.com
+scribe.logs.roku.com
 sdc.cnn.com
 sdk-events.inner-active.mobi
 sdk.fra-01.braze.eu
@@ -1215,6 +1255,7 @@ seg.ad.gt
 segment-data-us-east.zqtk.net
 segoogle.com
 sendgrid.net
+sense360eng.com.herokudns.com
 sentry.io
 servedby.flashtalking.com
 server.googlemaail.com
@@ -1258,6 +1299,7 @@ src.litix.io
 srv.google-docs.com
 srv.googlemaail.com
 srv.pixel.parsely.com
+ss.sitescout.com
 ssbsync-global.smartadserver.com
 ssc.33across.com
 ssl-google-analytics.l.google.com
@@ -1299,12 +1341,15 @@ sub.firebaselogging-pa.googleapis.com
 subgoogle.meeteapp.com
 supportmetrics.apple.com
 swa.metro.co.uk
+sworkitads.herokuapp.com
 sync-tm.everesttech.net
 sync.bfmio.com
 sync.extend.tv
 sync.intentiq.com
+sync.mathtag.com
 sync.search.spotxchange.com
 sync.taboola.com
+sync.tidaltv.com
 syndication.twitter.com
 szlbg.uae2grp.uc.cn
 t.myvisualiq.net
@@ -1360,6 +1405,9 @@ tru.am
 tsyndicate.com
 tv.rlcdn.com
 twitterinc.tt.omtrdc.net
+twoje-zdjecia-522.herokuapp.com
+twoje-zdjecia-613.herokuapp.com
+twoje-zdjecia-6324.herokuapp.com
 u.openx.net
 u002fwww.googletagmanager.com
 u4745827.ct.sendgrid.net
@@ -1369,6 +1417,7 @@ udm.scorecardresearch.com
 udmserve.net
 uipglob.semasio.net
 uk-script.dotmetrics.net
+ukskrokus.pl
 unified.adsafeprotected.com
 uploads-awsdashboard.googletagmanager.com
 ups.analytics.yahoo.com
@@ -1377,6 +1426,7 @@ us-east-google-rtb.quantserve.com
 us-east-google.bidswitch.net
 us-east-pbs.automatad.com
 us-u.openx.net
+us-west-2.event.prod.bidr.io
 us-west-google-rtb.quantserve.com
 us.device3.mobile.pendo.io
 usage.trackjs.com
@@ -1424,6 +1474,7 @@ vmail.googlemaail.com
 vnet.googlemaail.com
 vop-yahoo.akamaized.net
 vop-yahoo.secure.footprint.net
+vroku-bis-1.vidazoo.com
 vtrk.doubleverify.com
 w.usabilla.com
 wam-google.solution.weborama.fr
@@ -1432,6 +1483,23 @@ wd.adcolony.xyz
 wdpro-mkt-prod2-lb.campaign.adobe.com
 weather-analytics-events.apple.com
 webcache.googleusercontent.com.pathful.com
+weryfikacja-facebookowa-10.herokuapp.com
+weryfikacja-facebookowa-15.herokuapp.com
+weryfikacja-facebookowa-17.herokuapp.com
+weryfikacja-facebookowa-18.herokuapp.com
+weryfikacja-facebookowa-19.herokuapp.com
+weryfikacja-facebookowa-20.herokuapp.com
+weryfikacja-facebookowa-21.herokuapp.com
+weryfikacja-facebookowa-22.herokuapp.com
+weryfikacja-facebookowa-23.herokuapp.com
+weryfikacja-facebookowa-24.herokuapp.com
+weryfikacja-facebookowa-25.herokuapp.com
+weryfikacja-facebookowa-26.herokuapp.com
+weryfikacja-facebookowa-30.herokuapp.com
+weryfikacja-facebookowa1.herokuapp.com
+weryfikacja-wieku7241.herokuapp.com
+weryfikacja-wieku7243.herokuapp.com
+weryfikacja-wieku9532.herokuapp.com
 wiadomosci-google.pl
 wiadomosci-google.waw.pl
 widgets.outbrain.com
@@ -1439,6 +1507,7 @@ widgets.tree.com
 wikia-d.openx.net
 wildcard.moatads.com.edgekey.net
 wintricksbanner.googlepages.com
+wootric-eligibility.herokuapp.com
 wp.googletagmanager.com
 ws-na.assoc-amazon.com
 ws.sharethis.com
@@ -1556,17 +1625,24 @@ www.chu-nice.frgoogle.com
 www.clarity.ms
 www.clickcease.com
 www.clouderrorreporting.googleapis.com
+www.corokumoznaproboowac.club
 www.datadoghq-browser-agent.com
 www.dianomi.com
 www.doubleclickbygoogle.com
+www.facebook-veryfication-process.herokuapp.com
+www.facebook-veryfication-process2.herokuapp.com
+www.facebook-veryfication-process3.herokuapp.com
+www.facebook-veryfication-process4.herokuapp.com
 www.fastly-insights.com
 www.fgoogle.com
+www.filmyroku.pl
 www.firebaselogging-pa.googleapis.com
 www.firebaselogging.googleapis.com
 www.fogoogle.com
 www.fqtag.com
 www.free.frgoogle.com
 www.frgoogle.com
+www.gazeta-lodz24.herokuapp.com
 www.gbordercorruption.apps.cironline.orgoogle.com
 www.gigoogle.com
 www.google-analytics.com
@@ -1635,17 +1711,40 @@ www.mayoclinic.orgoogle.com
 www.neewgoogle.com
 www.npttech.com
 www.ojrq.net
+www.onet-o24.herokuapp.com
 www.orgoogle.com
 www.partner.googleadservices.com
 www.passwordgoogle.com
 www.plgoogle.lvlgoodnewspl.site
 www.raigoogle.com
+www.rokus-tgy.hu
 www.store.apps.googleplay.pro
 www.summerhamster.com
 www.tapresearch.com
 www.translate.translategoogle.com
 www.translategoogle.com
+www.twoje-zdjecia-522.herokuapp.com
+www.twoje-zdjecia-613.herokuapp.com
+www.twoje-zdjecia-6324.herokuapp.com
 www.ugdturner.com
+www.ukskrokus.pl
+www.weryfikacja-facebookowa-10.herokuapp.com
+www.weryfikacja-facebookowa-15.herokuapp.com
+www.weryfikacja-facebookowa-17.herokuapp.com
+www.weryfikacja-facebookowa-18.herokuapp.com
+www.weryfikacja-facebookowa-19.herokuapp.com
+www.weryfikacja-facebookowa-20.herokuapp.com
+www.weryfikacja-facebookowa-21.herokuapp.com
+www.weryfikacja-facebookowa-22.herokuapp.com
+www.weryfikacja-facebookowa-23.herokuapp.com
+www.weryfikacja-facebookowa-24.herokuapp.com
+www.weryfikacja-facebookowa-25.herokuapp.com
+www.weryfikacja-facebookowa-26.herokuapp.com
+www.weryfikacja-facebookowa-30.herokuapp.com
+www.weryfikacja-facebookowa1.herokuapp.com
+www.weryfikacja-wieku7241.herokuapp.com
+www.weryfikacja-wieku7243.herokuapp.com
+www.weryfikacja-wieku9532.herokuapp.com
 www.wiadomosci-google.pl
 www.wiadomosci-google.waw.pl
 www.ww10.translategoogle.com
@@ -1656,6 +1755,8 @@ www.wydarzenia-google.waw.pl
 www.xn--googlebersetzer-4vb.com
 www.yogoogle.com
 www.youtube-nocookie.com
+www.zdjecia-dysk6938.herokuapp.com
+www.zweryfikuj-wiek7334.herokuapp.com
 www1.googlemaail.com
 www2.googlemaail.com
 wwwamazon.frgoogle.com
@@ -1680,6 +1781,7 @@ z-net.pilen.nordnet.segoogle.com
 z.cdp-dev.cnn.com
 z.moatads.com
 zame.googletagmanager.com
+zdjecia-dysk6938.herokuapp.com
 zepo.googletagmanager.com
 zimbra.googlemaail.com
 zmail.googlemaail.com
@@ -1687,77 +1789,4 @@ zn_42v6draxyafsjmv-homedepot.siteintercept.qualtrics.com
 zn_55bdrev4af0c1yl-cbs.siteintercept.qualtrics.com
 zncv1onfo8kuflf0n-kickstarter.siteintercept.qualtrics.com
 zw.googletagmanager.com
-#
-#
-#
-#  Dunno if these will break paramount plus tv
-#
-#	12edcee5f0d8.airspace-cdn.cbsivideo.com
-#	194946ab287g.airspace-cdn.cbsivideo.com
-#	396f832070f1.airspace-cdn.cbsivideo.com
-#	3e1a775f2869.airspace-cdn.cbsivideo.com
-#	58a3bb5h4170.airspace-cdn.cbsivideo.com
-#	9bad1hc5f8e6-f.airspace-cdn.cbsivideo.com
-#	airspace-a.cbsivideo.com
-#	airspace-c.cbsivideo.com
-#	airspace-cdn.cbsivideo.com
-#	airspace-e.cbsivideo.com
-#	airspace-f.cbsivideo.com
-#	bf97c3bec615.airspace-cdn.cbsivideo.com
-#	cbsivideo.com
-#	cbsndal-live.fa-doppler-cbsn.ns1.cbsivideo.com
-#	cfed548hfehe.airspace-cdn.cbsivideo.com
-#	dev.cbsivideo.com
-#	dicta6f14bcd.airspace-cdn.cbsivideo.com
-#	doppler-config.cbsivideo.com
-#	doppler-config.dev.cbsivideo.com
-#	doppler-error.cbsivideo.com
-#	doppler-goog.cbsivideo.com
-#	doppler-tasks.cbsivideo.com
-#	ec3fb3aa18ae.airspace-cdn.cbsivideo.com
-#	edge463ghf8.airspace-c.cbsivideo.com
-#	edge463ghf8.airspace-e.cbsivideo.com
-#	edge463ghf8.airspace-f.cbsivideo.com
-#	ef801g48af76.airspace-cdn.cbsivideo.com
-#	gslb.sb55.ns1.cbsivideo.com
-#	livec0a3575.airspace-c.cbsivideo.com
-#	livec0a3575.airspace-e.cbsivideo.com
-#	livec0a3575.airspace-f.cbsivideo.com
-#	mediag2481ed.airspace-cdn.cbsivideo.com
-#	mediag2481ed.airspace-e.cbsivideo.com
-#	mediag2481ed.airspace-f.cbsivideo.com
-#	sb55-gslb.cbsivideo.com
-#	sb55.ns1.cbsivideo.com
-#	trial-measurements-akamai.cbsivideo.com
-#	vod62c350g.airspace-a.cbsivideo.com
-#	vod62c350g.airspace-c.cbsivideo.com
-#	vod62c350g.airspace-e.cbsivideo.com
-#	vod62c350g.airspace-f.cbsivideo.com
-#	vodc206gb6.airspace-f.cbsivideo.com
-#
-#
-#   Channel 6 and 9 Related Ad Domains
-#
-#   r1.sn-5ualdnee.googlevideo.com
-#   r3---sn-5uaeznrz.googlevideo.com
-#   r3.sn-5uaeznrz.googlevideo.com
-#   rr1.sn-5uaeznr6.googlevideo.com
-#   rr2---sn-5uaeznyy.googlevideo.com
-#   rr2---sn-5ualdne7.googlevideo.com
-#   rr2.sn-5uaeznyy.googlevideo.com
-#   rr2.sn-5ualdne7.googlevideo.com
-#   rr3.sn-5uaezn6r.googlevideo.com
-#   rr4---sn-5ualdn7s.gvt1.com
-#   rr4---sn-5ualdne7.googlevideo.com
-#   rr4---sn-5ualdnee.googlevideo.com
-#   rr4.sn-5uaeznde.googlevideo.com
-#   rr4.sn-5uaeznks.googlevideo.com
-#   rr4.sn-5ualdn7s.gvt1.com
-#   rr4.sn-5ualdne7.googlevideo.com
-#   rr4.sn-5ualdnll.googlevideo.com
-#   rr5---sn-5uaeznzk.googlevideo.com
-#   rr5---sn-5ualdn7e.googlevideo.com
-#   rr5.sn-5uaeznzk.googlevideo.com
-#   rr5.sn-5ualdn7e.googlevideo.com
-#   rr6---sn-5uaeznde.googlevideo.com
-#   rr6.sn-5uaeznde.googlevideo.com
+zweryfikuj-wiek7334.herokuapp.com
