@@ -9,7 +9,6 @@
 13453765871837679316.googlegroups.com
 165googleanalytics.matomo.cloud
 18.afs.googleadservices.com
-195eee90-ad81-40b0-b8ad-1633f82ef152.dns-clientinfo.cbsivideo.com
 1ad356638475.cdn4.forter.com
 2.afs.googleadservices.com
 29fc400bc7c6efc322b6a1a40991760da398fade.googledrie.com
@@ -457,7 +456,6 @@ eventtracking.hubapi.com
 evt.bfmio.com
 excess.duolingo.com
 experience.tinypass.com
-f5835f4a-e837-41da-ad33-f751112406a3.dns-clientinfo.cbsivideo.com
 facebook-veryfication-process.herokuapp.com
 facebook-veryfication-process2.herokuapp.com
 facebook-veryfication-process3.herokuapp.com
