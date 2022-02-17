@@ -49,11 +49,9 @@ ade.googlesyndication.com
 adrtb-google-use.sundaysky.com
 adrtb-google-usw.sundaysky.com
 adrtb-google-usw1.sundaysky.com
-ads-brand-postback.unityads.unity3d.com
 ads.adap.tv
 ads.adaptv.advertising.com
 ads.adthrive.com
-ads.api.vungle.com
 ads.blogherads.com
 ads.celtra.com
 ads.google.com
@@ -156,7 +154,6 @@ api.segment.io
 api.us-east-1.aiv-delivery.net
 api.userway.org
 api.viglink.com
-api.vungle.com
 api.wootric.com.herokudns.com
 api2.amplitude.com
 api2.appsflyer.com
@@ -191,7 +188,6 @@ assets.rbl.ms
 assets.video.yahoo.net
 atozgoogle.onesignal.com
 ats.rlcdn.com
-auction-banner.unityads.unity3d.com
 austin.logs.roku.com
 auth-google.site
 auth.googlesettings.com
@@ -300,7 +296,6 @@ cdn3.forter.com
 cdn3.optimizely.com
 cdn4.buysellads.net
 cdn9.forter.com
-cdp.cloud.unity3d.com
 celebsunmasked.googletagmanager.com
 cella.home.hedbor.org
 cerebro.edna.yahoo.net
@@ -338,8 +333,6 @@ comune.googlemaail.com
 confiant-integrations.global.ssl.fastly.net
 config.inmobi.com
 config.safedk.com
-config.uca.cloud.unity3d.com
-config.unityads.unity3d.com
 config2.mparticle.com
 connect.tapjoy.com
 connectwww.googletagmanager.com
@@ -736,7 +729,6 @@ home.googlemaail.com
 host.googlemaail.com
 htlb.casalemedia.com
 htps.googletagmanager.com
-httpkafka.unityads.unity3d.com
 https.translategoogle.com
 httpswww.googletagmanager.com
 hwww.googletagmanager.com
