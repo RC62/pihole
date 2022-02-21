@@ -1,9 +1,8 @@
-!
-! Title: Robs Compiled List
+!Title: Robs Compiled List
 ! Description: Compilation of PiHole Lists
 ! Homepage: https://raw.githubusercontent.com/RC62/pihole/
 ! License: GPLv3
-! Last modified: 2022-02-21T22:23:04.600Z
+! Last modified: 2022-02-21T21:29:52.289Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
