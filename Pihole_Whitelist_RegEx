@@ -1,0 +1,52 @@
+# Command for Pulling Pihole Regex Whitelist:
+# pihole --white-regex -l
+# Displaying Regex whitelist:
+#
+(\.|^)akamaiedge\.net$
+(\.|^)amazon-adsystem\.com$
+(\.|^)symcb\.com$
+(.*\.|^)live\.com$
+(.*\.|^)fbcdn\.net$
+(.*\.|^)blinkreceipt\.com$
+(\.|^)zoom\.us$
+(\.|^)samsungqbe\.com$
+ocsp[0-9]*\.apple.com
+(.*\.|^)msftncsi\.com$
+(.*\.|^)microsoft\.com$
+(.*\.|^)xboxlive\.com$
+(.*\.|^)live\.com\.akadns\.net$
+(.*\.|^)microsoft\.com\.akadns\.net$
+(.*\.|^)ring\.com$
+(.*\.|^)googleapis\.com$
+(.*\.|^)amazon\.com$
+(.*\.|^)conviva\.com$
+(.*\.|^)beacons.*\.gvt.*\.com$
+(.*\.|^)paypal\.com$
+(.*\.|^)azure\.com$
+(.*\.|^)push.apple\.com$
+(.*\.|^)office365\.com$
+(.*\.|^)nest\.com$
+(.*\.|^)typekit\.net$
+(.*\.|^)hockeyapp\.net$
+(.*\.|^)samsungcloudsolution\.(com|net|tv)$
+(.*\.|^)1password(services|usercontent)*\.(com|eu|ca)$
+(.*\.|^)(hulu)(stream|\.map\.fastly|\.com\.akadns)*\.(com$|net$)
+(\.|^)jw\.org$
+(.*\.|^)demdex\.net$
+(.*\.|^)samsclub\.com$
+(.*\.|^)homedepot\.com$
+(.*\.|^)ssa\.gov$
+(.*\.|^)samsungelectronics\.com$
+(.*\.|^)icloud\.com$
+(.*\.|^)apple-dns\.net$
+(.*\.|^)rc62\.net$
+(\.|^)smoot\.apple\.com$
+(\.|^)roku\.com$
+(.*)darwin\.hulu.*\.(com$|net$)
+(.*\.|^)(wyze|wyzecam)\.com$
+(.*\.|^)rings\.solutions$
+#
+#
+# Regex Cleanups for Raw List (include leading/trailing spaces)
+# ^  [0-9]*:
+#  \(enabled.*$

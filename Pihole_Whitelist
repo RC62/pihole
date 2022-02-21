@@ -1,0 +1,51 @@
+# Command for Pulling Pihole Exact Whitelist:
+# pihole -w -l
+# Displaying whitelist:
+#
+  1: nbcstreaming.sc.omtrdc.net
+  2: ogs.google.com
+  3: gstaticadssl.l.google.com
+  4: fonts.gstatic.com
+  5: raspberrypi.local
+  6: tags.tiqcdn.com
+  7: pc-humana-collect.tealiumiq.com
+  8: s.youtube.com
+  9: products.office.com
+  10: login.microsoftonline.com
+  11: fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+  12: rdz-rbcloud.rainbird.com
+  13: firebase-settings.crashlytics.com
+  14: b.jw-cdn.org
+  15: graph.facebook.com
+  16: graph.instagram.com
+  17: www.facebook.com
+  18: star-mini.c10r.facebook.com
+  19: edge-mqtt.facebook.com
+  20: mqtt.c10r.facebook.com
+  21: s.shopify.com
+  22: www.bit.ly
+  23: bit.ly
+  24: ow.ly
+  25: tinyurl.com
+  26: homedepot.tt.omtrdc.net
+  27: time-osx.g.aaplimg.com
+  28: assetshuluimcom-a.akamaihd.net
+  29: cws-hulu.conviva.com
+  30: hulu-ios.hb-api.omtrdc.net
+  31: hulu-lr.hb-api.omtrdc.net
+  32: hulu.com.akadns.net
+  33: hulu.com.c.footprint.net
+  34: hulu.hb-api.omtrdc.net
+  35: hulu.hb.omtrdc.net
+  36: hulu.map.fastly.net
+  37: hulu.sc.omtrdc.net
+  38: ibhuluimcom-a.akamaihd.net
+  39: self-events-data.trafficmanager.net
+  40: metrics.barclaycardus.com
+  41: pool.ntp.org
+  42: time.nist.gov
+#
+#
+# Regex Cleanups for Raw List (include leading/trailing spaces)
+# ^  [0-9]*:
+#  \(enabled.*$
