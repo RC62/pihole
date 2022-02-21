@@ -1,6 +1,6 @@
 
 Install: npm i -g @adguard/hostlist-compiler
-Run compiler:  hostlist-compiler -c configuration.json -o output.txt
+Run compiler:  hostlist-compiler -c configuration.json -o robs_compiled_adlist.txt
 
 configuration.json file
 
