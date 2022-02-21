@@ -1,0 +1,5 @@
+
+Install: npm i -g @adguard/hostlist-compiler
+Run compiler:  hostlist-compiler -c configuration.json -o output.txt
+
+configuration.json file
