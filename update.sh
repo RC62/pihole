@@ -8,4 +8,4 @@ sleep 2
 git commit -m "update script"
 sleep 2
 git push
-exit
+
