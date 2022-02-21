@@ -1,5 +1,4 @@
-!
-! Title: Robs Compiled List
+!Title: Robs Compiled List
 ! Description: Compilation of PiHole Lists
 ! Homepage: https://raw.githubusercontent.com/RC62/pihole/
 ! License: GPLv3
