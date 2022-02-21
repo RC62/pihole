@@ -59,14 +59,17 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>cd /Volumes/Data/rob/Library/CloudStorage/OneDrive\-Personal/Raspberry\ Pi/GitHub/pihole
+					<string>Echo
+cd /Volumes/Data/rob/Library/CloudStorage/OneDrive\-Personal/Raspberry\ Pi/GitHub/pihole
+sleep 2
 hostlist-compiler -c configuration.json -o Robs_compiled_adlist.txt
 sleep 2
 git add *
 sleep 2
 git commit -m "update script"
 sleep 2
-git push</string>
+git push
+Echo Done</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
@@ -181,7 +184,7 @@ git push</string>
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
-				<string>399.250000:694.000000</string>
+				<string>399.250000:640.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
