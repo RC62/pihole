@@ -7,6 +7,8 @@ sleep 1
 # Compile adlist files
 hostlist-compiler -c configuration.json -o output.txt
 sleep 2
+hostlist-compiler -c configuration2.json -o output2.txt
+sleep 2
 
 # Cleanup IPs
 sed -i '' "s/127.0.0.1//g" output.txt
@@ -19,8 +21,10 @@ sed -i '' "s/\!/\#/g" output.txt
 sleep 2
 
 # Remove all empty lines
-echo
+
 sed '/^$/d' output.txt > ~/Library/CloudStorage/OneDrive\-Personal/Raspberry\ Pi/GitHub/pihole/robs_compiled_adlist.txt
+sleep 2
+sed '/^$/d' output2.txt > ~/Library/CloudStorage/OneDrive\-Personal/Raspberry\ Pi/GitHub/pihole/robs_compiled_adguard_list.txt
 sleep 2
 
 #Update Github project
