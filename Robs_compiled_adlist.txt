@@ -3,7 +3,7 @@
 ! Description: Compilation of PiHole Lists
 ! Homepage: https://raw.githubusercontent.com/RC62/pihole/
 ! License: GPLv3
-! Last modified: 2022-02-21T23:29:22.535Z
+! Last modified: 2022-02-22T13:33:41.118Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -40,7 +40,6 @@ x4w8j5q4.stackpathcdn.com
 !
 021414243.com
 123hpcom.site
-1566xueshe.com
 2design.rafafernandez.cat
 33consultoria.com.br
 3dpanaroma.emotionfactory.in
@@ -105,7 +104,6 @@ astria-theme.indodevmatech.com
 atifwears.com
 atmotechsolution.co.in
 aucklandcarpetcleaning.org.nz
-automoto.in.ua
 auxiliarymanagement.com
 azimihotel.in
 baaroq.com
@@ -212,7 +210,6 @@ datanetpc.com.pe
 datenex.com
 daystar.ac.ke
 dbind.in
-ddl7.data.hu
 ddl8.data.hu
 deepaklonstattoo.com
 deep-researchx.com
@@ -310,7 +307,6 @@ followup.anuncio-ads.cl
 formationspnlhypnose.com
 forum.theyachtguy.org
 fourspear.com
-fromtofor.ca
 fsaa.com.br
 fundacionequilibrium.com.co
 fursa-admin.indodevmatech.com
@@ -442,7 +438,6 @@ longlifesports.com
 lostcompass.ca
 lozhkin.foundation
 lp.elaysrodrigues.com
-lpsuite.digiflute.com
 lumusrmj.com.br
 m8.magicbyteprojects.com
 macaronsbakery.com
@@ -536,6 +531,7 @@ onxon77.com
 opengrowthnew.ehostinguk.com
 orchidgardenthai.com
 order.sindhsweets.com
+oreokitkat.ddns.net
 orion.indodevmatech.com
 otopmarketshop.com
 ourroyalfamily.com
@@ -665,7 +661,6 @@ spryness.com.ng
 sslwec.mcqsmentor.com
 stagingbuilder.com
 staging.skaps.com
-startstv.com
 stayreading.com
 stella-spa.com
 stfucomedy.com
@@ -726,7 +721,6 @@ tutiendaonlinecusco.com
 tuzdan.com.sa
 tvjovemhits.com
 tv.muslimconnectiontv.org
-twspace4u.com
 ubuntu-inc.com
 ulace.com.mx
 umami-learning.com
@@ -735,7 +729,6 @@ universalenterprises-epc.com
 uposit.me
 upwportugal.com
 urielcoffee.com
-vagas.oito5.com.br
 valeryone.com
 valtyca.com
 vaos.com.co
@@ -105180,7 +105173,6 @@ zurieskinclinic.com
 0.0.0.0 pure.app
 0.0.0.0 testing.pure.app
 0.0.0.0 testing-2.pure.app
-0.0.0.0 testing-internal.pure.app
 0.0.0.0 www.pure.app
 0.0.0.0 sayhi.app
 0.0.0.0 password.sayhi.app
