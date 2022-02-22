@@ -28,6 +28,7 @@ sed '/^$/d' output2.txt > ~/Library/CloudStorage/OneDrive\-Personal/Raspberry\ P
 sleep 2
 
 #Update Github project
+cd ~/Library/CloudStorage/OneDrive\-Personal/Raspberry\ Pi/GitHub/pihole/
 git add *
 sleep 2
 git commit -m "update script"
