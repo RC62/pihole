@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 # Change to pihole git folder
-cd /~/Library/CloudStorage/OneDrive-Personal/Raspberry Pi/GitHub/pihole/AdList_Update
+cd ~/Library/CloudStorage/OneDrive\-Personal/Raspberry\ Pi/GitHub/pihole/AdList\_Update
 sleep 1
 
 # Compile adlist files
@@ -19,7 +19,8 @@ sed -i '' "s/\!/\#/g" output.txt
 sleep 2
 
 # Remove all empty lines
-sed '/^$/d' output.txt > /~/Library/CloudStorage/OneDrive-Personal/Raspberry Pi/GitHub/pihole/robs_compiled_adlist.txt
+echo
+sed '/^$/d' output.txt > ~/Library/CloudStorage/OneDrive\-Personal/Raspberry\ Pi/GitHub/pihole/robs_compiled_adlist.txt
 sleep 2
 
 #Update Github project
