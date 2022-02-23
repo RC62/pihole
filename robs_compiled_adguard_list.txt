@@ -3,7 +3,7 @@
 ! Description: Compilation of PiHole Lists
 ! Homepage: https://raw.githubusercontent.com/RC62/pihole/
 ! License: GPLv3
-! Last modified: 2022-02-23T13:48:14.288Z
+! Last modified: 2022-02-23T14:31:42.177Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -62945,8 +62945,8 @@
 ! Source name: List for Apple TV
 ! Source: https://raw.githubusercontent.com/RC62/pihole/main/TV_List.txt
 !
-||165googleanalytics.matomo.cloud^
 ||1ad356638475.cdn4.forter.com^
+||165googleanalytics.matomo.cloud^
 ||a.mailmunch.co^
 ||a.myfidevs.io^
 ||a.quora.com^
@@ -63001,6 +63001,7 @@
 ||cella.home.hedbor.org^
 ||check.googlezip.net.domain.name^
 ||clc.stackoverflow.com^
+||click.hulumail.com^
 ||clients6.google.comads.creative-serving.com^
 ||clouderrorreporting.googleapis.com^
 ||cloudgoogleanalytics.matomo.cloud^
@@ -63012,11 +63013,12 @@
 ||counter.theconversation.com^
 ||crashlytics2.l.google.com^
 ||cstat.apple.com^
+||curben.gitlab.io^
 ||customer-feedbacks.web.roku.com^
 ||d1lxz4vuik53pc.cloudfront.net^
 ||d2uap9jskdzp2.cloudfront.net^
-||d39vf9bwtb4sua.cloudfront.net^
 ||d3lcz8vpax4lo2.cloudfront.net^
+||d39vf9bwtb4sua.cloudfront.net^
 ||dc.services.visualstudio.com^
 ||deliver.ptgncdn.com^
 ||derskgoogleisoz920.clickfunnels.com^
@@ -63104,51 +63106,51 @@
 ||google.tm.domain.name^
 ||google.tradingworks.com^
 ||google.us-east.rtb.dataxu.net^
-||google004958ref.clickfunnels.com^
-||google01072021.clickfunnels.com^
-||google0494804go.clickfunnels.com^
-||google049577858.clickfunnels.com^
-||google06162021.clickfunnels.com^
-||google150.clickfunnels.com^
-||google20266.clickfunnels.com^
-||google20784422.clickfunnels.com^
+||google7t5.clickfunnels.com^
+||google8l0.clickfunnels.com^
 ||google20d4.clickfunnels.com^
-||google214487011.clickfunnels.com^
-||google2411017785.clickfunnels.com^
-||google27072021.clickfunnels.com^
-||google28062021.clickfunnels.com^
-||google344089.clickfunnels.com^
 ||google34s03429.clickfunnels.com^
+||google150.clickfunnels.com^
 ||google386.clickfunnels.com^
-||google409849sa.clickfunnels.com^
-||google40985647.clickfunnels.com^
-||google4101.clickfunnels.com^
 ||google444.com^
-||google4570014788.clickfunnels.com^
-||google4784800go.clickfunnels.com^
-||google487997ms.clickfunnels.com^
-||google489775fv.clickfunnels.com^
-||google498745sp.clickfunnels.com^
-||google54782154.clickfunnels.com^
+||google801.clickfunnels.com^
+||google4101.clickfunnels.com^
+||google004958ref.clickfunnels.com^
 ||google6520.clickfunnels.com^
 ||google6532.clickfunnels.com^
-||google658787445.clickfunnels.com^
-||google670760966.clickfunnels.com^
+||google9560.clickfunnels.com^
+||google20266.clickfunnels.com^
 ||google78405ehp.clickfunnels.com^
-||google78409495.clickfunnels.com^
-||google78542698014075.clickfunnels.com^
-||google789474486.clickfunnels.com^
-||google789474487.clickfunnels.com^
-||google789490.clickfunnels.com^
-||google7t5.clickfunnels.com^
-||google801.clickfunnels.com^
 ||google80361.clickfunnels.com^
 ||google87494yay.clickfunnels.com^
-||google894464pme.clickfunnels.com^
-||google8l0.clickfunnels.com^
-||google940764567.clickfunnels.com^
-||google9560.clickfunnels.com^
 ||google98474mc.clickfunnels.com^
+||google344089.clickfunnels.com^
+||google409849sa.clickfunnels.com^
+||google487997ms.clickfunnels.com^
+||google489775fv.clickfunnels.com^
+||google0494804go.clickfunnels.com^
+||google498745sp.clickfunnels.com^
+||google789490.clickfunnels.com^
+||google894464pme.clickfunnels.com^
+||google01072021.clickfunnels.com^
+||google4784800go.clickfunnels.com^
+||google06162021.clickfunnels.com^
+||google20784422.clickfunnels.com^
+||google27072021.clickfunnels.com^
+||google28062021.clickfunnels.com^
+||google40985647.clickfunnels.com^
+||google049577858.clickfunnels.com^
+||google54782154.clickfunnels.com^
+||google78409495.clickfunnels.com^
+||google214487011.clickfunnels.com^
+||google658787445.clickfunnels.com^
+||google670760966.clickfunnels.com^
+||google789474486.clickfunnels.com^
+||google789474487.clickfunnels.com^
+||google940764567.clickfunnels.com^
+||google2411017785.clickfunnels.com^
+||google4570014788.clickfunnels.com^
+||google78542698014075.clickfunnels.com^
 ||googleadapis.l.google.com^
 ||googleads.g.doubleclick.net.domain.name^
 ||googleads.github.io^
@@ -63197,6 +63199,7 @@
 ||googlewar.go.pl^
 ||googlewordpad.info^
 ||googlewww.quotes.com^
+||gpm.samsungqbe.com^
 ||gstaticadssl.l.google.com^
 ||identity.ads.roku.com^
 ||info.ads.roku.com^
@@ -63208,6 +63211,7 @@
 ||lowes15841z.btttag.com^
 ||lptag-cdn.liveperson.net^
 ||ls.chatid.com^
+||malware-remove.com^
 ||minkatu.com^
 ||mobile-collector.newrelic.com.cdn.cloudflare.net^
 ||mobile-crash.newrelic.com^
@@ -63233,6 +63237,7 @@
 ||pixel.monitor1.returnpath.net^
 ||pixel.reignn.com^
 ||pixel.tatpek.com^
+||play.google.com^
 ||player.h-cdn.com^
 ||plgoogle.lvlgoodnewspl.site^
 ||pr.ybp.yahoo.com^
@@ -63253,17 +63258,23 @@
 ||redirectvirusgoogle.accountkit.com^
 ||redirectvirusgoogle.whitedate.net^
 ||router.googlecom.biz^
+||rr1---sn-5uaeznk7.googlevideo.com^
 ||rr1.sn-5uaeznr6.googlevideo.com^
 ||rr2---sn-5uaeznyy.googlevideo.com^
 ||rr2---sn-5ualdne7.googlevideo.com^
+||rr2---sn-vgqskns7.googlevideo.com^
 ||rr2.sn-5uaeznyy.googlevideo.com^
 ||rr2.sn-5ualdne7.googlevideo.com^
+||rr3---sn-5uaeznyy.googlevideo.com^
+||rr3---sn-5ualdn7r.googlevideo.com^
+||rr3---sn-5ualdnls.googlevideo.com^
 ||rr3.sn-5uaezn6r.googlevideo.com^
 ||rr4---sn-5ualdne7.googlevideo.com^
 ||rr4---sn-5ualdnee.googlevideo.com^
 ||rr4.sn-5uaeznde.googlevideo.com^
 ||rr4.sn-5uaeznks.googlevideo.com^
 ||rr4.sn-5ualdne7.googlevideo.com^
+||rr5---sn-5ualdn7r.googlevideo.com^
 ||rr6---sn-5uaeznde.googlevideo.com^
 ||rr6.sn-5uaeznde.googlevideo.com^
 ||rum.conde.io^
@@ -63299,6 +63310,7 @@
 ||tf-prod-uswest-spop3-google.spotad.co^
 ||translate.googleusercontent.com.pathful.com^
 ||translategoogle.com^
+||tvpnlogopus.samsungcloud.tv^
 ||urlwww--google--com.rtrk.com^
 ||us-east-pbs.automatad.com^
 ||us.device3.mobile.pendo.io^
