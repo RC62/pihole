@@ -3,7 +3,7 @@
 ! Description: Compilation of PiHole Lists
 ! Homepage: https://raw.githubusercontent.com/RC62/pihole/
 ! License: GPLv3
-! Last modified: 2022-02-22T21:41:38.431Z
+! Last modified: 2022-02-23T13:43:12.737Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -67,7 +67,9 @@
 ! Source: https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 !
 ||021414243.com^
+||1-1.lt^
 ||123hpcom.site^
+||1566xueshe.com^
 ||2design.rafafernandez.cat^
 ||33consultoria.com.br^
 ||3dpanaroma.emotionfactory.in^
@@ -77,6 +79,7 @@
 ||acampark.com.br^
 ||accesswebtech.com.ng^
 ||acelle.rey.agency^
+||actividades.laforetlanguages.com^
 ||adi.com.pk^
 ||adipmeansresources.com^
 ||adithyainstitute.in^
@@ -98,6 +101,7 @@
 ||aleka.neonek.com^
 ||alfanargroup.today^
 ||alfatechsolution.com.np^
+||alittlebrave.com^
 ||alkaelectronics.co.in^
 ||allseotoolskit.com^
 ||alphatransus.com^
@@ -122,6 +126,7 @@
 ||arkgarments.com^
 ||arodagira.com.br^
 ||arribacorazones.com^
+||arttop100.cn^
 ||asesores.com.sv^
 ||asesoriainternacional.com.mx^
 ||asnethome.net^
@@ -129,6 +134,7 @@
 ||astria-theme.indodevmatech.com^
 ||atifwears.com^
 ||atmotechsolution.co.in^
+||atomlines.top^
 ||aucklandcarpetcleaning.org.nz^
 ||auxiliarymanagement.com^
 ||azimihotel.in^
@@ -137,6 +143,7 @@
 ||balightravel.com^
 ||baligrouptrekkingtour.com^
 ||baogia.cokhitienbo.vn^
+||barsaji.com.mx^
 ||bbpgz.com^
 ||beactive.com.br^
 ||beecoin.biz^
@@ -166,8 +173,8 @@
 ||bonus.nigsocblind.org^
 ||bostonavenue.org^
 ||botswana.webonclicks.com^
-||british-shorthair.es^
 ||bssindia.net^
+||btc247.xyz^
 ||buffalo-blog.myprojectstaging.com^
 ||bukuonline2u.com^
 ||buvgaze.lv^
@@ -189,6 +196,7 @@
 ||cgi-international.com^
 ||chabelolandscapingandtreeservice.com^
 ||chakolwa.com^
+||changeyourlife-2022.com^
 ||chat-animator.online^
 ||chhaganlalandco.com^
 ||chhetrapal.edu.np^
@@ -234,7 +242,6 @@
 ||datenex.com^
 ||daystar.ac.ke^
 ||dbind.in^
-||ddl8.data.hu^
 ||deepaklonstattoo.com^
 ||deep-researchx.com^
 ||demetria.com.ar^
@@ -248,6 +255,7 @@
 ||dexteritysolution.com^
 ||dfcenter.apidec.org^
 ||dft.global^
+||dg.mumun.cn^
 ||diambe.com^
 ||diamondgroupweb.com^
 ||digi-card.surryapropertymanagement.com^
@@ -261,6 +269,7 @@
 ||discoveryast.com^
 ||djanguswest.com.br^
 ||djinganenfulbe.com^
+||dmdagents.com.au^
 ||dolliplingsyllenesliopa.com^
 ||doraflores.com.br^
 ||dotapp.id^
@@ -274,6 +283,7 @@
 ||drymetal.com.br^
 ||dubairepairs.ae^
 ||duniamedicare.com^
+||dwwmaster.com^
 ||e3commerce.net^
 ||earth.24x7wpsupport.com^
 ||eastmatt.com^
@@ -281,6 +291,8 @@
 ||ecologicformaturas.com.br^
 ||educaplus-zg.com^
 ||edufinder.alakmalak.ca^
+||edu-media.cn^
+||e-expression.com^
 ||ejankari.com^
 ||ekosol.ba^
 ||elav.pe^
@@ -305,6 +317,7 @@
 ||espacomaju.com.br^
 ||estateshop.com.pk^
 ||etawahtoday.com^
+||evcon.ab.ca^
 ||eventhousekk.com.my^
 ||event.sonder.lgbt^
 ||everywareshop.com^
@@ -339,6 +352,7 @@
 ||futursof.com^
 ||game.technomarket.bg^
 ||gastronews.by^
+||gatcomtech.co.za^
 ||geil.com.co^
 ||geo-lines.com^
 ||gepacunesp.org^
@@ -346,9 +360,12 @@
 ||gksportshub.com^
 ||global-dis.com^
 ||globalprod.ru^
+||gmo-sol-p10.heteml.jp^
 ||goeltec.com^
 ||go.iscpelsalvador.org^
 ||goldenrice.in^
+||google247.xyz^
+||google360.xyz^
 ||gotonow.com.co^
 ||grampalikadabhadi.in^
 ||griecoscoastfarm.com^
@@ -375,7 +392,10 @@
 ||hoteltigerplus.com^
 ||htcharitytrust.org^
 ||huuchin.ariun.mn^
+||hxoptical.net^
 ||hydromet.gov.bz^
+||iacademygroup.cl^
+||iashanghai.cn^
 ||ibrand-peru.com^
 ||ilisla.com^
 ||imugi.com.br^
@@ -405,6 +425,7 @@
 ||islbelize.com^
 ||itexcellence.la^
 ||itstorebd.com^
+||iworldinfotech.in^
 ||jacestrade.com^
 ||jagatmedia.id^
 ||janemudd.com^
@@ -421,6 +442,7 @@
 ||jurnalismictv.com^
 ||kalplife.com^
 ||kansaspainmanagement.net^
+||kapilchugh.com^
 ||karamobiles.co.in^
 ||kartgenix.shop^
 ||keishaevents.com^
@@ -452,6 +474,7 @@
 ||lememovelaria.com.br^
 ||letoguna.ml^
 ||licensewale.com^
+||littlesweet.co.uk^
 ||liviabordea.ro^
 ||livrearbitriotabacaria.com.br^
 ||localwebdesignandseo.com^
@@ -461,6 +484,7 @@
 ||lostcompass.ca^
 ||lozhkin.foundation^
 ||lp.elaysrodrigues.com^
+||lpm.fk.ub.ac.id^
 ||lumusrmj.com.br^
 ||m8.magicbyteprojects.com^
 ||macaronsbakery.com^
@@ -470,6 +494,7 @@
 ||magalimentos.com.br^
 ||maggysconcept.com^
 ||mahartyeg.com^
+||mailgoogle.xyz^
 ||maiquick.com^
 ||makeonline.webmaster.rocks^
 ||maktabahjafariyah.in^
@@ -502,6 +527,7 @@
 ||milehighequity.com^
 ||mindmapgallery.morelib.com^
 ||missionschool.com.ng^
+||miylt.org^
 ||mktcomunica.com.br^
 ||mobilikit.com.br^
 ||mohammadsheikh.com^
@@ -512,18 +538,21 @@
 ||mplusseguros.com.br^
 ||m.pompanobeachcarservice.net^
 ||mstransportuae.com^
+||mtc.joburg.org.za^
 ||mtfeducation.com^
 ||mtsalmaarifbadung.sch.id^
 ||multisofterp.com.br^
 ||multisyserp.com.br^
 ||mundodoingles.com.br^
 ||mvdtours.com^
+||mymicrogreen.mightcode.com^
 ||naanayam.co.in^
 ||nalunited.com^
 ||nammspa-dubai.com^
 ||narendracentral.com^
 ||ncbaebwp.edu.pk^
 ||nebulan.anuncio-ads.cl^
+||nemorisgames.com^
 ||neosmayorista.com^
 ||new.drceight.com^
 ||ngthanhquang.com^
@@ -541,10 +570,13 @@
 ||no-reply.redstarstudio.ir^
 ||northeastbulletinnews.in^
 ||notariafranciscovaras.cl^
+||numerarysols.com^
 ||nusc.ir^
 ||nyrachocolates.com^
+||o2omart.co.in^
 ||obpcarapiraca.com.br^
 ||offersforchange.com^
+||old.liceum9.ru^
 ||oldmanrager.com^
 ||olliveiras.com^
 ||ona.pradex.pl^
@@ -561,6 +593,7 @@
 ||oziris-doo.com^
 ||padiride.com^
 ||pagarbetonsukabumi.com^
+||pakcommunications.net^
 ||papa7shopping.com^
 ||paracletepublishers.org^
 ||paradisegc.net^
@@ -568,14 +601,17 @@
 ||pebblesofhope.org^
 ||perfectenergy.in^
 ||pesanku.com^
+||peterjacksoncars.com.au^
 ||petset.com.pk^
 ||phatbeatsradio.com^
 ||phonicsenergy.com^
 ||piloxia.com^
+||pivicoair.com^
 ||pizza-italia.hu^
 ||planetasoft.com^
 ||platform.unalink.net^
 ||poilbartalivetv.xyz^
+||policianacional.cv^
 ||portoepereira.com.br^
 ||pos.appsdemo.xyz^
 ||post.sharmgotransfer.com^
@@ -619,6 +655,7 @@
 ||rizalone.com.ph^
 ||royaliptvhd.com^
 ||royalkingaircoolers.com^
+||royanspa.ir^
 ||sacar.com.br^
 ||sachinmanchanda.com^
 ||sadhanaayurvedics.com^
@@ -632,6 +669,7 @@
 ||sanmichelbr.com.mx^
 ||santabarbaraarapiraca.com.br^
 ||sante221.com^
+||santos.rs^
 ||saris-jo.com^
 ||savethefuture.us^
 ||seelamjoel.com^
@@ -643,9 +681,12 @@
 ||serunirentcar.com^
 ||services-cns.com^
 ||services.himflax.com^
+||servidorcarlosydavid.es^
+||sff3d.com^
 ||shaadishenanigans.com^
 ||shabram.shabramtablewater.ng^
 ||shadigames.com^
+||sharetowin.xyz^
 ||shayarworld.com^
 ||sherwinclothing.com^
 ||shop.creativeideaindia.com^
@@ -678,9 +719,11 @@
 ||spipvtltd.com^
 ||spptti-timur.com^
 ||spryness.com.ng^
+||sshomeo.com^
 ||sslwec.mcqsmentor.com^
 ||stagingbuilder.com^
 ||staging.skaps.com^
+||static-1.link^
 ||stayreading.com^
 ||stella-spa.com^
 ||stfucomedy.com^
@@ -689,6 +732,7 @@
 ||store.adsourcezm.com^
 ||store.gamerinfohub.com^
 ||suadha.org^
+||subhagruha.in^
 ||sultan.almaddahocean.com^
 ||sumersteel.com^
 ||sursargam.org^
@@ -696,6 +740,7 @@
 ||taitasol.com^
 ||takalsadal.com^
 ||take-x.com^
+||tamu.id^
 ||tatagsr.com.br^
 ||tawsilapp.com^
 ||taxiservicekarnal.com^
@@ -741,6 +786,7 @@
 ||tvjovemhits.com^
 ||tv.muslimconnectiontv.org^
 ||ubuntu-inc.com^
+||ugomall.hk^
 ||ulace.com.mx^
 ||umami-learning.com^
 ||unitedforher.flapbead.com^
@@ -756,12 +802,14 @@
 ||vectosign.com^
 ||veniedu.com^
 ||vicssa.us^
+||viennaarena.com^
 ||villalonavala.in^
 ||vinaychoithani.com^
 ||vintagegarage.xyz^
 ||virtualmarts.com^
 ||vitaenterprises.in^
 ||vitaway.org^
+||volight.com^
 ||volt.delivery^
 ||voxelinfosystem.com.np^
 ||vsldestudio.net^
@@ -773,6 +821,7 @@
 ||wapine.com^
 ||warehouselao.com^
 ||wearjora.com^
+||wearsweetbomb.com^
 ||webonclicks.com.au^
 ||website.globalcampworld.com^
 ||webtrader.co^
@@ -787,14 +836,17 @@
 ||wpdev.myprojectstaging.com^
 ||wp-projects.xyz^
 ||wptest.softwave.lk^
+||www.ama.cu^
 ||www.cameraa.co.uk^
+||www.pasionportufuturo.pe^
 ||xcelvationsjr.com^
 ||xcoolwunmigroups.com.ng^
 ||xenergi.net^
-||xz888.oss-cn-hangzhou.aliyuncs.com^
 ||yates.ticondigital.com^
 ||zaparetech.com^
 ||zero61drone.com.br^
+||z.mumun.cn^
+||znzhou.top^
 ||zpdesigner.sigmaitbs.com^
 ||zurieskinclinic.com^
 
@@ -59594,10 +59646,8 @@
 
 
 
-||1-1.lt^
 ||1008691.com^
 ||100bebe.pt^
-||1566xueshe.com^
 ||1skt.com^
 ||2.arthaloca.com^
 ||2.indexsinas.me^
@@ -59621,7 +59671,6 @@
 ||acera.co.uk^
 ||acmvietnamjsc.com^
 ||acteautotulcea.ro^
-||actividades.laforetlanguages.com^
 ||add.net.br^
 ||adeniyisaleem.com^
 ||adityasolsurf.in^
@@ -59689,7 +59738,6 @@
 ||bank.zanderscloud.com.ng^
 ||barkodsolutions.com^
 ||barnhart-studios.com^
-||barsaji.com.mx^
 ||baseline.top^
 ||baselines.top^
 ||bawatingbarter.com^
@@ -59721,8 +59769,8 @@
 ||briar.com.my^
 ||brideofmessiah.com^
 ||bridgesfoundationrepair.com^
+||british-shorthair.es^
 ||broabogados.com^
-||btc247.xyz^
 ||btc360.xyz^
 ||bucbuc.in^
 ||buigiaphat.com.vn^
@@ -59749,7 +59797,6 @@
 ||cepafact.com^
 ||ch1.spacermodem.com^
 ||chafferimpex.com^
-||changeyourlife-2022.com^
 ||chastongroditski.com^
 ||chezalice.co.za^
 ||childselect.com^
@@ -59854,10 +59901,8 @@
 ||dukaree.com^
 ||dulhagharnh.com^
 ||dutapp.wisolve.co.za^
-||dwwmaster.com^
 ||dx.qqyewu.com^
 ||e-commerce.saleensuporte.com.br^
-||e-expression.com^
 ||e-weddingcardswala.in^
 ||e.zpesport.com^
 ||earthdaysavannah.org^
@@ -59866,7 +59911,6 @@
 ||ebakouza.tn^
 ||ecim.azneomedia.ro^
 ||edgetactical.ritabilisim.com^
-||edu-media.cn^
 ||edu.pmvanini.rs.gov.br^
 ||ef-web.com^
 ||egwis.com^
@@ -59937,7 +59981,6 @@
 ||g.nxxxn.ga^
 ||gagnersonargent.fr^
 ||gan-n.cloud-downloader.com^
-||gatcomtech.co.za^
 ||gbsports.theapplab.org^
 ||georgiatest.m2web.dev^
 ||gethomevaluerestoration.com^
@@ -59954,7 +59997,6 @@
 ||goldennorth21.com^
 ||goncalves.com^
 ||goodnewsto2022.com^
-||google247.xyz^
 ||gpoleri.com.ar^
 ||grand-element.ru^
 ||green-cube.me^
@@ -60002,7 +60044,6 @@
 ||hunggiang.vn^
 ||hyperdey.com^
 ||i.fluffy.cc^
-||iacademygroup.cl^
 ||ibooking.campaignhub.net^
 ||ibruh.com^
 ||id-tiara.com^
@@ -60029,7 +60070,6 @@
 ||invoice.99p.ru^
 ||iptel.cy^
 ||itomsystem.in^
-||iworldinfotech.in^
 ||jackytpload.su^
 ||jammuleader.in^
 ||jamshed.pk^
@@ -60115,7 +60155,6 @@
 ||madicon.co.za^
 ||magic-tiles-stain-remover.com^
 ||mail.bs-eiendomme.co.za^
-||mailgoogle.xyz^
 ||mainpagedir.xyz^
 ||maison-du-parc.com^
 ||makeupuccino.com^
@@ -60173,7 +60212,6 @@
 ||nasirj.com^
 ||nbs.vizzhost.com^
 ||necocheasexshop.com^
-||nemorisgames.com^
 ||nepalisandes.com^
 ||nettube.com.br^
 ||new-deal-for-you.com^
@@ -60194,9 +60232,7 @@
 ||nsb.org.uk^
 ||nt.welcome-to.com^
 ||nueva-vida2022.com^
-||numerarysols.com^
 ||nz.welcome-to.com^
-||o2omart.co.in^
 ||oazahotel.com.mk^
 ||oceancitymdforsalebyowner.com^
 ||oceancityrentalbyowner.com^
@@ -60230,7 +60266,6 @@
 ||pacwebdesigns.com^
 ||pagalmovies.bar^
 ||paint-regen.club^
-||pakcommunications.net^
 ||palomino.embarcar.com.pe^
 ||panourisolaretulcea.ro^
 ||parallel.rockvideos.at^
@@ -60256,12 +60291,10 @@
 ||physiciansofficenews.com^
 ||pikasho.com^
 ||piotr-zajac.pl^
-||pivicoair.com^
 ||pivot-to-virtual.com^
 ||plantationproerp.com^
 ||plasfan.ind.br^
 ||playground.oaklife.ca^
-||policianacional.cv^
 ||posmicrosystems.com^
 ||ppdb.smk-ciptaskill.sch.id^
 ||prestasicash.com.ar^
@@ -60314,7 +60347,6 @@
 ||romanianpoints.com^
 ||roshanzamir.ir^
 ||royalsnackmyanmar.com^
-||royanspa.ir^
 ||rsc-host.com^
 ||rtd.b2bpipe.cn^
 ||rxquickpay.com^
@@ -60326,7 +60358,6 @@
 ||sainzim.co.za^
 ||samsuntattoo.com^
 ||sangajiwa.com^
-||santos.rs^
 ||sbss.com.pk^
 ||scglobal.co.th^
 ||schildersbedrijfdsdevos.nl^
@@ -60347,7 +60378,6 @@
 ||shaheentbfoundation.com^
 ||shahikhana.cstdevs.com^
 ||shahu66.com^
-||sharetowin.xyz^
 ||shimmershinecleaning.com^
 ||shinoavto.com^
 ||shiny-ticket.com^
@@ -60385,7 +60415,6 @@
 ||spices.com.sg^
 ||springwoodminingservices.com^
 ||squidgame.to^
-||sshomeo.com^
 ||sspbluebox.com^
 ||stackdigital.co.uk^
 ||staging.apparelpunch.com^
@@ -60394,7 +60423,6 @@
 ||start360up.com^
 ||starting-fromzero.com^
 ||starwalkerdriving.ca^
-||static-1.link^
 ||static.cz01.cn^
 ||stationcarslangley.co.uk^
 ||stavki-na-sporte.ru^
@@ -60404,7 +60432,6 @@
 ||store.jeevsutra.com^
 ||storewel.com^
 ||stybanigltd.com.ng^
-||subhagruha.in^
 ||sucesshighway.com^
 ||sudariocontabilidade.com.br^
 ||sumaiyainternational.com^
@@ -60417,7 +60444,6 @@
 ||t.honker.info^
 ||tabibmd.com^
 ||tabloidpengusaha.com^
-||tamu.id^
 ||tanlayseong.com^
 ||tara.globodyinc.biz^
 ||tas.welcome-to.com^
@@ -60475,7 +60501,6 @@
 ||txingame.com^
 ||ublretailerdemo.cstdevs.com^
 ||ufd.cam^
-||ugomall.hk^
 ||ukguk71.ru^
 ||ukrbaget.com.ua^
 ||ultimate-24.de^
@@ -60491,7 +60516,6 @@
 ||vic.welcome-to.com^
 ||victorysanitizer.com^
 ||videos.ipc.pe^
-||viennaarena.com^
 ||villatera.com^
 ||viphco.ir^
 ||vipysknik.by^
@@ -60500,7 +60524,6 @@
 ||vivationdesign.com^
 ||vksales.com^
 ||vocoptions.net^
-||volight.com^
 ||volkscantonalbank.com^
 ||volviendoserico.com^
 ||voyager.softuvo.xyz^
@@ -60511,7 +60534,6 @@
 ||walkindrivetoday.com^
 ||washatsanjose.com^
 ||wawanhar.id^
-||wearsweetbomb.com^
 ||web.geomegasoft.net^
 ||web.innoservwebsites.in^
 ||webs-up.com^
@@ -60537,7 +60559,6 @@
 ||www.91yudao.com^
 ||www.al-wahd.com^
 ||www.alertsecurities.in^
-||www.ama.cu^
 ||www.bsi.com.vn^
 ||www.cellas.sk^
 ||www.cursossemana.com^
@@ -60564,7 +60585,6 @@
 ||www.moninediy.com^
 ||www.nesthomes.co.ke^
 ||www.opolis.io^
-||www.pasionportufuturo.pe^
 ||www.portafolio.edugestion.cl^
 ||www.qsbinternational.com^
 ||www.reacredit.com.br^
@@ -60599,7 +60619,6 @@
 ||youngsera.com^
 ||yp.hnggzyjy.cn^
 ||yzkzixun.com^
-||znzhou.top^
 ||zofer.com.br^
 ||zsadvocacia.com^
 ||ztekkhosting.com^
@@ -63985,6 +64004,7 @@
 ||ads.dating^
 ||adult.dating^
 ||adultaffairs.dating^
+||adultaustralia.dating^
 ||adultlook.dating^
 ||adultsearch.dating^
 ||adultsex.dating^
@@ -64048,11 +64068,13 @@
 ||api-st.attraction.dating^
 ||web.attraction.dating^
 ||web-st.attraction.dating^
+||augmentedreality.dating^
 ||authenticconnections.dating^
 ||autos.dating^
 ||ava.dating^
 ||available.dating^
 ||bakecaincontri.dating^
+||baobao.dating^
 ||bare.dating^
 ||dev.barebacksex.dating^
 ||female.barebacksex.dating^
@@ -64118,6 +64140,7 @@
 ||backup-api.breeze.dating^
 ||dashboard.breeze.dating^
 ||partner.breeze.dating^
+||bride.dating^
 ||bro.dating^
 ||brook.dating^
 ||bumpy.dating^
@@ -64125,15 +64148,7 @@
 ||c-date.dating^
 ||cake.dating^
 ||www.california.dating^
-||alpha.canadianadult.dating^
-||analytics.canadianadult.dating^
-||blog.canadianadult.dating^
-||dashboard.canadianadult.dating^
-||development.canadianadult.dating^
-||members.canadianadult.dating^
-||my.canadianadult.dating^
-||uat.canadianadult.dating^
-||www.canadianadult.dating^
+||canadianadult.dating^
 ||candybar.dating^
 ||caribbean.dating^
 ||api.chances.dating^
@@ -64169,6 +64184,7 @@
 ||local.cuckoldhotwife.dating^
 ||male.cuckoldhotwife.dating^
 ||staging.cuckoldhotwife.dating^
+||culture.dating^
 ||curvy.dating^
 ||app.cybersex.dating^
 ||crfprofile.cycling.dating^
@@ -64178,6 +64194,7 @@
 ||flashdate.showcase.cys.dating^
 ||dev.dancing.dating^
 ||staging.dancing.dating^
+||dateasia.dating^
 ||datehookup.dating^
 ||www.datenight.dating^
 ||fast.datingadvice.dating^
@@ -64203,6 +64220,7 @@
 ||sqs.divorced.dating^
 ||testing.divorced.dating^
 ||dna.dating^
+||dns.dating^
 ||doggpoundgangstaz.dating^
 ||dev.dominatrix.dating^
 ||female.dominatrix.dating^
@@ -64236,11 +64254,12 @@
 ||gay.equestrians.dating^
 ||local.equestrians.dating^
 ||staging.equestrians.dating^
+||escort-service.dating^
 ||experts.dating^
 ||ezmatch.dating^
 ||fakku.dating^
 ||farmersonly.dating^
-||work.on.fb.dating^
+||fb.dating^
 ||dev.feetfetish.dating^
 ||female.feetfetish.dating^
 ||gay.feetfetish.dating^
@@ -64315,6 +64334,7 @@
 ||male.grannysex.dating^
 ||staging.grannysex.dating^
 ||uploads.graphql.dating^
+||gratis.dating^
 ||www.group.dating^
 ||app.gutsy.dating^
 ||www.gutsy.dating^
@@ -64366,6 +64386,7 @@
 ||i-flirt.dating^
 ||www.ibiza.dating^
 ||ice.dating^
+||idateasia.dating^
 ||autodiscover.inbox.dating^
 ||crfprofile.ink.dating^
 ||crmprofile.ink.dating^
@@ -64396,6 +64417,7 @@
 ||kinkysex.dating^
 ||kinkyworld.dating^
 ||kisscam.dating^
+||latinamericancupid.dating^
 ||lea.dating^
 ||www.lieblings.dating^
 ||localsingles.dating^
@@ -64416,6 +64438,7 @@
 ||luxus.dating^
 ||m3ta.dating^
 ||www.makeithappen.dating^
+||map.dating^
 ||marriedbutlooking.dating^
 ||marry.dating^
 ||match-maker.dating^
@@ -64446,7 +64469,9 @@
 ||test1.site.megusta.dating^
 ||sslproxy.megusta.dating^
 ||metadating.dating^
+||metagay.dating^
 ||metaintimate.dating^
+||metalesbian.dating^
 ||crfprofile.metalhead.dating^
 ||crmprofile.metalhead.dating^
 ||dev.metalhead.dating^
@@ -64455,6 +64480,7 @@
 ||gay.metalhead.dating^
 ||local.metalhead.dating^
 ||staging.metalhead.dating^
+||metaonline.dating^
 ||metav.dating^
 ||metaversereality.dating^
 ||metaversesex.dating^
@@ -64472,6 +64498,7 @@
 ||dev.motorcycle.dating^
 ||staging.motorcycle.dating^
 ||mow.dating^
+||mutually.dating^
 ||test.mwd.dating^
 ||mycity.dating^
 ||myfilipina.dating^
@@ -64555,6 +64582,7 @@
 ||faf.onlinechristian.dating^
 ||fam.onlinechristian.dating^
 ||staging.onlinechristian.dating^
+||dan.onlinejob.dating^
 ||www.ooc.dating^
 ||app.oooo.dating^
 ||orbit.dating^
@@ -64589,6 +64617,7 @@
 ||pansexual.dating^
 ||uk.paranormal.dating^
 ||pare.dating^
+||parents.dating^
 ||app.passion.dating^
 ||token.passion.dating^
 ||passport.dating^
@@ -64607,6 +64636,7 @@
 ||pleb.dating^
 ||porn.dating^
 ||ww25.pornhub.dating^
+||premium.dating^
 ||privet.dating^
 ||puffin.dating^
 ||appnative.pulse.dating^
@@ -64661,6 +64691,7 @@
 ||russianlady.dating^
 ||saturdays.dating^
 ||testing.schwurbler.dating^
+||scott.dating^
 ||secret.dating^
 ||www.seeking.dating^
 ||seeyou.dating^
@@ -64688,6 +64719,8 @@
 ||slow.dating^
 ||vip.smail.dating^
 ||ww1.smiley.dating^
+||smitten.dating^
+||soccer.dating^
 ||sofort.dating^
 ||soon.dating^
 ||blog.soulmates.dating^
@@ -64795,6 +64828,7 @@
 ||walkswithjesus.dating^
 ||wanted.dating^
 ||waves.dating^
+||webcam.dating^
 ||date.what.dating^
 ||start.what.dating^
 ||whatimlookingfor.dating^
@@ -64818,6 +64852,7 @@
 ||wunder.dating^
 ||dev.xcite.dating^
 ||xhamster.dating^
+||xo.dating^
 ||xvideos.dating^
 ||dev.yogi.dating^
 ||staging.yogi.dating^
