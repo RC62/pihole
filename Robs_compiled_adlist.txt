@@ -3,7 +3,7 @@
 # Description: Compilation of PiHole Lists
 # Homepage: https://raw.githubusercontent.com/RC62/pihole/
 # License: GPLv3
-# Last modified: 2022-02-22T21:41:31.374Z
+# Last modified: 2022-02-23T13:43:05.865Z
 #
 # Compiled by @adguard/hostlist-compiler v1.0.12
 #
@@ -37,7 +37,9 @@ x4w8j5q4.stackpathcdn.com
 # Source: https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 #
 021414243.com
+1-1.lt
 123hpcom.site
+1566xueshe.com
 2design.rafafernandez.cat
 33consultoria.com.br
 3dpanaroma.emotionfactory.in
@@ -47,6 +49,7 @@ aagroup.com.ph
 acampark.com.br
 accesswebtech.com.ng
 acelle.rey.agency
+actividades.laforetlanguages.com
 adi.com.pk
 adipmeansresources.com
 adithyainstitute.in
@@ -68,6 +71,7 @@ albahertrainingcenter.com
 aleka.neonek.com
 alfanargroup.today
 alfatechsolution.com.np
+alittlebrave.com
 alkaelectronics.co.in
 allseotoolskit.com
 alphatransus.com
@@ -94,6 +98,7 @@ arkgarments.com
 arodagira.com.br
 arribacorazones.com
 artist.salvationtattoolounge.com
+arttop100.cn
 asesores.com.sv
 asesoriainternacional.com.mx
 asnethome.net
@@ -101,6 +106,7 @@ assistcard.anuncio-ads.cl
 astria-theme.indodevmatech.com
 atifwears.com
 atmotechsolution.co.in
+atomlines.top
 aucklandcarpetcleaning.org.nz
 auxiliarymanagement.com
 azimihotel.in
@@ -109,6 +115,7 @@ bahar669.com
 balightravel.com
 baligrouptrekkingtour.com
 baogia.cokhitienbo.vn
+barsaji.com.mx
 bbpgz.com
 beactive.com.br
 beecoin.biz
@@ -140,8 +147,8 @@ bonus.nigsocblind.org
 bonus.thekitchwarecompany.com
 bostonavenue.org
 botswana.webonclicks.com
-british-shorthair.es
 bssindia.net
+btc247.xyz
 buffalo-blog.myprojectstaging.com
 bukuonline2u.com
 buvgaze.lv
@@ -163,6 +170,7 @@ cfgconline.org
 cgi-international.com
 chabelolandscapingandtreeservice.com
 chakolwa.com
+changeyourlife-2022.com
 chat-animator.online
 chhaganlalandco.com
 chhetrapal.edu.np
@@ -208,7 +216,6 @@ datanetpc.com.pe
 datenex.com
 daystar.ac.ke
 dbind.in
-ddl8.data.hu
 deepaklonstattoo.com
 deep-researchx.com
 demetria.com.ar
@@ -223,6 +230,7 @@ dev-landing.psikologicare.com
 dexteritysolution.com
 dfcenter.apidec.org
 dft.global
+dg.mumun.cn
 diambe.com
 diamondgroupweb.com
 digi-card.surryapropertymanagement.com
@@ -236,6 +244,7 @@ diplomadomedicosgenerales.com
 discoveryast.com
 djanguswest.com.br
 djinganenfulbe.com
+dmdagents.com.au
 dolliplingsyllenesliopa.com
 doraflores.com.br
 dotapp.id
@@ -249,6 +258,7 @@ drpoudel.com.np
 drymetal.com.br
 dubairepairs.ae
 duniamedicare.com
+dwwmaster.com
 e3commerce.net
 earth.24x7wpsupport.com
 eastmatt.com
@@ -256,6 +266,8 @@ ebmspa.cl
 ecologicformaturas.com.br
 educaplus-zg.com
 edufinder.alakmalak.ca
+edu-media.cn
+e-expression.com
 ejankari.com
 ekosol.ba
 elav.pe
@@ -280,6 +292,7 @@ espaciosama.com.ar
 espacomaju.com.br
 estateshop.com.pk
 etawahtoday.com
+evcon.ab.ca
 eventhousekk.com.my
 event.sonder.lgbt
 everywareshop.com
@@ -314,6 +327,7 @@ future-technologies-dev.com
 futursof.com
 game.technomarket.bg
 gastronews.by
+gatcomtech.co.za
 geil.com.co
 geo-lines.com
 gepacunesp.org
@@ -321,9 +335,12 @@ ght.mcqsmentor.com
 gksportshub.com
 global-dis.com
 globalprod.ru
+gmo-sol-p10.heteml.jp
 goeltec.com
 go.iscpelsalvador.org
 goldenrice.in
+google247.xyz
+google360.xyz
 gotonow.com.co
 grampalikadabhadi.in
 griecoscoastfarm.com
@@ -350,7 +367,10 @@ hotelsoorya.in
 hoteltigerplus.com
 htcharitytrust.org
 huuchin.ariun.mn
+hxoptical.net
 hydromet.gov.bz
+iacademygroup.cl
+iashanghai.cn
 ibrand-peru.com
 ilisla.com
 imugi.com.br
@@ -380,6 +400,7 @@ irc2022.com
 islbelize.com
 itexcellence.la
 itstorebd.com
+iworldinfotech.in
 jacestrade.com
 jagatmedia.id
 janemudd.com
@@ -396,6 +417,7 @@ juphysicsclub.com
 jurnalismictv.com
 kalplife.com
 kansaspainmanagement.net
+kapilchugh.com
 karamobiles.co.in
 kartgenix.shop
 keishaevents.com
@@ -427,6 +449,7 @@ legaladhikar.com
 lememovelaria.com.br
 letoguna.ml
 licensewale.com
+littlesweet.co.uk
 liviabordea.ro
 livrearbitriotabacaria.com.br
 localwebdesignandseo.com
@@ -436,6 +459,7 @@ longlifesports.com
 lostcompass.ca
 lozhkin.foundation
 lp.elaysrodrigues.com
+lpm.fk.ub.ac.id
 lumusrmj.com.br
 m8.magicbyteprojects.com
 macaronsbakery.com
@@ -445,6 +469,7 @@ mafrial.com.br
 magalimentos.com.br
 maggysconcept.com
 mahartyeg.com
+mailgoogle.xyz
 maiquick.com
 makeonline.webmaster.rocks
 maktabahjafariyah.in
@@ -477,6 +502,7 @@ mikhospitality.com.np
 milehighequity.com
 mindmapgallery.morelib.com
 missionschool.com.ng
+miylt.org
 mktcomunica.com.br
 mobilikit.com.br
 mohammadsheikh.com
@@ -487,18 +513,21 @@ mozhandcorporation.co.mz
 mplusseguros.com.br
 m.pompanobeachcarservice.net
 mstransportuae.com
+mtc.joburg.org.za
 mtfeducation.com
 mtsalmaarifbadung.sch.id
 multisofterp.com.br
 multisyserp.com.br
 mundodoingles.com.br
 mvdtours.com
+mymicrogreen.mightcode.com
 naanayam.co.in
 nalunited.com
 nammspa-dubai.com
 narendracentral.com
 ncbaebwp.edu.pk
 nebulan.anuncio-ads.cl
+nemorisgames.com
 neosmayorista.com
 new.drceight.com
 newsite.cfgconline.org
@@ -518,10 +547,13 @@ nordvpn.themkproductions.com
 no-reply.redstarstudio.ir
 northeastbulletinnews.in
 notariafranciscovaras.cl
+numerarysols.com
 nusc.ir
 nyrachocolates.com
+o2omart.co.in
 obpcarapiraca.com.br
 offersforchange.com
+old.liceum9.ru
 oldmanrager.com
 olliveiras.com
 ona.pradex.pl
@@ -538,6 +570,7 @@ oxara.com.ar
 oziris-doo.com
 padiride.com
 pagarbetonsukabumi.com
+pakcommunications.net
 papa7shopping.com
 paracletepublishers.org
 paradisegc.net
@@ -545,14 +578,17 @@ parkwooddoors.co.nz
 pebblesofhope.org
 perfectenergy.in
 pesanku.com
+peterjacksoncars.com.au
 petset.com.pk
 phatbeatsradio.com
 phonicsenergy.com
 piloxia.com
+pivicoair.com
 pizza-italia.hu
 planetasoft.com
 platform.unalink.net
 poilbartalivetv.xyz
+policianacional.cv
 portoepereira.com.br
 pos.appsdemo.xyz
 post.sharmgotransfer.com
@@ -597,6 +633,7 @@ rithikengineering.com
 rizalone.com.ph
 royaliptvhd.com
 royalkingaircoolers.com
+royanspa.ir
 sacar.com.br
 sachinmanchanda.com
 sadhanaayurvedics.com
@@ -610,6 +647,7 @@ sandbox.kreatravel.com
 sanmichelbr.com.mx
 santabarbaraarapiraca.com.br
 sante221.com
+santos.rs
 saris-jo.com
 savethefuture.us
 seelamjoel.com
@@ -621,9 +659,12 @@ serscay.com.ar
 serunirentcar.com
 services-cns.com
 services.himflax.com
+servidorcarlosydavid.es
+sff3d.com
 shaadishenanigans.com
 shabram.shabramtablewater.ng
 shadigames.com
+sharetowin.xyz
 shayarworld.com
 sherwinclothing.com
 shop.creativeideaindia.com
@@ -656,9 +697,11 @@ sparklescake.com
 spipvtltd.com
 spptti-timur.com
 spryness.com.ng
+sshomeo.com
 sslwec.mcqsmentor.com
 stagingbuilder.com
 staging.skaps.com
+static-1.link
 stayreading.com
 stella-spa.com
 stfucomedy.com
@@ -667,6 +710,7 @@ stock.huffazcorporation.com
 store.adsourcezm.com
 store.gamerinfohub.com
 suadha.org
+subhagruha.in
 sultan.almaddahocean.com
 sumersteel.com
 sursargam.org
@@ -674,6 +718,7 @@ systemabsoluto.com
 taitasol.com
 takalsadal.com
 take-x.com
+tamu.id
 tatagsr.com.br
 tawsilapp.com
 taxiservicekarnal.com
@@ -720,6 +765,7 @@ tuzdan.com.sa
 tvjovemhits.com
 tv.muslimconnectiontv.org
 ubuntu-inc.com
+ugomall.hk
 ulace.com.mx
 umami-learning.com
 unitedforher.flapbead.com
@@ -735,23 +781,27 @@ vectordon.com
 vectosign.com
 veniedu.com
 vicssa.us
+viennaarena.com
 villalonavala.in
 vinaychoithani.com
 vintagegarage.xyz
 virtualmarts.com
 vitaenterprises.in
 vitaway.org
+volight.com
 volt.delivery
 voxelinfosystem.com.np
 vsldestudio.net
 vulkanbonus.drtrclab.in
 vulkanspinbonus.shaadii.in
+vulkanvegasbonus.jeunete.com
 vulkanwin.techibandhu.com
 wanaka-portal.uat.lk
 wapbuzz.in
 wapine.com
 warehouselao.com
 wearjora.com
+wearsweetbomb.com
 webonclicks.com.au
 website.globalcampworld.com
 webtrader.co
@@ -766,17 +816,20 @@ woo.mainsaildata.com
 wpdev.myprojectstaging.com
 wp-projects.xyz
 wptest.softwave.lk
+www.ama.cu
 www.cameraa.co.uk
 www.chrelisa.com
 www.diplomadomedicosgenerales.com
 www.ninevehtrust.org.uk
+www.pasionportufuturo.pe
 xcelvationsjr.com
 xcoolwunmigroups.com.ng
 xenergi.net
-xz888.oss-cn-hangzhou.aliyuncs.com
 yates.ticondigital.com
 zaparetech.com
 zero61drone.com.br
+z.mumun.cn
+znzhou.top
 zpdesigner.sigmaitbs.com
 zurieskinclinic.com
 #
@@ -115852,6 +115905,11 @@ zurieskinclinic.com
  adult.dating
  adultaffairs.dating
  staging-api.adultaffairs.dating
+ adultaustralia.dating
+ beta-openselling.adultaustralia.dating
+ beta-system.adultaustralia.dating
+ client.adultaustralia.dating
+ www.adultaustralia.dating
  adultlook.dating
  adultsearch.dating
  adultsex.dating
@@ -115932,6 +115990,7 @@ zurieskinclinic.com
  api-st.attraction.dating
  web.attraction.dating
  web-st.attraction.dating
+ augmentedreality.dating
  authenticconnections.dating
  www.authenticconnections.dating
  autos.dating
@@ -115941,6 +116000,8 @@ zurieskinclinic.com
  www.ava.dating
  available.dating
  bakecaincontri.dating
+ baobao.dating
+ www.baobao.dating
  bare.dating
  api.bare.dating
  apistaging.bare.dating
@@ -116023,6 +116084,7 @@ zurieskinclinic.com
  backup-api.breeze.dating
  dashboard.breeze.dating
  partner.breeze.dating
+ bride.dating
  bro.dating
  www.bro.dating
  brook.dating
@@ -116041,6 +116103,7 @@ zurieskinclinic.com
  www.c-date.dating
  cake.dating
  www.california.dating
+ canadianadult.dating
  alpha.canadianadult.dating
  analytics.canadianadult.dating
  blog.canadianadult.dating
@@ -116094,6 +116157,13 @@ zurieskinclinic.com
  local.cuckoldhotwife.dating
  male.cuckoldhotwife.dating
  staging.cuckoldhotwife.dating
+ culture.dating
+ acc.culture.dating
+ adminportal.culture.dating
+ apisdk.culture.dating
+ aqua.culture.dating
+ marketplace.culture.dating
+ payment.culture.dating
  curvy.dating
  app.cybersex.dating
  crfprofile.cycling.dating
@@ -116103,6 +116173,7 @@ zurieskinclinic.com
  flashdate.showcase.cys.dating
  dev.dancing.dating
  staging.dancing.dating
+ dateasia.dating
  datehookup.dating
  www.datehookup.dating
  www.datenight.dating
@@ -116158,6 +116229,7 @@ zurieskinclinic.com
  sqs.divorced.dating
  testing.divorced.dating
  dna.dating
+ dns.dating
  doggpoundgangstaz.dating
  www.doggpoundgangstaz.dating
  dev.dominatrix.dating
@@ -116174,6 +116246,7 @@ zurieskinclinic.com
  admin.dots.dating
  www.double.dating
  easyflirt.dating
+ 429895.easyflirt.dating
  gay.easyflirt.dating
  love.easyflirt.dating
  dev.ebony.dating
@@ -116210,11 +116283,13 @@ zurieskinclinic.com
  gay.equestrians.dating
  local.equestrians.dating
  staging.equestrians.dating
+ escort-service.dating
  experts.dating
  ezmatch.dating
  fakku.dating
  www.fakku.dating
  farmersonly.dating
+ fb.dating
  work.on.fb.dating
  not.work.on.fb.dating
  does.not.work.on.fb.dating
@@ -116329,6 +116404,8 @@ zurieskinclinic.com
  male.grannysex.dating
  staging.grannysex.dating
  uploads.graphql.dating
+ gratis.dating
+ preview.gratis.dating
  www.group.dating
  app.gutsy.dating
  www.gutsy.dating
@@ -116395,6 +116472,8 @@ zurieskinclinic.com
  i-flirt.dating
  www.ibiza.dating
  ice.dating
+ idateasia.dating
+ www.idateasia.dating
  autodiscover.inbox.dating
  crfprofile.ink.dating
  crmprofile.ink.dating
@@ -116449,6 +116528,8 @@ zurieskinclinic.com
  kisscam.dating
  admin.kisscam.dating
  www.kisscam.dating
+ latinamericancupid.dating
+ www.latinamericancupid.dating
  lea.dating
  api.lea.dating
  beta.lea.dating
@@ -116498,6 +116579,7 @@ zurieskinclinic.com
  m3ta.dating
  www.m3ta.dating
  www.makeithappen.dating
+ map.dating
  marriedbutlooking.dating
  marry.dating
  apps.marry.dating
@@ -116553,7 +116635,9 @@ zurieskinclinic.com
  sslproxy.megusta.dating
  metadating.dating
  www.metadating.dating
+ metagay.dating
  metaintimate.dating
+ metalesbian.dating
  crfprofile.metalhead.dating
  crmprofile.metalhead.dating
  dev.metalhead.dating
@@ -116562,6 +116646,7 @@ zurieskinclinic.com
  gay.metalhead.dating
  local.metalhead.dating
  staging.metalhead.dating
+ metaonline.dating
  metav.dating
  www.metav.dating
  metaversereality.dating
@@ -116583,6 +116668,8 @@ zurieskinclinic.com
  staging.motorcycle.dating
  mow.dating
  www.mow.dating
+ mutually.dating
+ admin.mutually.dating
  test.mwd.dating
  mycity.dating
  myfilipina.dating
@@ -116709,6 +116796,7 @@ zurieskinclinic.com
  faf.onlinechristian.dating
  fam.onlinechristian.dating
  staging.onlinechristian.dating
+ dan.onlinejob.dating
  www.ooc.dating
  app.oooo.dating
  orbit.dating
@@ -116744,6 +116832,13 @@ zurieskinclinic.com
  pansexual.dating
  uk.paranormal.dating
  pare.dating
+ parents.dating
+ adminportal.parents.dating
+ betatap.parents.dating
+ dealer.parents.dating
+ dmkp.parents.dating
+ membership.parents.dating
+ passport.parents.dating
  app.passion.dating
  token.passion.dating
  passport.dating
@@ -116766,6 +116861,13 @@ zurieskinclinic.com
  pleb.dating
  porn.dating
  ww25.pornhub.dating
+ premium.dating
+ access.premium.dating
+ apisdk.premium.dating
+ echo.premium.dating
+ painel.premium.dating
+ partners.premium.dating
+ qa.premium.dating
  privet.dating
  my.privet.dating
  puffin.dating
@@ -116828,6 +116930,8 @@ zurieskinclinic.com
  russianlady.dating
  saturdays.dating
  testing.schwurbler.dating
+ scott.dating
+ www.scott.dating
  secret.dating
  www.seeking.dating
  seeyou.dating
@@ -116867,6 +116971,10 @@ zurieskinclinic.com
  www.slow.dating
  vip.smail.dating
  ww1.smiley.dating
+ smitten.dating
+ soccer.dating
+ inventory.soccer.dating
+ library.soccer.dating
  sofort.dating
  soon.dating
  blog.soulmates.dating
@@ -117039,6 +117147,13 @@ zurieskinclinic.com
  wanted.dating
  waves.dating
  www.waves.dating
+ webcam.dating
+ esign.webcam.dating
+ front.webcam.dating
+ frontend.webcam.dating
+ gestion.webcam.dating
+ hk.webcam.dating
+ hotel.webcam.dating
  date.what.dating
  start.what.dating
  whatimlookingfor.dating
@@ -117062,6 +117177,7 @@ zurieskinclinic.com
  wunder.dating
  dev.xcite.dating
  xhamster.dating
+ xo.dating
  xvideos.dating
  magento.xvideos.dating
  staging.xvideos.dating
