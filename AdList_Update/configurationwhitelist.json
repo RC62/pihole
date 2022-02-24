@@ -13,7 +13,7 @@
     {
       "name": "Pihole Regex WhiteList",
       "source": "https://raw.githubusercontent.com/RC62/pihole/main/Pihole_Whitelist_RegEx",
-      "type": "adguard",
+      "type": "adblock",
       "transformations": ["RemoveComments", "Validate"]
     }
   ],
