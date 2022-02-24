@@ -9,7 +9,7 @@ hostlist-compiler -c configurationwhitelist.json -o outputallow.txt
 sleep 2
 
 # Cleanup blank lines
-sed '/^$/d' output2.txt > ~/Library/CloudStorage/OneDrive\-Personal/Raspberry\ Pi/GitHub/pihole/robs_compiled_adguard_whitelist.txt
+sed '/^$/d' outputallow.txt > ~/Library/CloudStorage/OneDrive\-Personal/Raspberry\ Pi/GitHub/pihole/robs_compiled_adguard_whitelist.txt
 
 
 # Update Github project
