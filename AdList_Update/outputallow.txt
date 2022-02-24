@@ -1,0 +1,102 @@
+!
+! Title: Robs Compiled AdGuard WhiteList
+! Description: Compilation of PiHole WhiteLists
+! Homepage: https://raw.githubusercontent.com/RC62/pihole/
+! License: GPLv3
+! Last modified: 2022-02-24T16:58:16.098Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.12
+!
+!
+! Source name: Pihole Exact WhiteList
+! Source: https://raw.githubusercontent.com/RC62/pihole/main/Pihole_Whitelist
+!
+||nbcstreaming.sc.omtrdc.net^
+||ogs.google.com^
+||gstaticadssl.l.google.com^
+||fonts.gstatic.com^
+||raspberrypi.local^
+||tags.tiqcdn.com^
+||pc-humana-collect.tealiumiq.com^
+||s.youtube.com^
+||products.office.com^
+||login.microsoftonline.com^
+||fe3.delivery.dsp.mp.microsoft.com.nsatc.net^
+||rdz-rbcloud.rainbird.com^
+||firebase-settings.crashlytics.com^
+||b.jw-cdn.org^
+||graph.facebook.com^
+||graph.instagram.com^
+||www.facebook.com^
+||star-mini.c10r.facebook.com^
+||edge-mqtt.facebook.com^
+||mqtt.c10r.facebook.com^
+||s.shopify.com^
+||bit.ly^
+||ow.ly^
+||tinyurl.com^
+||homedepot.tt.omtrdc.net^
+||time-osx.g.aaplimg.com^
+||assetshuluimcom-a.akamaihd.net^
+||cws-hulu.conviva.com^
+||hulu-ios.hb-api.omtrdc.net^
+||hulu-lr.hb-api.omtrdc.net^
+||hulu.com.akadns.net^
+||hulu.com.c.footprint.net^
+||hulu.hb-api.omtrdc.net^
+||hulu.hb.omtrdc.net^
+||hulu.map.fastly.net^
+||hulu.sc.omtrdc.net^
+||ibhuluimcom-a.akamaihd.net^
+||self-events-data.trafficmanager.net^
+||metrics.barclaycardus.com^
+||pool.ntp.org^
+||time.nist.gov^
+
+!
+! Source name: Pihole Regex WhiteList
+! Source: https://raw.githubusercontent.com/RC62/pihole/main/Pihole_Whitelist_RegEx
+!
+(\.|^)akamaiedge\.net$
+(\.|^)amazon-adsystem\.com$
+(\.|^)symcb\.com$
+(.*\.|^)live\.com$
+(.*\.|^)fbcdn\.net$
+(.*\.|^)blinkreceipt\.com$
+(\.|^)zoom\.us$
+(\.|^)samsungqbe\.com$
+ocsp[0-9]*\.apple.com
+(.*\.|^)msftncsi\.com$
+(.*\.|^)microsoft\.com$
+(.*\.|^)xboxlive\.com$
+(.*\.|^)live\.com\.akadns\.net$
+(.*\.|^)microsoft\.com\.akadns\.net$
+(.*\.|^)ring\.com$
+(.*\.|^)googleapis\.com$
+(.*\.|^)amazon\.com$
+(.*\.|^)conviva\.com$
+(.*\.|^)beacons.*\.gvt.*\.com$
+(.*\.|^)paypal\.com$
+(.*\.|^)azure\.com$
+(.*\.|^)push.apple\.com$
+(.*\.|^)office365\.com$
+(.*\.|^)nest\.com$
+(.*\.|^)typekit\.net$
+(.*\.|^)hockeyapp\.net$
+(.*\.|^)samsungcloudsolution\.(com|net|tv)$
+(.*\.|^)1password(services|usercontent)*\.(com|eu|ca)$
+(.*\.|^)(hulu)(stream|\.map\.fastly|\.com\.akadns)*\.(com$|net$)
+(\.|^)jw\.org$
+(.*\.|^)demdex\.net$
+(.*\.|^)samsclub\.com$
+(.*\.|^)homedepot\.com$
+(.*\.|^)ssa\.gov$
+(.*\.|^)samsungelectronics\.com$
+(.*\.|^)icloud\.com$
+(.*\.|^)apple-dns\.net$
+(.*\.|^)rc62\.net$
+(\.|^)smoot\.apple\.com$
+(\.|^)roku\.com$
+(.*)darwin\.hulu.*\.(com$|net$)
+(.*\.|^)(wyze|wyzecam)\.com$
+(.*\.|^)rings\.solutions$
