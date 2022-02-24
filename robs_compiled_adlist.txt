@@ -3,7 +3,7 @@
 # Description: Compilation of PiHole Lists
 # Homepage: https://raw.githubusercontent.com/RC62/pihole/
 # License: GPLv3
-# Last modified: 2022-02-23T14:31:35.174Z
+# Last modified: 2022-02-24T14:38:37.965Z
 #
 # Compiled by @adguard/hostlist-compiler v1.0.12
 #
@@ -100760,6 +100760,7 @@ zurieskinclinic.com
  aussietechnology.com
  www.aussietechnology.com
  austinfriends.com
+ new.austinfriends.com
  www.austinfriends.com
  baddkittyclub.com
  imap.baddkittyclub.com
@@ -109860,6 +109861,7 @@ zurieskinclinic.com
  mobileuktest.meetic.com
  movistardev.meetic.com
  movistarxhtmltest.meetic.com
+ myfeelback.meetic.com
  nl.meetic.com
  nrjmobile.meetic.com
  o2uk.meetic.com
@@ -117392,6 +117394,7 @@ zurieskinclinic.com
  api.waiter.love
  blog.waiter.love
  lb.waiter.love
+ preprod.waiter.love
  prod-bo.waiter.love
  www.waiter.love
  xlive.love
@@ -117649,6 +117652,7 @@ zurieskinclinic.com
  smtps.dateen.net
  webmail.dateen.net
  ww25.dateen.net
+ ww16.ww25.ww25.ww25.ww25.dateen.net
  ww38.dateen.net
  ww43.dateen.net
  www.dateen.net
