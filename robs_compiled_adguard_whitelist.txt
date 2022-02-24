@@ -3,7 +3,7 @@
 ! Description: Compilation of PiHole WhiteLists
 ! Homepage: https://raw.githubusercontent.com/RC62/pihole/
 ! License: GPLv3
-! Last modified: 2022-02-24T16:27:25.128Z
+! Last modified: 2022-02-24T16:29:32.499Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -56,3 +56,46 @@
 ! Source name: Pihole Regex WhiteList
 ! Source: https://raw.githubusercontent.com/RC62/pihole/main/Pihole_Whitelist_RegEx
 !
+(\.|^)akamaiedge\.net$
+(\.|^)amazon-adsystem\.com$
+(\.|^)symcb\.com$
+(.*\.|^)live\.com$
+(.*\.|^)fbcdn\.net$
+(.*\.|^)blinkreceipt\.com$
+(\.|^)zoom\.us$
+(\.|^)samsungqbe\.com$
+ocsp[0-9]*\.apple.com
+(.*\.|^)msftncsi\.com$
+(.*\.|^)microsoft\.com$
+(.*\.|^)xboxlive\.com$
+(.*\.|^)live\.com\.akadns\.net$
+(.*\.|^)microsoft\.com\.akadns\.net$
+(.*\.|^)ring\.com$
+(.*\.|^)googleapis\.com$
+(.*\.|^)amazon\.com$
+(.*\.|^)conviva\.com$
+(.*\.|^)beacons.*\.gvt.*\.com$
+(.*\.|^)paypal\.com$
+(.*\.|^)azure\.com$
+(.*\.|^)push.apple\.com$
+(.*\.|^)office365\.com$
+(.*\.|^)nest\.com$
+(.*\.|^)typekit\.net$
+(.*\.|^)hockeyapp\.net$
+(.*\.|^)samsungcloudsolution\.(com|net|tv)$
+(.*\.|^)1password(services|usercontent)*\.(com|eu|ca)$
+(.*\.|^)(hulu)(stream|\.map\.fastly|\.com\.akadns)*\.(com$|net$)
+(\.|^)jw\.org$
+(.*\.|^)demdex\.net$
+(.*\.|^)samsclub\.com$
+(.*\.|^)homedepot\.com$
+(.*\.|^)ssa\.gov$
+(.*\.|^)samsungelectronics\.com$
+(.*\.|^)icloud\.com$
+(.*\.|^)apple-dns\.net$
+(.*\.|^)rc62\.net$
+(\.|^)smoot\.apple\.com$
+(\.|^)roku\.com$
+(.*)darwin\.hulu.*\.(com$|net$)
+(.*\.|^)(wyze|wyzecam)\.com$
+(.*\.|^)rings\.solutions$

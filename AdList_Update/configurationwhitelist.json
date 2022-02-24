@@ -8,13 +8,13 @@
       "name": "Pihole Exact WhiteList",
       "source": "https://raw.githubusercontent.com/RC62/pihole/main/Pihole_Whitelist",
       "type": "hosts",
-      "transformations": ["RemoveComments", "Validate"]
+      "transformations": ["RemoveComments"]
     },
     {
       "name": "Pihole Regex WhiteList",
       "source": "https://raw.githubusercontent.com/RC62/pihole/main/Pihole_Whitelist_RegEx",
       "type": "adblock",
-      "transformations": ["RemoveComments", "Validate"]
+      "transformations": ["RemoveComments"]
     }
   ],
   "transformations": ["Deduplicate", "Compress"]
