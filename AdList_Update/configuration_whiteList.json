@@ -1,0 +1,21 @@
+{
+  "name": "Robs Compiled AdGuard WhiteList",
+  "description": "Compilation of PiHole WhiteLists",
+  "homepage": "https://raw.githubusercontent.com/RC62/pihole/",
+  "license": "GPLv3",
+  "sources": [
+    {
+      "name": "Pihole Exact WhiteList",
+      "source": "https://raw.githubusercontent.com/RC62/pihole/main/Pihole_Whitelist",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Validate"]
+    },
+    {
+      "name": "Pihole Regex WhiteList",
+      "source": "https://raw.githubusercontent.com/RC62/pihole/main/Pihole_Whitelist_RegEx",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Validate"]
+    }
+  ],
+  "transformations": ["Deduplicate", "Compress"]
+}
