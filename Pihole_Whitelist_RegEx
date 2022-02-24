@@ -47,6 +47,6 @@ ocsp[0-9]*\.apple.com
 (.*\.|^)rings\.solutions$
 #
 #
-# Regex Cleanups for Raw List (include leading/trailing spaces)
-# ^  [0-9]*:
-#  \(enabled.*$
+# Regex Cleanups for Raw List
+# ^\s*[0-9]*:\s*
+# \s*(enabled.*$
