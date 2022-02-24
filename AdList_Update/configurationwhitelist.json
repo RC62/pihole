@@ -6,13 +6,13 @@
   "sources": [
     {
       "name": "Pihole Exact WhiteList",
-      "source": "https://raw.githubusercontent.com/RC62/pihole/main/Pihole_Whitelist",
+      "source": "https://raw.githubusercontent.com/RC62/pihole/main/Pihole_Whitelist.txt",
       "type": "hosts",
       "transformations": ["RemoveComments"]
     },
     {
       "name": "Pihole Regex WhiteList",
-      "source": "https://raw.githubusercontent.com/RC62/pihole/main/Pihole_Whitelist_RegEx",
+      "source": "https://raw.githubusercontent.com/RC62/pihole/main/Pihole_Whitelist_RegEx.txt",
       "type": "adblock",
       "transformations": ["RemoveComments"]
     }
