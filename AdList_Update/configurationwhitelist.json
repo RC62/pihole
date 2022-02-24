@@ -17,5 +17,5 @@
       "transformations": ["RemoveComments"]
     }
   ],
-  "transformations": ["Deduplicate", "Compress", "Validate"]
+  "transformations": ["Deduplicate", "Compress"]
 }
