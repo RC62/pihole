@@ -16,6 +16,6 @@ sed '/^$/d' outputallow.txt > ~/Library/CloudStorage/OneDrive\-Personal/Raspberr
 cd ~/Library/CloudStorage/OneDrive\-Personal/Raspberry\ Pi/GitHub/pihole/
 git add *
 sleep 2
-git commit -m "update script"
+git commit -m "update whitelist script"
 sleep 2
 git push
