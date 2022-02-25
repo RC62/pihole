@@ -3,7 +3,7 @@
 # Description: Compilation of PiHole Lists
 # Homepage: https://raw.githubusercontent.com/RC62/pihole/
 # License: GPLv3
-# Last modified: 2022-02-24T15:59:47.578Z
+# Last modified: 2022-02-25T13:01:55.526Z
 #
 # Compiled by @adguard/hostlist-compiler v1.0.12
 #
@@ -155,7 +155,6 @@ buffalo-blog.myprojectstaging.com
 bukuonline2u.com
 buvgaze.lv
 cableandsecurity.com
-caioaraujo.vip
 caminhosdalinguagem.com.br
 canadiantheatermonologues.com
 canaldoprojetista.com.br
