@@ -3,7 +3,7 @@
 ! Description: Compilation of PiHole Lists
 ! Homepage: https://raw.githubusercontent.com/RC62/pihole/
 ! License: GPLv3
-! Last modified: 2022-02-25T13:02:02.167Z
+! Last modified: 2022-02-26T13:07:39.084Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -61390,6 +61390,7 @@
 ||bodyshopclubs.com^
 ||bonepage.com^
 ||bookofmatches.com^
+||bowerybliss.com^
 ||bradentonsingles.com^
 ||bumble.com^
 ||bunnyranch.com^

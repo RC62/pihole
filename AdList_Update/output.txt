@@ -3,7 +3,7 @@
 # Description: Compilation of PiHole Lists
 # Homepage: https://raw.githubusercontent.com/RC62/pihole/
 # License: GPLv3
-# Last modified: 2022-02-25T13:01:55.526Z
+# Last modified: 2022-02-26T13:07:32.488Z
 #
 # Compiled by @adguard/hostlist-compiler v1.0.12
 #
@@ -104634,6 +104634,16 @@ zurieskinclinic.com
  www1.bookofmatches.com
  www2.bookofmatches.com
  wwww.bookofmatches.com
+ bowerybliss.com
+ autodiscover.bowerybliss.com
+ cpanel.bowerybliss.com
+ cpcalendars.bowerybliss.com
+ cpcontacts.bowerybliss.com
+ mail.bowerybliss.com
+ webdisk.bowerybliss.com
+ webmail.bowerybliss.com
+ ww16.bowerybliss.com
+ www.bowerybliss.com
  bradentonsingles.com
  dating.bradentonsingles.com
  www.bradentonsingles.com
@@ -108784,7 +108794,6 @@ zurieskinclinic.com
  cpcontacts.eyzwideshut.com
  eyzwideshutclub.eyzwideshut.com
  www.eyzwideshutclub.eyzwideshut.com
- jv.eyzwideshut.com
  kinkycastle.eyzwideshut.com
  mail.eyzwideshut.com
  securitycamerastop.eyzwideshut.com
@@ -110002,7 +110011,6 @@ zurieskinclinic.com
  mvideo.greendoorlasvegas.com
  www.greendoorlasvegas.com
  grindr.com
- 1password-scim.grindr.com
  admin.grindr.com
  admin-k8s.grindr.com
  api.grindr.com
@@ -111212,7 +111220,6 @@ zurieskinclinic.com
  api-dev.kippoapp.com
  api-prod.kippoapp.com
  api-staging.kippoapp.com
- www.kippoapp.com
  kitkatranch.com
  imap.kitkatranch.com
  pop.kitkatranch.com
@@ -115445,6 +115452,7 @@ zurieskinclinic.com
  pt.skokka.com
  py.skokka.com
  py-static.skokka.com
+ rpgw.skokka.com
  sg.skokka.com
  sg-static.skokka.com
  sn.skokka.com
@@ -115468,15 +115476,12 @@ zurieskinclinic.com
  a20.skout.com
  www.a20.skout.com
  and.skout.com
- andqa.skout.com
  www.andqa.skout.com
  app.skout.com
- blog.skout.com
  boyahoy.skout.com
  www.boyahoy.skout.com
  calendar.skout.com
  cdn.skout.com
- cmvpn.skout.com
  docs.skout.com
  email.skout.com
  gifts.skout.com
@@ -115489,22 +115494,17 @@ zurieskinclinic.com
  imgpriv.skout.com
  imgpub.skout.com
  ios.skout.com
- iosqa.skout.com
  www.iosqa.skout.com
  local.skout.com
  mailbox.skout.com
- openvpn.skout.com
  pop.skout.com
  resources.skout.com
  rewards.skout.com
- sslvpn.skout.com
  staging.skout.com
  streamer.skout.com
  support.skout.com
  talent.skout.com
  terms.skout.com
- upload.skout.com
- voice.skout.com
  www.skout.com
  skyecandy.com
  antispam.skyecandy.com
@@ -118551,7 +118551,6 @@ zurieskinclinic.com
  login.divorced.dating
  sqs.divorced.dating
  testing.divorced.dating
- dna.dating
  dns.dating
  doggpoundgangstaz.dating
  www.doggpoundgangstaz.dating
@@ -118584,11 +118583,8 @@ zurieskinclinic.com
  eden.dating
  csse.eden.dating
  dev.csse.eden.dating
- dev.geo.eden.dating
- geo3.eden.dating
  geo4.eden.dating
  psse.eden.dating
- dev.psse.eden.dating
  poc.routes.eden.dating
  registry.routes.eden.dating
  registrydevops.routes.eden.dating
@@ -118681,7 +118677,6 @@ zurieskinclinic.com
  fuckbookclub.dating
  app.fuse.dating
  fwb.dating
- g.dating
  www.gameon.dating
  internal.gaming.dating
  invoice.gaming.dating
@@ -121007,9 +121002,11 @@ zurieskinclinic.com
  niggermania.co
  autodiscover.niggermania.co
  cpanel.niggermania.co
+ cpcalendars.niggermania.co
  cpcontacts.niggermania.co
  mail.niggermania.co
  webdisk.niggermania.co
+ webmail.niggermania.co
  www.niggermania.co
  stateofthenation.co
  admin.stateofthenation.co
@@ -124940,9 +124937,6 @@ zurieskinclinic.com
 
  events.browsiprod.com
  yield-manager.browsiprod.com
-
- cdn.bskarn.com
- loc.bskarn.com
 
  btloader.com
 
