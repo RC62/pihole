@@ -3,7 +3,7 @@
 # Description: Compilation of PiHole Lists
 # Homepage: https://raw.githubusercontent.com/RC62/pihole/
 # License: GPLv3
-# Last modified: 2022-02-27T11:38:25.811Z
+# Last modified: 2022-02-28T12:31:35.546Z
 #
 # Compiled by @adguard/hostlist-compiler v1.0.12
 #
@@ -143,6 +143,7 @@ blog.aapgsuez.net
 blog.manipalinn.com
 blog.uposit.me
 blueflamemarket.com
+bmn.lpmpbanten.id
 bnblogger.com
 bonbistro.pk
 bonus.daralhilalelectronics.com
@@ -199,6 +200,7 @@ covidkounter.com
 cowork.anuncio-ads.cl
 creni.anuncio-ads.cl
 crhconsultores.co.mz
+crm.avionxpress.com
 crowdcap.xyz
 cryptinc.uk.nf
 cubitus.africa
@@ -310,6 +312,7 @@ faciliusinc.com
 farmcityltd.com
 farms.cl
 fasomali.com
+file-coin-coin-10.com
 find-a-good-attorney.com
 finessecarpetcleaners.net
 five.fivedimensiongold.com
@@ -328,6 +331,7 @@ fursa-api.indodevmatech.com
 fusionlogistics.com.ng
 future-technologies-dev.com
 futursof.com
+fwit1.com
 game.technomarket.bg
 gastronews.by
 gatcomtech.co.za
@@ -404,6 +408,7 @@ investpre.com.br
 ipage.com.ar
 ipsociety.co.in
 irc2022.com
+isguvenligiburada.com
 islbelize.com
 itexcellence.la
 itstorebd.com
@@ -498,6 +503,7 @@ matrixvfx.com
 maxlover.in
 maxpowergears.digitalcard.fun
 maynadelices.com
+mbahauddin.com
 medeq.indodevmatech.com
 med-smi.com
 members.livechennai.com
@@ -538,6 +544,7 @@ nebulan.anuncio-ads.cl
 nemorisgames.com
 neosmayorista.com
 new.drceight.com
+newmainghantabazar.com
 newsite.cfgconline.org
 news.uposit.me
 ngthanhquang.com
@@ -644,6 +651,7 @@ rizalone.com.ph
 royaliptvhd.com
 royalkingaircoolers.com
 royanspa.ir
+rsvproperties.co.za
 sacar.com.br
 sachinmanchanda.com
 sadhanaayurvedics.com
@@ -751,6 +759,7 @@ test.siafrica.org
 theagencysrilanka.com
 theangelz.com.br
 theasiansport.com
+thecanadianarab.com
 thekilhas.com.br
 thekilhastattoo.com.br
 thekitchwarecompany.com
@@ -795,6 +804,7 @@ viennaarena.com
 villalonavala.in
 vinaychoithani.com
 vintagegarage.xyz
+vipwatchpay.com
 virtualmarts.com
 vitaenterprises.in
 vitaway.org
@@ -831,12 +841,14 @@ www.ama.cu
 www.cameraa.co.uk
 www.chrelisa.com
 www.diplomadomedicosgenerales.com
+www.iscleanone.com
 www.ninevehtrust.org.uk
 www.pasionportufuturo.pe
 www.uplooder.net
 xcelvationsjr.com
 xcoolwunmigroups.com.ng
 xenergi.net
+xn--t60b69m1ey68a22oyvh.com
 yates.ticondigital.com
 zaparetech.com
 zero61drone.com.br
@@ -105668,18 +105680,29 @@ zurieskinclinic.com
  wmchat.chatspin.com
  www.chatspin.com
  chaturbate.com
+ 101camsnet.chaturbate.com
+ 16cams.chaturbate.com
  1dd84ee04e2526.chaturbate.com
+ 1littledickychaturbatecom.chaturbate.com
+ 1on1.chaturbate.com
  5b22c23b569.chaturbate.com
  632ed.chaturbate.com
  69sex.chaturbate.com
+ absolugirl.chaturbate.com
  access1.chaturbate.com
  achilles.chaturbate.com
  admin.chaturbate.com
+ adultmovie69us.chaturbate.com
  adultonlywebcams.chaturbate.com
+ adultprepaid.chaturbate.com
  aliveboy.chaturbate.com
+ ar.chaturbate.com
  b3c2146.chaturbate.com
  badhombregirls.chaturbate.com
  beaverwebcams.chaturbate.com
+ bestmenon.chaturbate.com
+ betterloversinfo.chaturbate.com
+ bigbuttsturnmeon.chaturbate.com
  billingsupport.chaturbate.com
  boole.chaturbate.com
  bootyshark.chaturbate.com
@@ -105687,37 +105710,55 @@ zurieskinclinic.com
  br.chaturbate.com
  bradentonco.chaturbate.com
  bradentoncov1.chaturbate.com
+ bradsboys.chaturbate.com
  bravecams.chaturbate.com
  c.chaturbate.com
  ca.chaturbate.com
+ cam.chaturbate.com
  camcrawler.chaturbate.com
  camjoy.chaturbate.com
  camnude.chaturbate.com
  camsauce.chaturbate.com
+ camsexmag.chaturbate.com
+ camsfy.chaturbate.com
+ camsti.chaturbate.com
+ camsyt.chaturbate.com
  cb1142e9f.chaturbate.com
+ cbgirls.chaturbate.com
  ccstatic.chaturbate.com
  ch.chaturbate.com
  channel.chaturbate.com
  chatclimax.chaturbate.com
  chattino.chaturbate.com
+ chaturbateroom.chaturbate.com
  choosecams.chaturbate.com
  cockcams.chaturbate.com
+ cryon.chaturbate.com
  cumcat.chaturbate.com
+ cz.chaturbate.com
+ danskporno.chaturbate.com
  darkmode.chaturbate.com
  de.chaturbate.com
  deae4e913938e.chaturbate.com
  dickflash.chaturbate.com
  dirtypasses.chaturbate.com
+ droulette.chaturbate.com
  ei.chaturbate.com
  el.chaturbate.com
  en.chaturbate.com
  enroll.chaturbate.com
+ eroticaplaza.chaturbate.com
  es.chaturbate.com
+ exhibitionstage.chaturbate.com
+ exocams.chaturbate.com
  fairvilla.chaturbate.com
+ flirt4funf4f.chaturbate.com
  fr.chaturbate.com
+ freetrial.chaturbate.com
  fusion.chaturbate.com
  gayboy.chaturbate.com
  euro.gayboy.chaturbate.com
+ jerry.euro.gayboy.chaturbate.com
  gayboystube.chaturbate.com
  girlfriendgalleries.chaturbate.com
  girlsgonewild.chaturbate.com
@@ -105725,12 +105766,19 @@ zurieskinclinic.com
  golden.chaturbate.com
  guystricked.chaturbate.com
  hercams.chaturbate.com
+ herewecam.chaturbate.com
+ hi.chaturbate.com
+ homematurepornpw.chaturbate.com
  hotwendycams.chaturbate.com
+ https.chaturbate.com
  internal.chaturbate.com
  it.chaturbate.com
+ www.it.chaturbate.com
+ iwebcamspt.chaturbate.com
  ja.chaturbate.com
  jackinchat.chaturbate.com
  internal.jackinchat.chaturbate.com
+ www.internal.jackinchat.chaturbate.com
  jazzynhubby.chaturbate.com
  jezebelcam.chaturbate.com
  jjgirls.chaturbate.com
@@ -105741,8 +105789,10 @@ zurieskinclinic.com
  lab.chaturbate.com
  ladyboygold.chaturbate.com
  livecam2rock.chaturbate.com
+ livefreecamx.chaturbate.com
  livemastercams.chaturbate.com
  liveshecam.chaturbate.com
+ liveshows.chaturbate.com
  locity.chaturbate.com
  lovrschat.chaturbate.com
  lustchat.chaturbate.com
@@ -105750,6 +105800,7 @@ zurieskinclinic.com
  mail-tr.chaturbate.com
  mail-tra.chaturbate.com
  marycams.chaturbate.com
+ maturesexgallsxyz.chaturbate.com
  milf4ever.chaturbate.com
  milfsonline.chaturbate.com
  milkman.chaturbate.com
@@ -105760,20 +105811,26 @@ zurieskinclinic.com
  my2centsreviews.chaturbate.com
  myexclips.chaturbate.com
  myjuicycam.chaturbate.com
+ mypovcams.chaturbate.com
  n.chaturbate.com
  nextdoor.chaturbate.com
  nl.chaturbate.com
  noads.chaturbate.com
  nudems.chaturbate.com
+ ogrish.chaturbate.com
  olalacam.chaturbate.com
  periscopenudegirls.chaturbate.com
  phub.chaturbate.com
  porkytube.chaturbate.com
  porn5.chaturbate.com
  porncam.chaturbate.com
+ povts.chaturbate.com
  preggocam.chaturbate.com
+ privategirlsnbgde.chaturbate.com
  pt.chaturbate.com
+ public.chaturbate.com
  ratecocks.chaturbate.com
+ www.ratecocks.chaturbate.com
  realsexpass.chaturbate.com
  redx.chaturbate.com
  rlccams.chaturbate.com
@@ -105782,12 +105839,18 @@ zurieskinclinic.com
  rtgirl.chaturbate.com
  ru.chaturbate.com
  sabrinasstockings.chaturbate.com
+ www.sabrinasstockings.chaturbate.com
  secure.chaturbate.com
  secure2.chaturbate.com
  ses.chaturbate.com
  sexcamly.chaturbate.com
+ sexcyberinfo.chaturbate.com
+ sexhiber.chaturbate.com
+ sexiecams.chaturbate.com
+ sexmarble14com.chaturbate.com
  sexydevil.chaturbate.com
  sexyprimelive.chaturbate.com
+ shemale4u.chaturbate.com
  shemalemeeting.chaturbate.com
  somethingfetish.chaturbate.com
  sql.chaturbate.com
@@ -105796,28 +105859,41 @@ zurieskinclinic.com
  summary.chaturbate.com
  support.chaturbate.com
  t51cams.chaturbate.com
+ testbed.chaturbate.com
  tglust.chaturbate.com
  thecandidboard.chaturbate.com
  thewildcam.chaturbate.com
+ tipmyasscams.chaturbate.com
+ tmwnet.chaturbate.com
  toiletgirls.chaturbate.com
  token.chaturbate.com
  toptencums.chaturbate.com
  tr.chaturbate.com
  triplefapcams.chaturbate.com
+ trusted.chaturbate.com
+ twinkybf.chaturbate.com
+ uebcams.chaturbate.com
  uk.chaturbate.com
  verified.chaturbate.com
  victoria.chaturbate.com
+ www.victoria.chaturbate.com
  virus.chaturbate.com
  andika.virus.chaturbate.com
  www.virus.chaturbate.com
  voissa.chaturbate.com
  web17643.chaturbate.com
+ webcamsreviews.chaturbate.com
  ww.chaturbate.com
+ www.ww.chaturbate.com
  www.chaturbate.com
+ www55.chaturbate.com
  wwww.chaturbate.com
+ wwwww.chaturbate.com
  xfreecamsx.chaturbate.com
  xogogo.chaturbate.com
  xsex24.chaturbate.com
+ xstreamlivecams.chaturbate.com
+ xview.chaturbate.com
  yamcams.chaturbate.com
  zh.chaturbate.com
  chatville.com
@@ -108990,7 +109066,6 @@ zurieskinclinic.com
  kinkycastle.eyzwideshut.com
  mail.eyzwideshut.com
  securitycamerastop.eyzwideshut.com
- ts.eyzwideshut.com
  webdisk.eyzwideshut.com
  webmail.eyzwideshut.com
  whm.eyzwideshut.com
@@ -121743,6 +121818,7 @@ zurieskinclinic.com
  chlorellaclean.naturalnews.com
  chs.naturalnews.com
  cht.naturalnews.com
+ cleanchlorella.naturalnews.com
  cleanerconcentrate.naturalnews.com
  cocoaenergize.naturalnews.com
  cocoalove.naturalnews.com
@@ -121752,6 +121828,7 @@ zurieskinclinic.com
  colloidalsilvercontactdefensespray.naturalnews.com
  colloidalsilverskinsootherandpetbedding.naturalnews.com
  cwclabs.naturalnews.com
+ cybermonday2020event.naturalnews.com
  dentalessentialskitsilverbreathspraycombo.naturalnews.com
  detoxfootpads.naturalnews.com
  emergencysupplies.naturalnews.com
@@ -121765,6 +121842,7 @@ zurieskinclinic.com
  herbaltinctures.naturalnews.com
  holidaysale.naturalnews.com
  holidaysale2017.naturalnews.com
+ hydrogeninfusionwater.naturalnews.com
  internationalfamilyday.naturalnews.com
  ip.naturalnews.com
  ja.naturalnews.com
@@ -121787,6 +121865,7 @@ zurieskinclinic.com
  naturalvitamincfromamlafruit.naturalnews.com
  news.naturalnews.com
  omega3ahiflower.naturalnews.com
+ optimsm.naturalnews.com
  oralcare.naturalnews.com
  oralhealth.naturalnews.com
  organicacaipowder.naturalnews.com
@@ -121800,6 +121879,7 @@ zurieskinclinic.com
  organicgrassfedmilkpowder.naturalnews.com
  organicinstantflaxmilkpowder.naturalnews.com
  organicmoringapowder.naturalnews.com
+ organicpumpkinseedprotein.naturalnews.com
  organicrawcashews.naturalnews.com
  organicseedsoflife.naturalnews.com
  organicsproutedradiance.naturalnews.com
@@ -121825,12 +121905,14 @@ zurieskinclinic.com
  smtplw1.naturalnews.com
  smtplw2.naturalnews.com
  sos.naturalnews.com
+ spirulina.naturalnews.com
  staff.naturalnews.com
  store.naturalnews.com
  store2.naturalnews.com
  streaming.naturalnews.com
  supplements.naturalnews.com
  support.naturalnews.com
+ turmeric.naturalnews.com
  turmericgoldliquidextract.naturalnews.com
  turmericgoldplus.naturalnews.com
  tv.naturalnews.com
@@ -122718,6 +122800,7 @@ zurieskinclinic.com
  library.tfes.org
  mathtex.tfes.org
  palpatine.tfes.org
+ ru.tfes.org
  webchat.tfes.org
  wiki.tfes.org
  wiki-test.tfes.org

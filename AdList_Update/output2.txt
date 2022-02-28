@@ -3,7 +3,7 @@
 ! Description: Compilation of PiHole Lists
 ! Homepage: https://raw.githubusercontent.com/RC62/pihole/
 ! License: GPLv3
-! Last modified: 2022-02-27T11:38:32.242Z
+! Last modified: 2022-02-28T12:31:42.248Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -172,6 +172,7 @@
 ||blog.aapgsuez.net^
 ||blog.manipalinn.com^
 ||blueflamemarket.com^
+||bmn.lpmpbanten.id^
 ||bnblogger.com^
 ||bonbistro.pk^
 ||bonus.daralhilalelectronics.com^
@@ -227,6 +228,7 @@
 ||cowork.anuncio-ads.cl^
 ||creni.anuncio-ads.cl^
 ||crhconsultores.co.mz^
+||crm.avionxpress.com^
 ||crowdcap.xyz^
 ||cryptinc.uk.nf^
 ||cubitus.africa^
@@ -337,6 +339,7 @@
 ||farmcityltd.com^
 ||farms.cl^
 ||fasomali.com^
+||file-coin-coin-10.com^
 ||find-a-good-attorney.com^
 ||finessecarpetcleaners.net^
 ||five.fivedimensiongold.com^
@@ -355,6 +358,7 @@
 ||fusionlogistics.com.ng^
 ||future-technologies-dev.com^
 ||futursof.com^
+||fwit1.com^
 ||game.technomarket.bg^
 ||gastronews.by^
 ||gatcomtech.co.za^
@@ -431,6 +435,7 @@
 ||ipage.com.ar^
 ||ipsociety.co.in^
 ||irc2022.com^
+||isguvenligiburada.com^
 ||islbelize.com^
 ||itexcellence.la^
 ||itstorebd.com^
@@ -525,6 +530,7 @@
 ||maxlover.in^
 ||maxpowergears.digitalcard.fun^
 ||maynadelices.com^
+||mbahauddin.com^
 ||medeq.indodevmatech.com^
 ||med-smi.com^
 ||members.livechennai.com^
@@ -565,6 +571,7 @@
 ||nemorisgames.com^
 ||neosmayorista.com^
 ||new.drceight.com^
+||newmainghantabazar.com^
 ||ngthanhquang.com^
 ||nikamclasses.com^
 ||ninevehtrust.org.uk^
@@ -668,6 +675,7 @@
 ||royaliptvhd.com^
 ||royalkingaircoolers.com^
 ||royanspa.ir^
+||rsvproperties.co.za^
 ||sacar.com.br^
 ||sachinmanchanda.com^
 ||sadhanaayurvedics.com^
@@ -774,6 +782,7 @@
 ||theagencysrilanka.com^
 ||theangelz.com.br^
 ||theasiansport.com^
+||thecanadianarab.com^
 ||thekilhas.com.br^
 ||thekilhastattoo.com.br^
 ||thekitchwarecompany.com^
@@ -818,6 +827,7 @@
 ||villalonavala.in^
 ||vinaychoithani.com^
 ||vintagegarage.xyz^
+||vipwatchpay.com^
 ||virtualmarts.com^
 ||vitaenterprises.in^
 ||vitaway.org^
@@ -851,11 +861,13 @@
 ||wptest.softwave.lk^
 ||www.ama.cu^
 ||www.cameraa.co.uk^
+||www.iscleanone.com^
 ||www.pasionportufuturo.pe^
 ||www.uplooder.net^
 ||xcelvationsjr.com^
 ||xcoolwunmigroups.com.ng^
 ||xenergi.net^
+||xn--t60b69m1ey68a22oyvh.com^
 ||yates.ticondigital.com^
 ||zaparetech.com^
 ||zero61drone.com.br^
@@ -60373,7 +60385,6 @@
 ||blog.drmostafafouadivf.com^
 ||blog.stetgzs.cn^
 ||bluedigitstech.com^
-||bmn.lpmpbanten.id^
 ||bmss.org.in^
 ||boamorph.com^
 ||boardingschoolsoftware.com^
@@ -60499,7 +60510,6 @@
 ||extractjob.com^
 ||faai-international.com^
 ||fard.iaweb.ir^
-||file-coin-coin-10.com^
 ||filecabinet.digitalechoes.co.uk^
 ||filmywap.casa^
 ||financialfitnessservices.co.za^
@@ -60636,7 +60646,6 @@
 ||marcyovcx.ru^
 ||marineboyrecords.com^
 ||marksidfgs.ug^
-||mbahauddin.com^
 ||mdvps.net^
 ||medianews.ge^
 ||meeweb.com^
@@ -60667,7 +60676,6 @@
 ||new.tokosatu.com^
 ||newagecast.com^
 ||newdevjyq.devjyq.com^
-||newmainghantabazar.com^
 ||newsite.ugbswebakenyaltd.com^
 ||niwf.sourcetaggers.com^
 ||nnpcoil.buzz^
@@ -60790,7 +60798,6 @@
 ||test.ugbswebakenyaltd.com^
 ||test2.marrenconstruction.ie^
 ||tharringtonsponsorship.com^
-||thecanadianarab.com^
 ||thejobinassam.com^
 ||thekitchengastronomy.com^
 ||themillionairesweb.com^
