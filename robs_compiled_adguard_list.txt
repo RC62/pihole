@@ -3,7 +3,7 @@
 ! Description: Compilation of PiHole Lists
 ! Homepage: https://raw.githubusercontent.com/RC62/pihole/
 ! License: GPLv3
-! Last modified: 2022-02-28T16:11:43.625Z
+! Last modified: 2022-03-01T12:21:00.282Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -596,7 +596,6 @@
 ||opengrowthnew.ehostinguk.com^
 ||orchidgardenthai.com^
 ||order.sindhsweets.com^
-||oreokitkat.ddns.net^
 ||orion.indodevmatech.com^
 ||otopmarketshop.com^
 ||ourroyalfamily.com^
@@ -62107,7 +62106,16 @@
 ||qdrop.pub^
 ||qmap.pub^
 ||1776.shop^
-||dailystormer.su^
+||247www.dailystormer.su^
+||de.dailystormer.su^
+||es.dailystormer.su^
+||forum.dailystormer.su^
+||forums.dailystormer.su^
+||it.dailystormer.su^
+||ns1.dailystormer.su^
+||ns2.dailystormer.su^
+||smtp.dailystormer.su^
+||webmail.dailystormer.su^
 ||8kun.top^
 ||patriotfront.us^
 ||qgear.us^

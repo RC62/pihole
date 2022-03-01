@@ -3,7 +3,7 @@
 # Description: Compilation of PiHole Lists
 # Homepage: https://raw.githubusercontent.com/RC62/pihole/
 # License: GPLv3
-# Last modified: 2022-02-28T16:11:36.995Z
+# Last modified: 2022-03-01T12:20:53.868Z
 #
 # Compiled by @adguard/hostlist-compiler v1.0.12
 #
@@ -574,7 +574,6 @@ onxon77.com
 opengrowthnew.ehostinguk.com
 orchidgardenthai.com
 order.sindhsweets.com
-oreokitkat.ddns.net
 orion.indodevmatech.com
 otopmarketshop.com
 ourroyalfamily.com
@@ -120577,7 +120576,6 @@ zurieskinclinic.com
  1776.shop
  em.1776.shop
  www.1776.shop
- dailystormer.su
  247www.dailystormer.su
  94.247www.dailystormer.su
  103.94.247www.dailystormer.su
@@ -120590,7 +120588,6 @@ zurieskinclinic.com
  ns2.dailystormer.su
  smtp.dailystormer.su
  webmail.dailystormer.su
- www.dailystormer.su
  8kun.top
  018.8kun.top
  13b.8kun.top
