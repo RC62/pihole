@@ -3,7 +3,7 @@
 # Description: Compilation of PiHole Lists
 # Homepage: https://raw.githubusercontent.com/RC62/pihole/
 # License: GPLv3
-# Last modified: 2022-03-01T12:20:53.868Z
+# Last modified: 2022-03-02T01:37:52.277Z
 #
 # Compiled by @adguard/hostlist-compiler v1.0.12
 #
@@ -106607,6 +106607,7 @@ zurieskinclinic.com
  singles-dating.elitesingles.com
  staging-m.elitesingles.com
  api.staging-segment.elitesingles.com
+ evs.staging-segment.elitesingles.com
  staging-www.elitesingles.com
  static.elitesingles.com
  support.elitesingles.com
@@ -120578,7 +120579,6 @@ zurieskinclinic.com
  www.1776.shop
  247www.dailystormer.su
  94.247www.dailystormer.su
- 103.94.247www.dailystormer.su
  de.dailystormer.su
  es.dailystormer.su
  forum.dailystormer.su
