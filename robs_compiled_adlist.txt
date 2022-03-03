@@ -3,7 +3,7 @@
 # Description: Compilation of PiHole Lists
 # Homepage: https://raw.githubusercontent.com/RC62/pihole/
 # License: GPLv3
-# Last modified: 2022-03-02T13:02:20.947Z
+# Last modified: 2022-03-03T12:48:33.706Z
 #
 # Compiled by @adguard/hostlist-compiler v1.0.12
 #
@@ -101,7 +101,6 @@ arkgarments.com
 arodagira.com.br
 arribacorazones.com
 artist.salvationtattoolounge.com
-arttop100.cn
 asesores.com.sv
 asesoriainternacional.com.mx
 asnethome.net
@@ -482,6 +481,7 @@ lozhkin.foundation
 lp.elaysrodrigues.com
 lucacerullo.com
 lumusrmj.com.br
+lydt.cc
 m8.magicbyteprojects.com
 macaronsbakery.com
 madrstk.com
@@ -576,7 +576,6 @@ nusc.ir
 nyrachocolates.com
 obpcarapiraca.com.br
 offersforchange.com
-old.liceum9.ru
 oldmanrager.com
 olliveiras.com
 ona.pradex.pl
@@ -647,6 +646,7 @@ rapaduratec.com.br
 rastreo.controlgps.net
 rayfrankoenvivo.com
 realdatasolutions.net
+realitevirtuelleguadeloupe.com
 rebelgaming.co.za
 rebirthbycounseling.com
 render.eonmm.com
@@ -830,7 +830,6 @@ vrstar-park.com
 vsldestudio.net
 vulkanbonus.drtrclab.in
 vulkanspinbonus.shaadii.in
-vulkanvegasbonus.jeunete.com
 vulkanwin.techibandhu.com
 wanaka-portal.uat.lk
 wapbuzz.in
@@ -114735,6 +114734,7 @@ zurieskinclinic.com
  mx5.tawkify.com
  mx7.tawkify.com
  mxs.tawkify.com
+ my.tawkify.com
  newmail.tawkify.com
  ns.tawkify.com
  ns2.tawkify.com
@@ -116338,7 +116338,15 @@ zurieskinclinic.com
  6.dating
  wwv.6.dating
  6app.dating
+ admin.6app.dating
+ cpcalendars.6app.dating
+ cpcontacts.6app.dating
+ crm.6app.dating
  mail.6app.dating
+ panel.6app.dating
+ staging.6app.dating
+ web.6app.dating
+ webdisk.6app.dating
  www.6app.dating
  7days.dating
  www.7days.dating
@@ -116404,6 +116412,7 @@ zurieskinclinic.com
  staging.animemanga.dating
  apes.dating
  www.apes.dating
+ admin.app.dating
  app.app.dating
  apps.app.dating
  backend.app.dating
@@ -116419,6 +116428,7 @@ zurieskinclinic.com
  ecommerce.app.dating
  facebook.app.dating
  www.facebook.app.dating
+ laravel.app.dating
  magento.app.dating
  new.app.dating
  odnoklassniki-ru.app.dating
@@ -116427,11 +116437,13 @@ zurieskinclinic.com
  panel.app.dating
  ru.app.dating
  shop.app.dating
+ stage.app.dating
  staging.app.dating
  store.app.dating
  support.app.dating
  ru.tele2.app.dating
  test.app.dating
+ web.app.dating
  ar.dating
  www.artists.dating
  asiansexyshemales.dating
@@ -116761,6 +116773,10 @@ zurieskinclinic.com
  tiger.femdom.dating
  www.femdom.dating
  femmefatale.dating
+ festival.dating
+ apps.festival.dating
+ demo.festival.dating
+ portal.festival.dating
  fetisch-kontakte.dating
  fetish.dating
  fika.dating
@@ -116768,6 +116784,12 @@ zurieskinclinic.com
  findl.dating
  www.findl.dating
  fisting.dating
+ apps.fkk.dating
+ beta.fkk.dating
+ demo.fkk.dating
+ dev.fkk.dating
+ panel.fkk.dating
+ support.fkk.dating
  k8s.flamingo.dating
  test-api.flamingo.dating
  test-storage.flamingo.dating
@@ -116862,6 +116884,12 @@ zurieskinclinic.com
  pic.for.guys.dating
  profile.pic.for.guys.dating
  beat.profile.pic.for.guys.dating
+ hardcore.dating
+ admin.hardcore.dating
+ app.hardcore.dating
+ stage.hardcore.dating
+ staging.hardcore.dating
+ web.hardcore.dating
  hating.dating
  www.hating.dating
  hd.dating
@@ -117282,6 +117310,7 @@ zurieskinclinic.com
  pansexual.dating
  uk.paranormal.dating
  pare.dating
+ www.pare.dating
  parents.dating
  adminportal.parents.dating
  betatap.parents.dating
@@ -117626,6 +117655,7 @@ zurieskinclinic.com
  www.wolfwagner.dating
  wunder.dating
  dev.xcite.dating
+ live.xcite.dating
  xhamster.dating
  xo.dating
  xvideos.dating
@@ -120600,12 +120630,6 @@ zurieskinclinic.com
  em.1776.shop
  www.1776.shop
  247www.dailystormer.su
- 94.247www.dailystormer.su
- de.dailystormer.su
- es.dailystormer.su
- forum.dailystormer.su
- forums.dailystormer.su
- it.dailystormer.su
  ns1.dailystormer.su
  ns2.dailystormer.su
  smtp.dailystormer.su
