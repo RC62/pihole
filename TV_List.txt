@@ -838,7 +838,6 @@ longview.logs.roku.com
 lowes15841z.btttag.com
 lptag-cdn.liveperson.net
 ls.chatid.com
-ls.srvcs.tumblr.com
 lyr.pubmatic.com
 m.addthis.com
 m.addthisedge.com
