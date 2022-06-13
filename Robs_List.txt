@@ -463,8 +463,8 @@ dmp.truoptik.com
 dns.google
 dns64.dns.google
 dns64.dns.google.domain.name
-dnsbl.test.firebaselogging-pa.googleapis.com
-dnsbl.test.firebaselogging.googleapis.com
+# dnsbl.test.firebaselogging-pa.googleapis.com
+# dnsbl.test.firebaselogging.googleapis.com
 documents-google0118293030.a78.org
 doh.dns.apple.com
 doodlegoogle.com
@@ -517,7 +517,7 @@ feedads.googleadservices.com
 ffconf.ecbsn.com
 fgoogle.com
 filmyroku.pl
-firebaselogging-pa.googleapis.com
+# firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 firewallecho.www-google-analytics.l.google.com
 fls.doubleclick.net
@@ -1403,7 +1403,7 @@ stats1.bigcartel.com
 storage.cloud.kargo.com
 store.apps.googleplay.pro
 su.addthis.com
-sub.firebaselogging-pa.googleapis.com
+# sub.firebaselogging-pa.googleapis.com
 subgoogle.meeteapp.com
 sugarland.logs.roku.com
 supportmetrics.apple.com
@@ -1442,7 +1442,7 @@ telemetry.sdk.inmobi.com
 tempest.services.disqus.com
 test-web.googletagmanager.com
 test-webnewest.googletagmanager.com
-test.firebaselogging-pa.googleapis.com
+# test.firebaselogging-pa.googleapis.com
 test.firebaselogging.googleapis.com
 test.www.googleoptimize.com
 tf-prod-uswest-spop3-google.spotad.co
@@ -1695,8 +1695,8 @@ www.facebook-veryfication-process4.herokuapp.com
 www.fastly-insights.com
 www.fgoogle.com
 www.filmyroku.pl
-www.firebaselogging-pa.googleapis.com
-www.firebaselogging.googleapis.com
+# www.firebaselogging-pa.googleapis.com
+# www.firebaselogging.googleapis.com
 www.fogoogle.com
 www.fqtag.com
 www.free.frgoogle.com
