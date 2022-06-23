@@ -1821,7 +1821,6 @@ www2.googlemaail.com
 wwwamazon.frgoogle.com
 wwwctp.googletagmanager.com
 wwwgoogles.com
-wwwimg.roku.com
 wwwlas.googletagmanager.com
 wwwogoogle.com
 wydarzenia-google.waw.pl
