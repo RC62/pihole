@@ -1076,7 +1076,6 @@ o-o---preferred---sn-o097zne7---v20---cache.c.googlesyndication.com
 o-o---preferred---sn-o097zne7---v24---cache.c.googlesyndication.com
 o-o.preferred.kazakhtel-tse1.v17.cache.c.googlesyndication.com
 o-o.preferred.sn-5uu-vgqe.v18.cache.c.googlesyndication.com
-o.ss2.us
 o191714.ingest.sentry.io
 o289042.ingest.sentry.io
 o427061.ingest.sentry.io
