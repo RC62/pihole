@@ -1,6 +1,8 @@
+
 # 2022-06-10_150421
 
 # Default section
+
 a.appbaqend.com
 ad.pandora.tv
 admin.appnext.com
@@ -29,6 +31,7 @@ ws.tapjoyads.com
 x4w8j5q4.stackpathcdn.com
 
 # Block List for Apple TV
+
 0.afs.googleadservices.com
 1ad356638475.cdn4.forter.com
 2.afs.googleadservices.com
@@ -133,6 +136,7 @@ alt2.googleadservices.com
 alt2.googleanalytics.com
 alt3.google-analytics.com
 alt4.googleanalytics.com
+
 amazon.partners.tremorhub.com
 amazoncustomerservice.d2.sc.omtrdc.net
 amoeba-plus.web.roku.com
@@ -211,6 +215,7 @@ assets.micpn.com
 assets.rbl.ms
 atozgoogle.onesignal.com
 ats.rlcdn.com
+
 auth-google.site
 auth.googlesettings.com
 auth.split.io
@@ -254,6 +259,7 @@ box.google-docs.com
 box.googlemaail.com
 browser-http-intake.logs.datadoghq.com
 browser.sentry-cdn.com
+
 bs.serving-sys.com
 btloader.com
 btlr.sharethrough.com
@@ -267,6 +273,7 @@ c.googlesyndication.com
 c1.adform.net
 c2.piano.io
 cache.addthiscdn.com
+
 captive.adservice.google.co.in
 captive.adservice.google.com
 captive.googleads.g.doubleclick.net
@@ -359,6 +366,7 @@ contextual.media.net
 contributor.google.com
 control.kochava.com
 conversions.adaptv.advertising.com
+
 corokumoznaproboowac.club
 correo.google-docs.com
 correo.googlemaail.com
@@ -400,6 +408,7 @@ detect.rayjump.com
 device-api.urbanairship.com
 dfafwwww.googletagmanager.com
 diffuser-cdn.app-us1.com
+
 digikulture-d.openx.net
 disney.tt.omtrdc.net
 display.apester.com
@@ -411,6 +420,8 @@ dmp.truoptik.com
 dns.google
 dns64.dns.google
 dns64.dns.google.domain.name
+# dnsbl.test.firebaselogging-pa.googleapis.com
+# dnsbl.test.firebaselogging.googleapis.com
 documents-google0118293030.a78.org
 doh.dns.apple.com
 doodlegoogle.com
@@ -434,6 +445,7 @@ engage10854wrdcr.deltadna.net
 entitlements.jwplayer.com
 eq97f.publishers.tremorhub.com
 er1v.googletagmanager.com
+
 et.w.inmobi.com
 eu-google-rtb.quantserve.com
 eus.rubiconproject.com
@@ -482,7 +494,9 @@ geo.moatads.com
 geolocation.onetrust.com
 get.s-onetag.com
 ggsoftware-d.openx.net
+
 gigoogle.com
+
 gj.mmstat.com
 glitter.services.disqus.com
 global.proper.io
@@ -709,6 +723,7 @@ googlewordpad.info
 googlewww.quotes.com
 gpm.samsungqbe.com
 grid.bidswitch.net
+
 grvmedia.amp.permutive.com
 gstaticadssl.l.google.com
 gum.criteo.com
@@ -722,6 +737,7 @@ hbopenbid.pubmatic.com
 hearsttelevision-d.openx.net
 hello.heroku.com
 help-toolbar.googletagmanager.com
+
 hereisthecity-d.openx.net
 hermes.googlemaail.com
 home.googlemaail.com
@@ -800,6 +816,7 @@ kpmg.googleoptimize.com
 krk.kargo.com
 kvinit-prod.api.kochava.com
 labs-cdn.revcontent.com
+
 languageisavirus.googletagmanager.com
 launches.appsflyer.com
 lcdn.tsyndicate.com
@@ -808,15 +825,19 @@ lh3.googleadsserving.cn
 lh4.googleadsserving.cn
 lh5.googleadsserving.cn
 lh6.googleadsserving.cn
+
 lightning.cnn.com
 linux2.googlerenewals.net
+
 live.rezync.com
 live.sekindo.com
 loadus.exelator.com
 log.adaptv.advertising.com
 log.go.com
 logs.ironsrc.mobi
+
 logx.optimizely.com
+
 lowes15841z.btttag.com
 lptag-cdn.liveperson.net
 ls.chatid.com
@@ -903,6 +924,7 @@ metrics.brightcove.com
 metrics.ionos.com
 mid.rkdms.com
 middycdn-a.akamaihd.net
+
 mimageads.googleadservices.com
 mimageads1.googleadservices.com
 mimageads2.googleadservices.com
@@ -922,6 +944,7 @@ mobile-collector.newrelic.com.cdn.cloudflare.net
 mobile-crash.newrelic.com
 mobile-http-intake.logs.datadoghq.com
 mobile.launchdarkly.com
+
 mon-va.byteoversea.com
 mon.isnssdk.com
 mpartner.googleadservices.com
@@ -1039,8 +1062,9 @@ pagead2.googleadservices.com
 pagead2.googlesyndication.com
 pagead3.googlesyndication.com
 pagead46.googlesyndication.com
+
 partner.googleadservices.com
-partnerad.l.doubleclick.net #Breaks Paramount+
+partnerad.l.doubleclick.net    #Breaks Paramount+
 partnerad.l.google.com
 partnerssl.googleadservices.com
 passwordgoogle.com
@@ -1152,8 +1176,10 @@ relay2.googlemaail.com
 remote-data.urbanairship.com
 remoteapps.navicenthealth.orgoogle.com
 renderer.apester.com
+
 rokus-tgy.hu
 rokushiki.nefficient.jp
+
 router.googlecom.biz
 rp.liadm.com
 rpc.tapjoy.com
@@ -1212,7 +1238,7 @@ s0-2mdn-net.l.google.com
 s0.2mdn.net
 s7.addthis.com
 s8t.teads.tv
-saa.cbsi.com # Breaks Paramount+
+saa.cbsi.com    # Breaks Paramount+
 saa.paramountplus.com
 samples.voice.cti.roku.com
 sandbox.googleanalytics.com
@@ -1221,6 +1247,7 @@ sc-static.net
 scanner-videos-google.fetlife.com
 scomcluster.cxense.com
 scontent.webcollage.net
+
 sdc.cnn.com
 sdk-events.inner-active.mobi
 sdk.fra-01.braze.eu
@@ -1325,9 +1352,9 @@ stats1.bigcartel.com
 storage.cloud.kargo.com
 store.apps.googleplay.pro
 su.addthis.com
-
 # sub.firebaselogging-pa.googleapis.com
 subgoogle.meeteapp.com
+
 supportmetrics.apple.com
 swa.metro.co.uk
 sworkitads.herokuapp.com
@@ -1364,7 +1391,6 @@ telemetry.sdk.inmobi.com
 tempest.services.disqus.com
 test-web.googletagmanager.com
 test-webnewest.googletagmanager.com
-
 # test.firebaselogging-pa.googleapis.com
 test.firebaselogging.googleapis.com
 test.www.googleoptimize.com
@@ -1400,6 +1426,7 @@ twitterinc.tt.omtrdc.net
 twoje-zdjecia-522.herokuapp.com
 twoje-zdjecia-613.herokuapp.com
 twoje-zdjecia-6324.herokuapp.com
+
 u.openx.net
 u002fwww.googletagmanager.com
 u4745827.ct.sendgrid.net
@@ -1435,6 +1462,7 @@ vc.hotjar.io
 vcs-va.byteoversea.com
 verification-va.byteoversea.com
 vi.freewheel.tv
+
 vid-io-iad.springserve.com
 vid.springserve.com
 video-ad-stats.googlesyndication.com
@@ -1483,6 +1511,7 @@ widgets.outbrain.com
 widgets.tree.com
 wikia-d.openx.net
 wildcard.moatads.com.edgekey.net
+
 wintricksbanner.googlepages.com
 wootric-eligibility.herokuapp.com
 wp.googletagmanager.com
@@ -1762,16 +1791,18 @@ zncv1onfo8kuflf0n-kickstarter.siteintercept.qualtrics.com
 zw.googletagmanager.com
 zweryfikuj-wiek7334.herokuapp.com
 
-# Title : TheGreatWall
-# Prevent program and malware to bypass DNS filter by using popular DoH services
-# To block DNS over TLS (DoT), block port 853
-# This list has been created for security purpose ONLY
-# To be more efficient, you should also consider blocking DoH providers IP adresses
-# Last update : 15 June 2020
-# Domain count : 132
-# Original URL: https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt
-# Cleaned of "0.0.0.0"
-# ===================================================================
+
+
+## Title : TheGreatWall
+## Prevent program and malware to bypass DNS filter by using popular DoH services
+## To block DNS over TLS (DoT), block port 853
+## This list has been created for security purpose ONLY
+## To be more efficient, you should also consider blocking DoH providers IP adresses
+## Last update : 15 June 2020
+## Domain count : 132
+## Original URL: https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt
+## Cleaned of "0.0.0.0"
+## ===================================================================
 
 # Aaflalo
 dns.aaflalo.me
@@ -2013,5 +2044,6 @@ rumpelsepp.org
 ordns.he.net
 rdns.faelix.net
 adfree.usableprivacy.net
+
 
 #Testing Additional Ad blocking (from Pi-Hole Logs)
