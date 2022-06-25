@@ -311,7 +311,6 @@ c.googlesyndication.com
 c1.adform.net
 c2.piano.io
 c2shb.ssp.yahoo.com
-ca.iadsdk.apple.com
 cache.addthiscdn.com
 camden.logs.roku.com
 captive.adservice.google.co.in
@@ -366,7 +365,6 @@ cdn9.forter.com
 celebsunmasked.googletagmanager.com
 cella.home.hedbor.org
 certify-amp.alexametrics.com
-cf.iadsdk.apple.com
 check.analytics.rlcdn.com
 check.googlezip.net.domain.name
 choices.truste.com
@@ -797,7 +795,6 @@ i.ads.roku.com
 i.clean.gg
 i.isnssdk.com
 i.w55c.net
-iadsdk.apple.com
 ib.adnxs.com
 ice.360yield.com
 ichnaea-web.netflix.com
@@ -1454,7 +1451,6 @@ tpc.googlesyndication.com
 tpcnc.googlesyndication.com
 tps.doubleverify.com
 tps30.doubleverify.com
-tr.iadsdk.apple.com
 tr.snapchat.com
 traces.sr.roku.com
 track.activemetering.com
@@ -1502,7 +1498,6 @@ us.device3.mobile.pendo.io
 usage.trackjs.com
 usermatch.krxd.net
 usersync.samplicio.us
-ut.iadsdk.apple.com
 v.adsrvr.org
 va6-bid.adsrvr.org
 vaccin-timisoara.googletagmanager.com
