@@ -30,8 +30,6 @@ winner-lb2-f918b4c7bf5ab40c.elb.us-east-1.amazonaws.com
 ws.tapjoyads.com
 x4w8j5q4.stackpathcdn.com
 
-
-
 # Block List for Apple TV
 
 0.afs.googleadservices.com
@@ -138,7 +136,7 @@ alt2.googleadservices.com
 alt2.googleanalytics.com
 alt3.google-analytics.com
 alt4.googleanalytics.com
-amarillo.logs.roku.com
+
 amazon.partners.tremorhub.com
 amazoncustomerservice.d2.sc.omtrdc.net
 amoeba-plus.web.roku.com
@@ -217,7 +215,7 @@ assets.micpn.com
 assets.rbl.ms
 atozgoogle.onesignal.com
 ats.rlcdn.com
-austin.logs.roku.com
+
 auth-google.site
 auth.googlesettings.com
 auth.split.io
@@ -261,7 +259,7 @@ box.google-docs.com
 box.googlemaail.com
 browser-http-intake.logs.datadoghq.com
 browser.sentry-cdn.com
-bryan.logs.roku.com
+
 bs.serving-sys.com
 btloader.com
 btlr.sharethrough.com
@@ -275,7 +273,7 @@ c.googlesyndication.com
 c1.adform.net
 c2.piano.io
 cache.addthiscdn.com
-camden.logs.roku.com
+
 captive.adservice.google.co.in
 captive.adservice.google.com
 captive.googleads.g.doubleclick.net
@@ -368,7 +366,7 @@ contextual.media.net
 contributor.google.com
 control.kochava.com
 conversions.adaptv.advertising.com
-cooper.logs.roku.com
+
 corokumoznaproboowac.club
 correo.google-docs.com
 correo.googlemaail.com
@@ -410,8 +408,7 @@ detect.rayjump.com
 device-api.urbanairship.com
 dfafwwww.googletagmanager.com
 diffuser-cdn.app-us1.com
-digdug-g2.logs.roku.com
-digdug.logs.roku.com
+
 digikulture-d.openx.net
 disney.tt.omtrdc.net
 display.apester.com
@@ -448,7 +445,7 @@ engage10854wrdcr.deltadna.net
 entitlements.jwplayer.com
 eq97f.publishers.tremorhub.com
 er1v.googletagmanager.com
-esp.logs.roku.com
+
 et.w.inmobi.com
 eu-google-rtb.quantserve.com
 eus.rubiconproject.com
@@ -477,8 +474,6 @@ feedads.googleadservices.com
 ffconf.ecbsn.com
 fgoogle.com
 filmyroku.pl
-# firebaselogging-pa.googleapis.com
-firebaselogging.googleapis.com
 firewallecho.www-google-analytics.l.google.com
 fls.doubleclick.net
 fogoogle.com
@@ -499,9 +494,9 @@ geo.moatads.com
 geolocation.onetrust.com
 get.s-onetag.com
 ggsoftware-d.openx.net
-giga.logs.roku.com
+
 gigoogle.com
-gilbert.logs.roku.com
+
 gj.mmstat.com
 glitter.services.disqus.com
 global.proper.io
@@ -728,7 +723,7 @@ googlewordpad.info
 googlewww.quotes.com
 gpm.samsungqbe.com
 grid.bidswitch.net
-griffin.logs.roku.com
+
 grvmedia.amp.permutive.com
 gstaticadssl.l.google.com
 gum.criteo.com
@@ -742,7 +737,7 @@ hbopenbid.pubmatic.com
 hearsttelevision-d.openx.net
 hello.heroku.com
 help-toolbar.googletagmanager.com
-hereford.logs.roku.com
+
 hereisthecity-d.openx.net
 hermes.googlemaail.com
 home.googlemaail.com
@@ -821,7 +816,7 @@ kpmg.googleoptimize.com
 krk.kargo.com
 kvinit-prod.api.kochava.com
 labs-cdn.revcontent.com
-lagrange.logs.roku.com
+
 languageisavirus.googletagmanager.com
 launches.appsflyer.com
 lcdn.tsyndicate.com
@@ -830,19 +825,19 @@ lh3.googleadsserving.cn
 lh4.googleadsserving.cn
 lh5.googleadsserving.cn
 lh6.googleadsserving.cn
-liberty.logs.roku.com
+
 lightning.cnn.com
 linux2.googlerenewals.net
-littlefield.logs.roku.com
+
 live.rezync.com
 live.sekindo.com
 loadus.exelator.com
 log.adaptv.advertising.com
 log.go.com
 logs.ironsrc.mobi
-logs.roku.com
+
 logx.optimizely.com
-longview.logs.roku.com
+
 lowes15841z.btttag.com
 lptag-cdn.liveperson.net
 ls.chatid.com
@@ -929,7 +924,7 @@ metrics.brightcove.com
 metrics.ionos.com
 mid.rkdms.com
 middycdn-a.akamaihd.net
-midland.logs.roku.com
+
 mimageads.googleadservices.com
 mimageads1.googleadservices.com
 mimageads2.googleadservices.com
@@ -949,7 +944,7 @@ mobile-collector.newrelic.com.cdn.cloudflare.net
 mobile-crash.newrelic.com
 mobile-http-intake.logs.datadoghq.com
 mobile.launchdarkly.com
-mobile.logs.roku.com
+
 mon-va.byteoversea.com
 mon.isnssdk.com
 mpartner.googleadservices.com
@@ -1067,7 +1062,7 @@ pagead2.googleadservices.com
 pagead2.googlesyndication.com
 pagead3.googlesyndication.com
 pagead46.googlesyndication.com
-paolo.logs.roku.com
+
 partner.googleadservices.com
 partnerad.l.doubleclick.net    #Breaks Paramount+
 partnerad.l.google.com
@@ -1181,10 +1176,10 @@ relay2.googlemaail.com
 remote-data.urbanairship.com
 remoteapps.navicenthealth.orgoogle.com
 renderer.apester.com
-richmond.logs.roku.com
+
 rokus-tgy.hu
 rokushiki.nefficient.jp
-rollingwood.logs.roku.com
+
 router.googlecom.biz
 rp.liadm.com
 rpc.tapjoy.com
@@ -1252,7 +1247,7 @@ sc-static.net
 scanner-videos-google.fetlife.com
 scomcluster.cxense.com
 scontent.webcollage.net
-scribe.logs.roku.com
+
 sdc.cnn.com
 sdk-events.inner-active.mobi
 sdk.fra-01.braze.eu
@@ -1359,7 +1354,7 @@ store.apps.googleplay.pro
 su.addthis.com
 # sub.firebaselogging-pa.googleapis.com
 subgoogle.meeteapp.com
-sugarland.logs.roku.com
+
 supportmetrics.apple.com
 swa.metro.co.uk
 sworkitads.herokuapp.com
@@ -1431,7 +1426,7 @@ twitterinc.tt.omtrdc.net
 twoje-zdjecia-522.herokuapp.com
 twoje-zdjecia-613.herokuapp.com
 twoje-zdjecia-6324.herokuapp.com
-tyler.logs.roku.com
+
 u.openx.net
 u002fwww.googletagmanager.com
 u4745827.ct.sendgrid.net
@@ -1467,7 +1462,7 @@ vc.hotjar.io
 vcs-va.byteoversea.com
 verification-va.byteoversea.com
 vi.freewheel.tv
-victoria.logs.roku.com
+
 vid-io-iad.springserve.com
 vid.springserve.com
 video-ad-stats.googlesyndication.com
@@ -1516,7 +1511,7 @@ widgets.outbrain.com
 widgets.tree.com
 wikia-d.openx.net
 wildcard.moatads.com.edgekey.net
-windsor.logs.roku.com
+
 wintricksbanner.googlepages.com
 wootric-eligibility.herokuapp.com
 wp.googletagmanager.com
@@ -1646,8 +1641,6 @@ www.facebook-veryfication-process4.herokuapp.com
 www.fastly-insights.com
 www.fgoogle.com
 www.filmyroku.pl
-# www.firebaselogging-pa.googleapis.com
-# www.firebaselogging.googleapis.com
 www.fogoogle.com
 www.fqtag.com
 www.free.frgoogle.com
