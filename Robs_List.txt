@@ -9,60 +9,26 @@ admin.appnext.com
 ads.eastus.trafficmanager.net
 ads.mygrocerydeals.com
 ads.pandora.tv.net
-api.apple.go.yahoo.com
-apple-finance.query.yahoo.com
 apple.comscoreresearch.com
 assets.ads.mygrocerydeals.com
-assets.video.yahoo.net
-cerebro.edna.yahoo.net
-csp.yahoo.com
 d11depkj6bh0w3.cloudfront.net
 dart.l.doubleclick.net
 dishanalyticsandtesting.sc.omtrdc.net
 dishpurchasingcorporation.hb-api.omtrdc.net
-dns-7yfo8alm2.sombrero.yahoo.net
-dns-j7m48m1uq.sombrero.yahoo.net
-dns-plkjdlk68.sombrero.yahoo.net
-ds-oob-fo-media-router1.prod.media.g01.yahoodns.net
-edge-mcdn.secure.yahoo.com
-edge.gycpi.b.yahoodns.net
-edgecast-cf-prod.yahoo.net
-edgecast-vod.yahoo.net
-embed.fireplace.yahoo.com
-embed.video.yahoo.com
-gallery.tv.widgets.yahoo.com
-geo-applefinance-cache.internal.query.g03.yahoodns.net
 imps.trk.mwstats.net
-media-router-brb1.prod.media.g03.yahoodns.net
-new-news.g06.yahoodns.net
 news-yahoo-com.cdn.ampproject.org
-news.yahoo.com
 p-adapt-a.movetv.com
 p-adapt.movetv.com
 p-stats.movetv.com
 pagead46.l.doubleclick.net
 products.mygrocerydeals.com
 pubmatic-server.thinknearhub.com
-sp.analytics.yahoo.com
-v-ab85mqbvka.wc.yahoodns.net
-v-au6j7aep9j.wc.yahoodns.net
-v-ay796kl8po.wc.yahoodns.net
-v-b539ns2qy6.wc.yahoodns.net
-v-bbbx9d7ilu.wc.yahoodns.net
-v-bkppvujqwv.wc.yahoodns.net
-v-c1opxza2v7.wc.yahoodns.net
-v-c2zz1d53ar.wc.yahoodns.net
-v-cbg2tgpha4.wc.yahoodns.net
-v4-edge.gycpi.b.yahoodns.net
-video-api.yql.yahoo.com
 vop-yahoo.akamaized.net
 vop-yahoo.secure.footprint.net
 webview.unityads.unity3d.com
 winner-lb2-f918b4c7bf5ab40c.elb.us-east-1.amazonaws.com
 ws.tapjoyads.com
 x4w8j5q4.stackpathcdn.com
-yahoovod.hs.llnwd.net
-yep.video.yahoo.com
 
 
 
@@ -72,7 +38,6 @@ yep.video.yahoo.com
 1ad356638475.cdn4.forter.com
 2.afs.googleadservices.com
 2ciy2-9kbup.ads.tremorhub.com
-3p-geo.yahoo.com
 4.afs.googleadservices.com
 7f077.v.fwmrm.net
 10.72.105.165googleanalytics.matomo.cloud
@@ -131,7 +96,6 @@ ads.rubiconproject.com
 ads.samba.tv
 ads.servenobid.com
 ads.stickyadstv.com
-ads.yahoo.com
 ads.yieldmo.com
 adserver-east.extend.tv
 adserver.adtech.advertising.com
@@ -310,7 +274,6 @@ c.google-docs.com
 c.googlesyndication.com
 c1.adform.net
 c2.piano.io
-c2shb.ssp.yahoo.com
 cache.addthiscdn.com
 camden.logs.roku.com
 captive.adservice.google.co.in
@@ -383,7 +346,6 @@ cloudgoogleanalytics.matomo.cloud
 cm.adform.net
 cm.everesttech.net
 cm.g.doubleclick.net
-cms.analytics.yahoo.com
 collect10854wrdcr.deltadna.net
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
@@ -877,7 +839,6 @@ live.sekindo.com
 loadus.exelator.com
 log.adaptv.advertising.com
 log.go.com
-log.v.ssp.yahoo.com
 logs.ironsrc.mobi
 logs.roku.com
 logx.optimizely.com
@@ -991,7 +952,6 @@ mobile.launchdarkly.com
 mobile.logs.roku.com
 mon-va.byteoversea.com
 mon.isnssdk.com
-monetization-ad-api-ext.media.yahoo.com
 mpartner.googleadservices.com
 mps.cnbc.com
 ms.applovin.com
@@ -1161,7 +1121,6 @@ posta.googlemaail.com
 postmaster.google-docs.com
 postmaster.googlemaail.com
 powr-counter.herokuapp.com
-pr.ybp.yahoo.com
 prd.jwpltx.com
 pre.ads.justpremium.com
 prebid-match.dotomi.com
@@ -1209,7 +1168,6 @@ raps.ravm.tv
 ravm.tv
 rc.rlcdn.com
 reachms.bfmio.com
-readmo.yahoo.com
 redirector.c.googlesyndication.com
 redirector.gvt1.com
 redirectvirusgoogle.accountkit.com
@@ -1486,7 +1444,6 @@ uk-script.dotmetrics.net
 ukskrokus.pl
 unified.adsafeprotected.com
 uploads-awsdashboard.googletagmanager.com
-ups.analytics.yahoo.com
 urlwww--google--com.rtrk.com
 us-east-google-rtb.quantserve.com
 us-east-google.bidswitch.net
