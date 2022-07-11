@@ -342,7 +342,6 @@ google-drive-yy.a78.org
 google-for-kids.com
 google-inv-eu.admixer.net
 google-lb-p1e.sitescout.com
-google-placement.com.re.getclicky.com
 google-pn.pof.com
 google-porn.com
 google-production.sendgrid.net
@@ -525,7 +524,6 @@ i.ads.roku.com
 ibksturm.synology.me
 ibuki.cgnat.net
 id.google.com.br.domain.name
-id.google.comin.getclicky.com
 identity-dev.ads.roku.com
 identity.ads.roku.com
 imap1.googlemaail.com
@@ -927,7 +925,6 @@ tiger.googlemaail.com
 tpcnc.googlesyndication.com
 traces.sr.roku.com
 track.sr.roku.com
-tracking.google-placement.com.re.getclicky.com
 trainingmask.googletagmanager.com
 translate.googleusercontent.com.pathful.com
 translate.translategoogle.com
