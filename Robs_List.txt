@@ -864,7 +864,6 @@ security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 security.googlesettings.com
 segoogle.com
-sendgrid.net
 sense360eng.com.herokudns.com
 sentry.io
 server.googlemaail.com
@@ -924,6 +923,8 @@ thor.googlemaail.com
 tiger.googlemaail.com
 tpcnc.googlesyndication.com
 traces.sr.roku.com
+track.sr.roku.com
+tracking.google-placement.com.re.getclicky.com
 trainingmask.googletagmanager.com
 translate.googleusercontent.com.pathful.com
 translate.translategoogle.com
