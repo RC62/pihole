@@ -107,6 +107,7 @@
 @@/(.*\.|^)samsungcloud.*\.(com|net|tv)$/
 @@/(.*\.|^)samsungcloudsolution\.(com|net|tv)$/
 @@/(.*\.|^)samsungelectronics\.com$/
+@@/(.*\.|^)spotify\.com$/
 @@/(.*\.|^)ssa\.gov$/
 @@/(.*\.|^)typekit\.net$/
 @@/(.*\.|^)xboxlive\.com$/
