@@ -17,6 +17,7 @@
 @@||disney.tt.omtrdc.net
 @@||download.scdn.co
 @@||edge-mqtt.facebook.com
+@@||edge-web.dual-gslb.spotify.com
 @@||fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 @@||firebase-settings.crashlytics.com
 @@||fonts.gstatic.com
