@@ -70,6 +70,7 @@
 @@||tinyurl.com
 @@||www.bit.ly
 @@||www.facebook.com
+@@||scdnco.spotify.map.fastly.net
 # @@||cbsinteractive.hb.omtrdc.net
 # @@||partnerad.l.doubleclick.net
 # @@||pubads.g.doubleclick.net
