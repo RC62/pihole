@@ -111,3 +111,4 @@
 /^pixels?[-.]/
 /^stat(s|istics)?[0-9]*[_.-]/
 ||local^$important
+/.*adsystem\.com$/
