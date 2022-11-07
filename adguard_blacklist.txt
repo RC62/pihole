@@ -42,6 +42,7 @@
 /(.*\.|^)confection\.io$/
 /(.*\.|^)coremetrics\.com$/
 /(.*\.|^)doh\.dns\.apple\.com$/
+/(.*\.|^)doubleclick\.net$/
 /(.*\.|^)getclicky.*\.(com|net)$/
 /(.*\.|^)go-mpulse\.net\.edgekey\.net$/
 /(.*\.|^)go-mpulse\.net$/
