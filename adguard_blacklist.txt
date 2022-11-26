@@ -14,9 +14,9 @@
 ||edge.personalizer.io
 ||scdnco.spotify.map.fastly.net
 ||spclient.wg.spotify.com
-||store.cocoatech.io
 ||storefront.personalizer.io
 #||get.cocoatech.com
+#||store.cocoatech.io
 #
 #Blacklist Regex
 #
