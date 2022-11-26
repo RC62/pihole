@@ -12,11 +12,11 @@
 ||doh.dns.apple.com.v.aaplimg.com
 ||edge-web.dual-gslb.spotify.com
 ||edge.personalizer.io
-||get.cocoatech.com
 ||scdnco.spotify.map.fastly.net
 ||spclient.wg.spotify.com
 ||store.cocoatech.io
 ||storefront.personalizer.io
+#||get.cocoatech.com
 #
 #Blacklist Regex
 #
