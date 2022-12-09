@@ -58,9 +58,11 @@
 @@||pool.ntp.org
 @@||products.office.com
 @@||raspberrypi.local
+@@||rat.rakuten.co.jp
 @@||rdz-rbcloud.rainbird.com
 @@||s.shopify.com
 @@||s.youtube.com
+@@||scdnco.spotify.map.fastly.net
 @@||self-events-data.trafficmanager.net
 @@||star-mini.c10r.facebook.com
 @@||t.scdn.co
@@ -70,7 +72,6 @@
 @@||tinyurl.com
 @@||www.bit.ly
 @@||www.facebook.com
-@@||scdnco.spotify.map.fastly.net
 # @@||cbsinteractive.hb.omtrdc.net
 # @@||partnerad.l.doubleclick.net
 # @@||pubads.g.doubleclick.net
