@@ -51,6 +51,7 @@
 /(.*\.|^)imrworldwide\.com$/
 /(.*\.|^)jampp\.com$/
 /(.*\.|^)ldschurch.*\.(com|net|org)$/
+/(.*\.|^)marketingcloudapis\.com$/
 /(.*\.|^)pubmatic\.com$/
 /(.*\.|^)qualtrics.*\.(com|net)$/
 /(.*\.|^)qualtrics\.com$/
