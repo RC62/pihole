@@ -66,6 +66,7 @@
 /(\.|^)api\.mchnad\.com$/
 /(\.|^)crushnearby\.com$/
 /(\.|^)hostigr\.com$/
+/(\.|^)localytics\.com$/
 /(\.|^)moitruongxuyena\.vn$/
 /(\.|^)supersonicads\.com$/
 /(\.|^)ymlpsend1\.net$/
