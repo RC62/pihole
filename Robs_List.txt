@@ -1,7 +1,9 @@
 # Rob's List
 # Cleaned and Compared to Steven Black's List and Dups Removed
 # Last Update: 2022-06-27 10:02 AM EDT
-
+#
+# gpm.samsungqbe.com
+# tvpnlogopus.samsungcloud.tv
 0.afs.googleadservices.com
 1ad356638475.cdn4.forter.com
 1dot1dot1dot1.cloudflare-dns.com
@@ -503,7 +505,6 @@ googlevideosx.com
 googlewar.go.pl
 googlewordpad.info
 googlewww.quotes.com
-gpm.samsungqbe.com
 grvmedia.amp.permutive.com
 gstaticadssl.l.google.com
 gw.google-docs.com
@@ -931,7 +932,6 @@ translate.translategoogle.com
 translategoogle.com
 transportation.sweetwaterschools.orgoogle.com
 trk.klclick2.com
-tvpnlogopus.samsungcloud.tv
 twitterinc.tt.omtrdc.net
 u002fwww.googletagmanager.com
 u4745827.ct.sendgrid.net

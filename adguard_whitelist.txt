@@ -40,7 +40,6 @@
 @@||ibhuluimcom-a.akamaihd.net
 @@||lcprd1.samsungcloudsolution.net
 @@||lineup-images.scdn.co
-@@||log-ingestion.samsungacr.com
 @@||login.microsoftonline.com
 @@||login5.spotify.com
 @@||mask-h2.icloud.com
@@ -76,6 +75,7 @@
 # @@||partnerad.l.doubleclick.net
 # @@||pubads.g.doubleclick.net
 # @@||saa.cbsi.com
+# @@||log-ingestion.samsungacr.com
 #
 #Whitelist Regex
 #
