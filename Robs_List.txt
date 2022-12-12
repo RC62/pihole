@@ -2,6 +2,7 @@
 # Cleaned and Compared to Steven Black's List and Dups Removed
 # Last Update: 2022-06-27 10:02 AM EDT
 #
+# disney.tt.omtrdc.net
 # gpm.samsungqbe.com
 # tvpnlogopus.samsungcloud.tv
 0.afs.googleadservices.com
@@ -197,7 +198,6 @@ dfafwwww.googletagmanager.com
 diffuser-cdn.app-us1.com
 digikulture-d.openx.net
 dishanalyticsandtesting.sc.omtrdc.net
-disney.tt.omtrdc.net
 distance.googletagmanager.com
 dl.googleplaystoreapks.com
 dns-family.adguard.com
