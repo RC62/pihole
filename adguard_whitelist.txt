@@ -118,7 +118,6 @@
 @@/(\.|^)akamaiedge\.net$/
 @@/(\.|^)gs-loc\.apple\.com$/
 @@/(\.|^)jw\.org$/
-@@/(\.|^)localytics\.com$/
 @@/(\.|^)micpn\.com$/
 @@/(\.|^)play\.google\.com$/
 @@/(\.|^)samsungqbe\.com$/
@@ -129,3 +128,4 @@
 # @@/(.*\.|^)logs\.roku\.com$/
 # @@/(.*\.|^)nest\.com$/
 # @@/(\.|^)amazon-adsystem\.com$/
+# @@/(\.|^)localytics\.com$/
