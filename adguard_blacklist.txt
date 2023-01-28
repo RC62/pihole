@@ -47,6 +47,7 @@
 /(.*\.|^)doh\.dns\.apple\.com$/
 /(.*\.|^)doubleclick\.net$/
 /(.*\.|^)getclicky.*\.(com|net)$/
+/(.*\.|^)giftaward\.life$/
 /(.*\.|^)go-mpulse\.net\.edgekey\.net$/
 /(.*\.|^)go-mpulse\.net$/
 /(.*\.|^)ichnaea.*\.com$/
