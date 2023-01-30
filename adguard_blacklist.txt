@@ -1,8 +1,11 @@
 # Rob's adguard Blacklist
-# Last Update: 2022-12-12 8:36 AM EST
+# Last Update: 2023-01-29 10:38 PM EST
 #
 #Blacklist Exact
 #
+#||doh.dns.apple.com.v.aaplimg.com
+#||get.cocoatech.com
+#||store.cocoatech.io
 ||adxfactory.com
 ||api-in-app-marketing-auth.i.tplinknbu.com
 ||ark.tubi.video
@@ -11,14 +14,11 @@
 ||click-now-on-this.online
 ||click.new-posts.support
 ||customerevents.netflix.com
-||doh.dns.apple.com.v.aaplimg.com
 ||edge-web.dual-gslb.spotify.com
 ||edge.personalizer.io
 ||scdnco.spotify.map.fastly.net
 ||spclient.wg.spotify.com
 ||storefront.personalizer.io
-#||get.cocoatech.com
-#||store.cocoatech.io
 #
 #Blacklist Regex
 #
@@ -44,7 +44,6 @@
 /(.*\.|^)collector.*\.com$/
 /(.*\.|^)confection\.io$/
 /(.*\.|^)coremetrics\.com$/
-/(.*\.|^)doh\.dns\.apple\.com$/
 /(.*\.|^)doubleclick\.net$/
 /(.*\.|^)getclicky.*\.(com|net)$/
 /(.*\.|^)giftaward\.life$/
@@ -117,5 +116,6 @@
 /^pixels?[-.]/
 /^stat(s|istics)?[0-9]*[_.-]/
 # /(.*\.|^)unity3d\.(com$|com\.edgekey\.net$)/
+#/(.*\.|^)doh\.dns\.apple\.com$/
 #/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
 #||local^$important # What the hell is this?

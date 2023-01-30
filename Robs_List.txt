@@ -1,10 +1,19 @@
 # Rob's List
 # Cleaned and Compared to Steven Black's List and Dups Removed
-# Last Update: 2022-12-12 8:36 AM EST
+# Last Update: 2023-01-29 10:38 PM EST
+#
+#
+#
+#
 #
 # disney.tt.omtrdc.net
 # gpm.samsungqbe.com
+# https://adaway.org/hosts.txt
+# https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 # tvpnlogopus.samsungcloud.tv
+# Unique Entries from
+# Unique Entries from
+#doh.dns.apple.com
 0.afs.googleadservices.com
 1ad356638475.cdn4.forter.com
 1dot1dot1dot1.cloudflare-dns.com
@@ -14,6 +23,7 @@
 18.afs.googleadservices.com
 29fc400bc7c6efc322b6a1a40991760da398fade.googledrie.com
 72.105.165googleanalytics.matomo.cloud
+103-136-41-100.hosted-by-worldstream.net
 105.165googleanalytics.matomo.cloud
 165googleanalytics.matomo.cloud
 6372968.fls.doubleclick.net
@@ -70,6 +80,7 @@ alt1.sandbox.google-analytics.com
 alt2.google-analytics.com
 alt2.googleadservices.com
 alt3.google-analytics.com
+altunminyum.github.io
 amazon.partners.tremorhub.com
 amoeba-plus.web.roku.com
 amp.akamaized.net
@@ -106,6 +117,7 @@ authsmtp.googlemaail.com
 authsmtp.googlesettings.com
 autodiscover.googlemaail.com
 avj-golitsyno.googlebussines.com
+axystem.com
 az416426.vo.msecnd.net
 az725175.vo.msecnd.net
 azinsight.adsrvr.org
@@ -120,13 +132,17 @@ barclaycardus.com.ssl.sc.omtrdc.net
 barracuda.google-docs.com
 barracuda.googlemaail.com
 basher.ezodn.com
+basnetbd.com
 bat-bing-com.a-0001.a-msedge.net
 beacon-iad3.rubiconproject.com
+beanx99.xyz
 beyondcorp.google.kibana.elasticstack.cbsi.com
 box.google-docs.com
 box.googlemaail.com
 browser.sentry-cdn.com
+buildgujarat.com
 builds-google.mediaiqdigital.com
+bvirtual.com
 c.google-docs.com
 c.googlesyndication.com
 c2.piano.io
@@ -136,7 +152,9 @@ captive.googleads.g.doubleclick.net
 captive.pagead2.googlesyndication.com
 captive.tpc.googlesyndication.com
 capture.trackjs.com
+carlinconstruct.com
 ccpa.sp-prod.net
+cdn-cqwz.7road.net
 cdn-media.brightline.tv
 cdn-pci.optimizely.com
 cdn-prod-asia-spoz1-google.spotad.co
@@ -152,6 +170,10 @@ cdn3.optimizely.com
 cdn9.forter.com
 celebsunmasked.googletagmanager.com
 cella.home.hedbor.org
+ceramicalafortaleza.com
+cfp-courses.com
+chainandpyle.com
+check-info-session1036.gq
 check.analytics.rlcdn.com
 check.googlezip.net.domain.name
 chooseyourmask.googletagmanager.com
@@ -166,6 +188,7 @@ cloudgoogleanalytics.matomo.cloud
 collection-endpoint-prod.herokuapp.com
 collector-pxslc3j22k.px-cloud.net
 collector-pxu6b0qd2s.px-cloud.net
+colordropsgu.com
 com.googlemaail.com
 comgoogle_gid.ad.gt
 commons.host
@@ -188,7 +211,9 @@ d2uap9jskdzp2.cloudfront.net
 d3lcz8vpax4lo2.cloudfront.net
 d11depkj6bh0w3.cloudfront.net
 d39vf9bwtb4sua.cloudfront.net
+dalyshops.com
 damask.googletagmanager.com
+dbr.hostingsdc.pl
 dc.services.visualstudio.com
 deliver.ptgncdn.com
 dennis.amp.permutive.com
@@ -198,6 +223,7 @@ dfafwwww.googletagmanager.com
 diffuser-cdn.app-us1.com
 digikulture-d.openx.net
 dishanalyticsandtesting.sc.omtrdc.net
+disperindag.garutkab.go.id
 distance.googletagmanager.com
 dl.googleplaystoreapks.com
 dns-family.adguard.com
@@ -252,7 +278,6 @@ doh.captnemo.in
 doh.centraleu.pi-dns.com
 doh.cleanbrowsing.org
 doh.crypto.sx
-doh.dns.apple.com
 doh.dns.sb
 doh.dnslify.com
 doh.dnswarden.com
@@ -272,16 +297,22 @@ doh.westus.pi-dns.com
 doh.xfinity.com
 dohdot.coxlab.net
 dohtrial.att.net
+domyzizka.cz
 doodlegoogle.com
 doppler-reporting.cbsivideo.com
 download453.google-docs.com
 dr-mobiweb.googleoptimize.com
 drive.googledrie.com
 drive.googlerive.com
+dscaluya.6te.net
+dumink.strangled.net
+dvmbndvksdjvb.hopto.org
+dynamiperkasa.com
 e-distance.googletagmanager.com
 ea-dns.rubyfish.cn
 email.googlemaail.com
 email.googlesettings.com
+eportfolio-bizcom.msci.dusit.ac.th
 eq97f.publishers.tremorhub.com
 er1v.googletagmanager.com
 eu-google-rtb.quantserve.com
@@ -294,6 +325,7 @@ family.cloudflare-dns.com
 fast-google.gq.domain.name
 feedads.googleadservices.com
 fi.doh.dns.snopyta.org
+fidelityptrust.com
 firewallecho.www-google-analytics.l.google.com
 fogoogle.com
 foxnews-d.openx.net
@@ -303,12 +335,14 @@ fsb.hextom.com
 fundingchoices.google.com
 fundingchoicesmessages.google.com
 gateway.googlemaail.com
+gen-l.tk
 ggsoftware-d.openx.net
 gigoogle.com
 globalchildrenschool.googletagmanager.com
 go.ezoic.net
 gogoogle.aniview.com
 gogoogle.digitalremedy.com
+golden-cheats.com
 google-analytics.touchdownworld.cz
 google-api.secure.blismedia.com
 google-bidder.ads.wish.com
@@ -505,16 +539,22 @@ googlevideosx.com
 googlewar.go.pl
 googlewordpad.info
 googlewww.quotes.com
+grabpflege-ettlingen.de
+greatestdpk.gotdns.ch
 grvmedia.amp.permutive.com
 gstaticadssl.l.google.com
+gsverwelius.nl
+gunaymedya.com
 gw.google-docs.com
 gw.googlemaail.com
+hadouken.top
 hb.gsspcln.jp
 hearsttelevision-d.openx.net
 help-toolbar.googletagmanager.com
 hereisthecity-d.openx.net
 hermes.googlemaail.com
 home.googlemaail.com
+homi-egypt.com
 host.googlemaail.com
 htps.googletagmanager.com
 https.translategoogle.com
@@ -544,12 +584,14 @@ j.ophan.co.uk
 jcdns.fun
 jenkins-mail.googleoptimize.com
 jgjdkdgoogle9302.clickfunnels.com
+joker123.game
 jp.gridns.xyz
 jp.tiar.app
 jp.tiarap.org
 js.hsforms.net
 kabokimask.googletagmanager.com
 kaspersky-anti-virus.googletagmanager.com
+kfcburgers.com
 koronaekszerkft-hu.googletagmanager.com
 kpmg.googleoptimize.com
 languageisavirus.googletagmanager.com
@@ -557,6 +599,8 @@ lh3.googleadsserving.cn
 lh4.googleadsserving.cn
 lh5.googleadsserving.cn
 lh6.googleadsserving.cn
+likylook.casino-live.uk.com
+log-collector.svctr.zynga.com
 lowes15841z.btttag.com
 lptag-cdn.liveperson.net
 ls.chatid.com
@@ -643,6 +687,7 @@ mobile-collector.newrelic.com.cdn.cloudflare.net
 mobile-crash.newrelic.com
 mobile-http-intake.logs.datadoghq.com
 mon-va.byteoversea.com
+morcelik.github.io
 mozilla.cloudflare-dns.com
 mpartner.googleadservices.com
 mps.cnbc.com
@@ -670,7 +715,9 @@ mx10.googlesettings.com
 mx20.googlemaail.com
 mxs.googlemaail.com
 my.getadmiral.com
+mycrypto-app.com
 mymodernmet.ck.page
+nbs.vizzhost.com
 ndns.233py.com
 neewgoogle.com
 new.google-docs.com
@@ -679,7 +726,9 @@ newmail.googlemaail.com
 news-server-drm-google.com
 news-yahoo-com.cdn.ampproject.org
 news.googlerive.com
+ngcgas.com
 nic.googlerive.com
+nkai.xyz
 nlwww.google.sewww.yahoo.comwww.youtube.devops.comads.adap.tv
 nosemask.googletagmanager.com
 ns.google-docs.com
@@ -745,6 +794,7 @@ passwordgoogle.com
 paywall-prod.appspot.com
 pbrand.googlemaail.com
 peoplegraph.firstpartyapps.oaspapps.com
+pep-saman-bmb.tk
 phonemasking-stage.googleoptimize.com
 photographythomaskru.googletagmanager.com
 pix.googletagservice.com
@@ -889,12 +939,15 @@ smtpseguro.googlemaail.com
 snc.marchex.io
 sniper.googlemaail.com
 sonar.fedex.com
+soprocerto.pt
 spl.orgoogle.com
 spn-v1.revampcdn.com
 sponge.creditkarma.com
 src.litix.io
 srv.google-docs.com
 srv.googlemaail.com
+srv30763236.ultasrv.com
+srv60340528.ultasrv.com
 ss.sitescout.com
 ssl.google-analytics.comstatic.xx.fbcdn.nett.skimresources.com
 ssl.googlemaail.com
@@ -915,13 +968,16 @@ szlbg.uae2grp.uc.cn
 t.seedtag.com
 tagmanager.google.com
 teekaewpreecha2555.googletagmanager.com
+telemetrysystemcollection.com
 test-web.googletagmanager.com
 test-webnewest.googletagmanager.com
 test.firebaselogging.googleapis.com
 test.www.googleoptimize.com
 tf-prod-uswest-spop3-google.spotad.co
 thor.googlemaail.com
+thuybaohuy.com
 tiger.googlemaail.com
+tk2-205-12159.vs.sakura.ne.jp
 tpcnc.googlesyndication.com
 traces.sr.roku.com
 track.sr.roku.com
@@ -932,10 +988,12 @@ translate.translategoogle.com
 translategoogle.com
 transportation.sweetwaterschools.orgoogle.com
 trk.klclick2.com
+tryweaswweee.ydns.eu
 twitterinc.tt.omtrdc.net
 u002fwww.googletagmanager.com
 u4745827.ct.sendgrid.net
 uipglob.semasio.net
+unborrowed-customer.000webhostapp.com
 uncensored.any.dns.nixnet.xyz
 uncensored.lux1.dns.nixnet.xyz
 uncensored.lv1.dns.nixnet.xyz
@@ -953,6 +1011,7 @@ v6.rubyfish.cn
 vaccin-timisoara.googletagmanager.com
 vaccin.googletagmanager.com
 vad-bid.adsrvr.org
+valueshippings.cc
 vcs-va.byteoversea.com
 verification-va.byteoversea.com
 vi.freewheel.tv
@@ -969,6 +1028,7 @@ wam-google.solution.weborama.fr
 wd.adcolony.xyz
 wdns.233py.com
 webcache.googleusercontent.com.pathful.com
+webhoanggia.com
 widgets.tree.com
 wikia-d.openx.net
 winner-lb2-f918b4c7bf5ab40c.elb.us-east-1.amazonaws.com
@@ -1078,12 +1138,19 @@ www.abrial-jeremy.frgoogle.com
 www.adat-tradisional.r6---sn-a5meknes.googlevideo.comr7---sn-n4v7kn7d.googlevideo.comredir.adap.tv
 www.adtilt.com
 www.adwords.google.lloymlincs.com
+www.autosmorla.es
 www.bt.segoogle.com
+www.campusconindigital.org
 www.carnegie.orgoogle.com
 www.chu-nice.frgoogle.com
 www.clickcease.com
 www.clouderrorreporting.googleapis.com
+www.clubnauticocordoba.com.ar
+www.controlnetworks.com.au
 www.corokumoznaproboowac.club
+www.digitalkhulna.com
+www.dnahealth.gr
+www.e-xim.pl
 www.fogoogle.com
 www.fqtag.com
 www.free.frgoogle.com
@@ -1135,17 +1202,20 @@ www.googlessites.com
 www.googletagservice.com
 www.googlevideosx.com
 www.googlewordpad.info
+www.greenvalleyschool.com
 www.healthgrades.com
 www.hltv.orgoogle.com
 www.mailin.google-docs.com
 www.matvarlden.segoogle.com
 www.mayoclinic.orgoogle.com
 www.neewgoogle.com
+www.non-se.co
 www.orgoogle.com
 www.partner.googleadservices.com
 www.passwordgoogle.com
 www.plgoogle.lvlgoodnewspl.site
 www.raigoogle.com
+www.sanipass-solutions.fr
 www.translate.translategoogle.com
 www.translategoogle.com
 www.ww10.translategoogle.com
@@ -1169,6 +1239,7 @@ xroads.googletagmanager.com
 yogoogle.com
 z-net.pilen.nordnet.segoogle.com
 zame.googletagmanager.com
+zdigs.cfd
 zepo.googletagmanager.com
 zimbra.googlemaail.com
 zmail.googlemaail.com
@@ -1176,74 +1247,3 @@ zn_42v6draxyafsjmv-homedepot.siteintercept.qualtrics.com
 zn_55bdrev4af0c1yl-cbs.siteintercept.qualtrics.com
 zncv1onfo8kuflf0n-kickstarter.siteintercept.qualtrics.com
 zw.googletagmanager.com
-#
-#
-# Unique Entries from
-# https://adaway.org/hosts.txt
-log-collector.svctr.zynga.com
-#
-#
-# Unique Entries from
-# https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-103-136-41-100.hosted-by-worldstream.net
-altunminyum.github.io
-axystem.com
-basnetbd.com
-beanx99.xyz
-buildgujarat.com
-bvirtual.com
-carlinconstruct.com
-cdn-cqwz.7road.net
-ceramicalafortaleza.com
-cfp-courses.com
-chainandpyle.com
-check-info-session1036.gq
-colordropsgu.com
-dalyshops.com
-dbr.hostingsdc.pl
-disperindag.garutkab.go.id
-domyzizka.cz
-dscaluya.6te.net
-dumink.strangled.net
-dvmbndvksdjvb.hopto.org
-dynamiperkasa.com
-eportfolio-bizcom.msci.dusit.ac.th
-fidelityptrust.com
-gen-l.tk
-golden-cheats.com
-grabpflege-ettlingen.de
-greatestdpk.gotdns.ch
-gsverwelius.nl
-gunaymedya.com
-hadouken.top
-homi-egypt.com
-joker123.game
-kfcburgers.com
-likylook.casino-live.uk.com
-morcelik.github.io
-mycrypto-app.com
-nbs.vizzhost.com
-ngcgas.com
-nkai.xyz
-pep-saman-bmb.tk
-soprocerto.pt
-srv30763236.ultasrv.com
-srv60340528.ultasrv.com
-telemetrysystemcollection.com
-thuybaohuy.com
-tk2-205-12159.vs.sakura.ne.jp
-tryweaswweee.ydns.eu
-unborrowed-customer.000webhostapp.com
-valueshippings.cc
-webhoanggia.com
-www.autosmorla.es
-www.campusconindigital.org
-www.clubnauticocordoba.com.ar
-www.controlnetworks.com.au
-www.digitalkhulna.com
-www.dnahealth.gr
-www.e-xim.pl
-www.greenvalleyschool.com
-www.non-se.co
-www.sanipass-solutions.fr
-zdigs.cfd
