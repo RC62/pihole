@@ -16,10 +16,10 @@
 ||customerevents.netflix.com
 ||edge-web.dual-gslb.spotify.com
 ||edge.personalizer.io
+||https://app-measurement.com/sdk-exp
 ||scdnco.spotify.map.fastly.net
 ||spclient.wg.spotify.com
 ||storefront.personalizer.io
-||https://app-measurement.com/sdk-exp
 #
 #Blacklist Regex
 #
@@ -39,6 +39,7 @@
 /(.*\.|^).*\.vn$/
 /(.*\.|^).*\.vu$/
 /(.*\.|^)(yahoo.*)\.(net|com)?$/
+/(.*\.|^)app-measurement\.com$/
 /(.*\.|^)applovin\.com$/
 /(.*\.|^)brilliantcollector\.com$/
 /(.*\.|^)churchofjesuschrist.*\.(com|net|org)$/
