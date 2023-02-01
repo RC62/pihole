@@ -19,6 +19,7 @@
 ||scdnco.spotify.map.fastly.net
 ||spclient.wg.spotify.com
 ||storefront.personalizer.io
+||https://app-measurement.com/sdk-exp
 #
 #Blacklist Regex
 #
