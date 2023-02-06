@@ -56,6 +56,7 @@
 /(.*\.|^)jampp\.com$/
 /(.*\.|^)ldschurch.*\.(com|net|org)$/
 /(.*\.|^)marketingcloudapis\.com$/
+/(.*\.|^)omtrdc\.net$/
 /(.*\.|^)pubmatic\.com$/
 /(.*\.|^)qualtrics.*\.(com|net)$/
 /(.*\.|^)qualtrics\.com$/
