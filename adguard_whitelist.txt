@@ -73,11 +73,7 @@
 @@||tinyurl.com
 @@||www.bit.ly
 @@||www.facebook.com
-# @@||cbsinteractive.hb.omtrdc.net
-# @@||partnerad.l.doubleclick.net
-# @@||pubads.g.doubleclick.net
-# @@||saa.cbsi.com
-# @@||log-ingestion.samsungacr.com
+
 #
 #Whitelist Regex
 #
@@ -120,12 +116,6 @@
 @@/(\.|^)jw\.org$/
 @@/(\.|^)micpn\.com$/
 @@/(\.|^)play\.google\.com$/
-@@/(\.|^)samsungqbe\.com$/
 @@/(\.|^)symcb\.com$/
 @@/(\.|^)zoom\.us$/
 @@/ocsp[0-9]*\.apple.com/
-# @@/(.*\.|^)icloud\.com$/
-# @@/(.*\.|^)logs\.roku\.com$/
-# @@/(.*\.|^)nest\.com$/
-# @@/(\.|^)amazon-adsystem\.com$/
-# @@/(\.|^)localytics\.com$/
