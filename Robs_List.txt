@@ -248,7 +248,6 @@ dns.mrkaran.dev
 dns.nextdns.io
 dns.oszx.co
 dns.pumplex.com
-dns.quad9.net
 dns.rubyfish.cn
 dns.switch.ch
 dns.t53.de
@@ -256,11 +255,6 @@ dns.twnic.tw
 dns1.dnscrypt.ca
 dns2.alekberg.net
 dns2.dnscrypt.ca
-dns9.quad9.net
-dns10.quad9.net
-dns11.quad9.net
-dns64.cloudflare-dns.com
-dns64.dns.google
 dns64.dns.google.domain.name
 dnsforge.de
 dnsse.alekberg.net
