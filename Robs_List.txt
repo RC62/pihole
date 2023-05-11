@@ -1,9 +1,6 @@
 # Rob's List
 # Cleaned and Compared to Steven Black's List and Dups Removed
-# Last Update: 2023-05-11 12:06 PM EST
-#
-#
-#
+# Last Update: 2023-05-11 12:23 PM EST
 #
 #
 # disney.tt.omtrdc.net
@@ -1284,35 +1281,11 @@ sf1-ttcdn-tos.pstatp.com
 sf16-ttcdn-tos.ipstatp.com
 sf6-ttcdn-tos.pstatp.com
 sgsnssdk.com
-tiktok-lb-alisg.byteoversea.net
-tiktok-lb-maliva.byteoversea.net
-tiktok-platform-lb-alisg.byteoversea.net
-tiktok.com
-tiktokcdn-in.com
-tiktokcdn-us.com
-tiktokcdn-us.com.atomile.com
-tiktokcdn.com
-tiktokcdn.com.atomile.com
-tiktokcdn.com.c.bytefcdn-oversea.com
-tiktokcdn.com.c.bytetcdn.com
-tiktokcdn.com.c.worldfcdn.com
-tiktokcdn.com.rocket-cdn.com
-tiktokd.org
-tiktokv.com
-tiktokv.com.c.worldfcdn.com
-tiktokv.com.c.worldfcdn2.com
 ttlivecdn.com
 ttlivecdn.com.c.worldfcdn.com
 ttoversea.net
 ttoverseaus.net
-us.tiktok.com
-#
-#TikTok Domain Platforms
 1006686430.rsc.cdn77.org
 d1urvv9m2chg9l.cloudfront.net
 e28622.a.akamaiedge.net
 pull-flv-f1-hs.pstatp.com.wsdvs.com
-tiktok-webrtc.liveplay.myqcloud.com
-tiktok.bytedance.map.fastly.net
-tiktok.com.c.footprint.net
-tiktokcdn.com.queniuaa.com
