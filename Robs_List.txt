@@ -1305,6 +1305,7 @@ ttlivecdn.com
 ttlivecdn.com.c.worldfcdn.com
 ttoversea.net
 ttoverseaus.net
+us.tiktok.com
 #
 #TikTok Domain Platforms
 1006686430.rsc.cdn77.org
