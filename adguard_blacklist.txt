@@ -50,7 +50,6 @@
 /(.*\.|^)giftaward\.life$/
 /(.*\.|^)go-mpulse\.net\.edgekey\.net$/
 /(.*\.|^)go-mpulse\.net$/
-/(.*\.|^)ichnaea.*\.com$/
 /(.*\.|^)imrworldwide\.com$/
 /(.*\.|^)jampp\.com$/
 /(.*\.|^)ldschurch.*\.(com|net|org)$/
@@ -119,5 +118,6 @@
 /^stat(s|istics)?[0-9]*[_.-]/
 # /(.*\.|^)unity3d\.(com$|com\.edgekey\.net$)/
 #/(.*\.|^)doh\.dns\.apple\.com$/
+#/(.*\.|^)ichnaea.*\.com$/
 #/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
 #||local^$important # What the hell is this?
