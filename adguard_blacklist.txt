@@ -1,6 +1,7 @@
 # Rob's adguard Blacklist
 # Last Update: 2023-05-20 9:00 AM EST
 #
+#
 #Blacklist Exact
 #
 #||doh.dns.apple.com.v.aaplimg.com
@@ -19,6 +20,7 @@
 ||scdnco.spotify.map.fastly.net
 ||spclient.wg.spotify.com
 ||storefront.personalizer.io
+#
 #
 #Blacklist Regex
 #
@@ -116,6 +118,10 @@
 /^mads\./
 /^pixels?[-.]/
 /^stat(s|istics)?[0-9]*[_.-]/
+#
+#
+# Removed RegEx Entries
+#
 # /(.*\.|^)unity3d\.(com$|com\.edgekey\.net$)/
 #/(.*\.|^)doh\.dns\.apple\.com$/
 #/(.*\.|^)ichnaea.*\.com$/
