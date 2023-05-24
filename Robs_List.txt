@@ -1,16 +1,8 @@
 # Rob's List
 # Cleaned and Compared to Steven Black's List and Dups Removed
-# Last Update: 2023-05-11 12:23 PM EST
+# Last Update: 2023-05-24 7:53 PM EST
 #
 #
-# disney.tt.omtrdc.net
-# gpm.samsungqbe.com
-# https://adaway.org/hosts.txt
-# https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-# tvpnlogopus.samsungcloud.tv
-# Unique Entries from
-# Unique Entries from
-#doh.dns.apple.com
 0.afs.googleadservices.com
 1ad356638475.cdn4.forter.com
 1dot1dot1dot1.cloudflare-dns.com
@@ -1238,6 +1230,23 @@ zn_42v6draxyafsjmv-homedepot.siteintercept.qualtrics.com
 zn_55bdrev4af0c1yl-cbs.siteintercept.qualtrics.com
 zncv1onfo8kuflf0n-kickstarter.siteintercept.qualtrics.com
 zw.googletagmanager.com
+#
+#
+# Little Snitch Domain Blocks
+4at5.net
+cbssports.com
+click.netsuite.com
+dynect.net
+ebayadservices.com
+eloqua.com
+getblueshift.com
+klaviyo.com
+redken.com
+reports.crashlytics.com
+revenuecat.com
+stathat.com
+tidal.com
+#
 #
 #TikTok Domains
 abtest-sg-tiktok.byteoversea.com
