@@ -10,15 +10,10 @@
 ||adxfactory.com
 ||api-in-app-marketing-auth.i.tplinknbu.com
 ||ark.tubi.video
-||audio-ak-spotify-com.akamaized.net
-||audio-sp-sea.spotifycdn.net
 ||click-now-on-this.online
 ||click.new-posts.support
 ||customerevents.netflix.com
-||edge-web.dual-gslb.spotify.com
 ||edge.personalizer.io
-||scdnco.spotify.map.fastly.net
-||spclient.wg.spotify.com
 ||storefront.personalizer.io
 #
 #

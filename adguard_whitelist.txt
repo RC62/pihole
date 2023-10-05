@@ -6,6 +6,9 @@
 @@||accounts.spotify.com
 @@||apresolve.spotify.com
 @@||assetshuluimcom-a.akamaihd.net
+@@||audio-ak-spotify-com.akamaized.net
+@@||audio-fa.scdn.co
+@@||audio-sp-sea.spotifycdn.net
 @@||audio4-fa.scdn.co
 @@||b.jw-cdn.org
 @@||banner.aws.valenciacollege.edu
@@ -19,6 +22,7 @@
 @@||disney.tt.omtrdc.net
 @@||download.scdn.co
 @@||edge-mqtt.facebook.com
+@@||edge-web.dual-gslb.spotify.com
 @@||edge-web.dual-gslb.spotify.com
 @@||fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 @@||firebase-settings.crashlytics.com
@@ -44,6 +48,7 @@
 @@||lineup-images.scdn.co
 @@||login.microsoftonline.com
 @@||login5.spotify.com
+@@||login5.spotify.com
 @@||mask-h2.icloud.com
 @@||mask.icloud.com
 @@||metrics.barclaycardus.com
@@ -64,8 +69,11 @@
 @@||s.shopify.com
 @@||s.youtube.com
 @@||scdnco.spotify.map.fastly.net
+@@||scdnco.spotify.map.fastly.net
 @@||self-events-data.trafficmanager.net
+@@||spclient.wg.spotify.com
 @@||star-mini.c10r.facebook.com
+@@||support.spotify.com
 @@||t.scdn.co
 @@||tags.tiqcdn.com
 @@||time-osx.g.aaplimg.com
