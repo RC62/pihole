@@ -1,23 +1,30 @@
 # Rob's adguard Blacklist
-# Last Update: 2023-10-05 3:57 PM EST
+# Last Update: 2023-11-05 12:11 PM EST
 #
 #
-#Blacklist Exact
+#  **********  Block Global Exact  **********
 #
 #||doh.dns.apple.com.v.aaplimg.com
 #||get.cocoatech.com
+#||local^$important # What the hell is this?
 #||store.cocoatech.io
 ||adxfactory.com
+||ai-subscription-service.wyzecam.com^$important
 ||api-in-app-marketing-auth.i.tplinknbu.com
 ||ark.tubi.video
 ||click-now-on-this.online
 ||click.new-posts.support
 ||customerevents.netflix.com
 ||edge.personalizer.io
+||preapp.prod.partner.netflix.net^
+||prod-event-relay-api.v.aaplimg.com^$important
+||prod-event-relay-sports-api.v.aaplimg.com^$important
 ||storefront.personalizer.io
+||www.fisherinvestments.com^$important
+||wyze-app-monitor.wyzecam.com^$important
 #
 #
-#Blacklist Regex
+#  **********  Block Global RegEx  **********
 #
 /.*adsystem\.com$/
 /(.*\.|^).*\.ba$/
@@ -34,6 +41,8 @@
 /(.*\.|^).*\.vc$/
 /(.*\.|^).*\.vn$/
 /(.*\.|^).*\.vu$/
+/(.*\.|^).*amzn-sidewalk.*\.com$/
+/(.*\.|^).*tiktok.*\.*$/
 /(.*\.|^)(yahoo.*)\.(net|com)?$/
 /(.*\.|^)app-measurement\.com$/
 /(.*\.|^)applovin\.com$/
@@ -47,6 +56,8 @@
 /(.*\.|^)giftaward\.life$/
 /(.*\.|^)go-mpulse\.net\.edgekey\.net$/
 /(.*\.|^)go-mpulse\.net$/
+/(.*\.|^)iad-apple\.com.*$/
+/(.*\.|^)ichnaea.*\.com$/
 /(.*\.|^)ichnaea.*\.com$/
 /(.*\.|^)imrworldwide\.com$/
 /(.*\.|^)jampp\.com$/
@@ -114,11 +125,9 @@
 /^mads\./
 /^pixels?[-.]/
 /^stat(s|istics)?[0-9]*[_.-]/
-#
-#
-# Removed RegEx Entries
-#
 # /(.*\.|^)unity3d\.(com$|com\.edgekey\.net$)/
 #/(.*\.|^)doh\.dns\.apple\.com$/
+#/(.*\.|^)logs\.roku\.com$/
 #/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
-#||local^$important # What the hell is this?
+#
+#

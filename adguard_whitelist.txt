@@ -1,7 +1,7 @@
 # Rob's adguard Whitelist
-# Last Update: 2023-10-05 3:56 PM EST
+# Last Update: 2023-11-05 12:11 PM EST
 #
-#Whitelist Exact
+#  **********  Unblock Global Exact  **********
 #
 @@||accounts.spotify.com
 @@||apresolve.spotify.com
@@ -70,6 +70,7 @@
 @@||s.youtube.com
 @@||scdnco.spotify.map.fastly.net
 @@||scdnco.spotify.map.fastly.net
+@@||scribe.logs.roku.com
 @@||self-events-data.trafficmanager.net
 @@||spclient.wg.spotify.com
 @@||star-mini.c10r.facebook.com
@@ -81,9 +82,8 @@
 @@||tinyurl.com
 @@||www.bit.ly
 @@||www.facebook.com
-
 #
-#Whitelist Regex
+#  **********  Unblock Global RegEx  **********
 #
 @@/(.*)darwin\.hulu.*\.(com$|net$)/
 @@/(.*\.|^)(hulu)(stream|\.map\.fastly|\.com\.akadns)*\.(com$|net$)/
@@ -118,6 +118,7 @@
 @@/(.*\.|^)spotify\.com$/
 @@/(.*\.|^)ssa\.gov$/
 @@/(.*\.|^)typekit\.net$/
+@@/(.*\.|^)vox\.rocks$/
 @@/(.*\.|^)xboxlive\.com$/
 @@/(\.|^)akamaiedge\.net$/
 @@/(\.|^)gs-loc\.apple\.com$/
@@ -127,3 +128,29 @@
 @@/(\.|^)symcb\.com$/
 @@/(\.|^)zoom\.us$/
 @@/ocsp[0-9]*\.apple.com/
+#
+#
+#  **********  Unblock Tags device_tv  **********
+#
+@@||log-ingestion.samsungacr.com^$ctag=device_tv
+#
+#
+#  **********  Unblock Tags for Security Devices  **********
+#
+#  @@/.*/$ctag=device_securityalarm
+#
+#
+#  **********  Unblock Tag "os_android"  **********
+#
+@@/(.*\.|^)emb-api\.com/$ctag=os_android
+@@/(\.|^)samsungqbe\.com$/$ctag=os_android
+@@||api2.branch.io^$ctag=os_android
+@@||app-measurement.com^$ctag=os_android
+@@||config2.mparticle.com^$ctag=os_android
+@@||firebase-settings.crashlytics.com^$ctag=os_android
+@@||log-ingestion.samsungacr.com^$ctag=os_android
+@@||sdk.iad-02.braze.com^$ctag=os_android
+@@||settings.crashlytics.com^$ctag=os_android
+@@||ssl.google-analytics.com^$ctag=os_android
+#
+#
