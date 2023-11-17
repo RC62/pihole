@@ -130,10 +130,9 @@
 @@/ocsp[0-9]*\.apple.com/
 #
 #
-#  **********  Unblock Tags device_tv  **********
+#  **********  Unblock Tags os_android & device_tv  **********
 #
-@@||log-ingestion.samsungacr.com^$ctag=device_tv
-#
+@@||log-ingestion.samsungacr.com^$ctag=os_android|device_tv
 #
 #  **********  Unblock Tags for Security Devices  **********
 #
@@ -148,7 +147,6 @@
 @@||app-measurement.com^$ctag=os_android
 @@||config2.mparticle.com^$ctag=os_android
 @@||firebase-settings.crashlytics.com^$ctag=os_android
-@@||log-ingestion.samsungacr.com^$ctag=os_android
 @@||sdk.iad-02.braze.com^$ctag=os_android
 @@||settings.crashlytics.com^$ctag=os_android
 @@||ssl.google-analytics.com^$ctag=os_android
