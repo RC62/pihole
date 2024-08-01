@@ -941,7 +941,6 @@ staticw2.yotpo.com
 stats-dev.brid.tv
 stats.cloudwp.io
 stats.crsend.com
-stats.gc.apple.com
 stats1.bigcartel.com
 subgoogle.meeteapp.com
 supportmetrics.apple.com

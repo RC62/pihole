@@ -74,6 +74,7 @@
 @@||self-events-data.trafficmanager.net
 @@||spclient.wg.spotify.com
 @@||star-mini.c10r.facebook.com
+@@||stats.gc.apple.com
 @@||support.spotify.com
 @@||t.scdn.co
 @@||tags.tiqcdn.com
@@ -128,7 +129,6 @@
 @@/(\.|^)symcb\.com$/
 @@/(\.|^)zoom\.us$/
 @@/ocsp[0-9]*\.apple.com/
-@@||stats.gc.apple.com^
 #
 #
 #  **********  Unblock Tags os_android & device_tv  **********
