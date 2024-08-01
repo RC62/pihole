@@ -73,6 +73,7 @@
 /(.*\.|^)klclick\.com$/
 /(.*\.|^)ldschurch.*\.(com|net|org)$/
 /(.*\.|^)marketingcloudapis\.com$/
+/(.*\.|^)musicvideodistributors\.com$/
 /(.*\.|^)omtrdc\.net$/
 /(.*\.|^)pubmatic\.com$/
 /(.*\.|^)qualtrics.*\.(com|net)$/

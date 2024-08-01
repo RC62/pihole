@@ -128,6 +128,7 @@
 @@/(\.|^)symcb\.com$/
 @@/(\.|^)zoom\.us$/
 @@/ocsp[0-9]*\.apple.com/
+@@||stats.gc.apple.com^
 #
 #
 #  **********  Unblock Tags os_android & device_tv  **********
@@ -150,5 +151,14 @@
 @@||sdk.iad-02.braze.com^$ctag=os_android
 @@||settings.crashlytics.com^$ctag=os_android
 @@||ssl.google-analytics.com^$ctag=os_android
+#
+#  **********  Unblock Nate's Playstation  **********
+#
+@@||telemetry-console.api.playstation.com^$ctag=device_gameconsole
+@@||smetrics.aem.playstation.com^$ctag=device_gameconsole
+#
+#  **********  Unblock for TJs Phone  **********
+#
+@@||connect.tapjoy.com^$client='Taryns-Phone2'
 #
 #
