@@ -1,5 +1,5 @@
 # Rob's adguard Whitelist
-# Last Update: 2023-11-05 12:11 PM EST
+# Last Update: 2025-11-21 9:28 PM EST
 #
 #  **********  Unblock Global Exact  **********
 #
@@ -11,6 +11,7 @@
 @@||audio-sp-sea.spotifycdn.net
 @@||audio4-fa.scdn.co
 @@||b.jw-cdn.org
+@@||bambulab.com^
 @@||banner.aws.valenciacollege.edu
 @@||bit.ly
 @@||cdn.judge.me
@@ -20,6 +21,7 @@
 @@||dailymix-images.scdn.co
 @@||dealer.spotify.com
 @@||disney.tt.omtrdc.net
+@@||dit.whatsapp.net^
 @@||download.scdn.co
 @@||edge-mqtt.facebook.com
 @@||edge-web.dual-gslb.spotify.com
@@ -34,6 +36,7 @@
 @@||graph.instagram.com
 @@||gstaticadssl.l.google.com
 @@||homedepot.tt.omtrdc.net
+@@||honey.com^
 @@||hulu-ios.hb-api.omtrdc.net
 @@||hulu-lr.hb-api.omtrdc.net
 @@||hulu.com.akadns.net
@@ -44,6 +47,8 @@
 @@||hulu.sc.omtrdc.net
 @@||i.scdn.co
 @@||ibhuluimcom-a.akamaihd.net
+@@||joinhoney.com^
+@@||klclick.com^
 @@||lcprd1.samsungcloudsolution.net
 @@||lineup-images.scdn.co
 @@||login.microsoftonline.com
@@ -63,6 +68,7 @@
 @@||pc-humana-collect.tealiumiq.com
 @@||pool.ntp.org
 @@||products.office.com
+@@||progressive.com^
 @@||raspberrypi.local
 @@||rat.rakuten.co.jp
 @@||rdz-rbcloud.rainbird.com
@@ -74,8 +80,11 @@
 @@||self-events-data.trafficmanager.net
 @@||spclient.wg.spotify.com
 @@||star-mini.c10r.facebook.com
+@@||stats.gc-apple.com.akadns.net^
 @@||stats.gc.apple.com
 @@||support.spotify.com
+@@||surveys.cms.gov^ # Healthcare.gov
+@@||swiship.com^
 @@||t.scdn.co
 @@||tags.tiqcdn.com
 @@||time-osx.g.aaplimg.com
@@ -128,6 +137,7 @@
 @@/(\.|^)play\.google\.com$/
 @@/(\.|^)symcb\.com$/
 @@/(\.|^)zoom\.us$/
+@@/ablink\..*\.etsy.com/
 @@/ocsp[0-9]*\.apple.com/
 #
 #
