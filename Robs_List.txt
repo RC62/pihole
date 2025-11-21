@@ -5,7 +5,6 @@
 #
 0.afs.googleadservices.com
 1ad356638475.cdn4.forter.com
-1dot1dot1dot1.cloudflare-dns.com
 2.afs.googleadservices.com
 10.72.105.165googleanalytics.matomo.cloud
 10.afs.googleadservices.com
@@ -172,7 +171,6 @@ click.google-analytics.com
 click.hulumail.com
 clients6.google.comads.creative-serving.com
 clouderrorreporting.googleapis.com
-cloudflare-dns.com
 cloudgoogleanalytics.matomo.cloud
 collection-endpoint-prod.herokuapp.com
 collector-pxslc3j22k.px-cloud.net
@@ -304,7 +302,6 @@ eventtracking.hubapi.com
 excess.duolingo.com
 family-filter-dns.cleanbrowsing.org
 family.canadianshield.cira.ca
-family.cloudflare-dns.com
 fast-google.gq.domain.name
 feedads.googleadservices.com
 fi.doh.dns.snopyta.org
@@ -666,12 +663,10 @@ mimageads8.googleadservices.com
 mimageads9.googleadservices.com
 minkatu.com
 miracleglow-mask.googletagmanager.com
-mobile-collector.newrelic.com.cdn.cloudflare.net
 mobile-crash.newrelic.com
 mobile-http-intake.logs.datadoghq.com
 mon-va.byteoversea.com
 morcelik.github.io
-mozilla.cloudflare-dns.com
 mpartner.googleadservices.com
 mps.cnbc.com
 ms.googlemaail.com
@@ -895,7 +890,6 @@ sdns.233py.com
 se.google.rtb.d5p.de17a.com
 secure.googlemaail.com
 security-filter-dns.cleanbrowsing.org
-security.cloudflare-dns.com
 security.googlesettings.com
 segoogle.com
 sense360eng.com.herokudns.com
