@@ -4,10 +4,7 @@
 #
 #  **********  Block Global Exact  **********
 #
-#||doh.dns.apple.com.v.aaplimg.com
-#||get.cocoatech.com
-#||local^$important # What the hell is this?
-#||store.cocoatech.io
+||doh.dns.apple.com.v.aaplimg.com
 ||_dns-push-tls._tcp.ipv4only.arpa^
 ||adxfactory.com
 ||ai-subscription-service.wyzecam.com^$important
@@ -178,4 +175,5 @@
 /^mads\./
 /^pixels?[-.]/
 /^stat(s|istics)?[0-9]*[_.-]/
+/(.*\.|^)apple-dns\.net$/
 

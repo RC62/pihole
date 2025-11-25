@@ -99,7 +99,6 @@
 @@/(.*\.|^)(hulu)(stream|\.map\.fastly|\.com\.akadns)*\.(com$|net$)/
 @@/(.*\.|^)1password(services|usercontent)*\.(com|eu|ca)$/
 @@/(.*\.|^)amazon\.com$/
-@@/(.*\.|^)apple-dns\.net$/
 @@/(.*\.|^)azure\.com$/
 @@/(.*\.|^)beacons.*\.gvt.*\.com$/
 @@/(.*\.|^)blinkreceipt\.com$/
@@ -139,6 +138,7 @@
 @@/(\.|^)zoom\.us$/
 @@/ablink\..*\.etsy.com/
 @@/ocsp[0-9]*\.apple.com/
+# @@/(.*\.|^)apple-dns\.net$/
 #
 #
 #  **********  Unblock Tags os_android & device_tv  **********
