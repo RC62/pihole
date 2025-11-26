@@ -54,7 +54,6 @@
 @@||login.microsoftonline.com
 @@||login5.spotify.com
 @@||login5.spotify.com
-@@||mask-h2.icloud.com
 @@||mask.icloud.com
 @@||metrics.barclaycardus.com
 @@||mqtt.c10r.facebook.com
