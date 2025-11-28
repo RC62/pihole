@@ -5,7 +5,6 @@
 #  **********  Block Global Exact  **********
 #
 ||doh.dns.apple.com.v.aaplimg.com
-||_dns-push-tls._tcp.ipv4only.arpa^
 ||adxfactory.com
 ||ai-subscription-service.wyzecam.com^$important
 ||api-in-app-marketing-auth.i.tplinknbu.com
@@ -176,5 +175,5 @@
 /^mads\./
 /^pixels?[-.]/
 /^stat(s|istics)?[0-9]*[_.-]/
-/(.*\.|^)apple-dns\.net$/
+
 
