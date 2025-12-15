@@ -72,8 +72,8 @@
 #
 #  **********  Block Global RegEx  **********
 #
-/(.*\.|^)(yahoo.*)\.(net|com)?$/
-/(.*\.|^).*tiktok.*\.*$/
+/.*adsystem\.com$/
+/.*bitdefender.net^$/
 /(.*\.|^).*\.ba$/
 /(.*\.|^).*\.buzz$/
 /(.*\.|^).*\.by$/
@@ -88,6 +88,8 @@
 /(.*\.|^).*\.vc$/
 /(.*\.|^).*\.vn$/
 /(.*\.|^).*\.vu$/
+/(.*\.|^).*tiktok.*\.*$/
+/(.*\.|^)(yahoo.*)\.(net|com)?$/
 /(.*\.|^)app-measurement\.com$/
 /(.*\.|^)applovin\.com$/
 /(.*\.|^)brilliantcollector\.com$/
@@ -99,8 +101,8 @@
 /(.*\.|^)doubleclick\.net$/
 /(.*\.|^)getclicky.*\.(com|net)$/
 /(.*\.|^)giftaward\.life$/
-/(.*\.|^)go-mpulse\.net$/
 /(.*\.|^)go-mpulse\.net\.edgekey\.net$/
+/(.*\.|^)go-mpulse\.net$/
 /(.*\.|^)iad-apple\.com.*$/
 /(.*\.|^)iadcontent\..*$/
 /(.*\.|^)iadsdk\..*$/
@@ -119,6 +121,7 @@
 /(.*\.|^)qubit\.com$/
 /(.*\.|^)rayjump\.com$/
 /(.*\.|^)shyajio\.com$/
+/(.*\.|^)smartadserver.com^$/
 /(.*\.|^)store\.google\.com$/
 /(.*\.|^)trafficfactory\.biz.*/
 /(.*\.|^)vungle\.(com$|com.edgekey\.net$)/
@@ -128,9 +131,15 @@
 /(\.|^)localytics\.com$/
 /(\.|^)moitruongxuyena\.vn$/
 /(\.|^)supersonicads\.com$/
+/(\.|^)veryfast\.litimgs\.com/litcams^$/
+/(\.|^)veryfast\.litimgs\.com/streams^$/
 /(\.|^)ymlpsend1\.net$/
 /(\.|^)youtube-nocookie\.com$/
-/.*adsystem\.com$/
+/^.*litcams\.com$/
+/^.*lituploads\..*cdn.net$/
+/^.*speedy\..*cdn.net$/
+/^.*streamate\..*cdn.com$/
+/^.*veryfast\..*cdn.net$/
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
 /^adim(age|g)s?[0-9]*[_.-]/
@@ -162,12 +171,12 @@
 /^https?://([A-Za-z0-9.-]*\.)?mathtag(\.\w{2}\.\w{2}|\.\w{2,4})//
 /^https?://([A-Za-z0-9.-]*\.)?mathtag\.com//
 /^https?://([A-Za-z0-9.-]*\.)?mediamath(\.\w{2}\.\w{2}|\.\w{2,4})//
+/^https?://([A-Za-z0-9.-]*\.)?s\.yimg\.com/cv/ae/us/audience//
 /^https?://([A-Za-z0-9.-]*\.)?scorecardresearch(\.\w{2}\.\w{2}|\.\w{2,4})//
 /^https?://([A-Za-z0-9.-]*\.)?scorecardresearch\.com//
 /^https?://([A-Za-z0-9.-]*\.)?secure\.footprint\.net//
 /^https?://([A-Za-z0-9.-]*\.)?sitescout(\.\w{2}\.\w{2}|\.\w{2,4})//
 /^https?://([A-Za-z0-9.-]*\.)?surveylink//
-/^https?://([A-Za-z0-9.-]*\.)?s\.yimg\.com/cv/ae/us/audience//
 /^https?://([A-Za-z0-9.-]*\.)?turn(\.\w{2}\.\w{2}|\.\w{2,4})//
 /^https?://([A-Za-z0-9.-]*\.)?turn\.com//
 /^https?://([A-Za-z0-9.-]*\.)?w55c(\.\w{2}\.\w{2}|\.\w{2,4})//
@@ -175,5 +184,4 @@
 /^mads\./
 /^pixels?[-.]/
 /^stat(s|istics)?[0-9]*[_.-]/
-
 
