@@ -1,5 +1,5 @@
 # Rob's adguard Blacklist
-# Last Update: 2025-11-21 9:28 PM EST
+# Last Update: 2025/12/15 10:33 AM EST
 #
 #
 #  **********  Block Global Exact  **********
