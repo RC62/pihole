@@ -137,7 +137,6 @@
 /(\.|^)youtube-nocookie\.com$/
 /^.*litcams\.com$/
 /^.*lituploads\..*cdn.net$/
-/^.*speedy\..*cdn.net$/
 /^.*streamate\..*cdn.com$/
 /^.*veryfast\..*cdn.net$/
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
