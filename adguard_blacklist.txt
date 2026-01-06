@@ -1,5 +1,5 @@
 # Rob's adguard Blacklist
-# Last Update: 2025/12/18 6:24 AM EST
+# Last Update: 2026/01/06 7:25 AM EST
 #
 #
 #  **********  Block Global Exact  **********
@@ -132,6 +132,7 @@
 /(\.|^)localytics\.com$/
 /(\.|^)moitruongxuyena\.vn$/
 /(\.|^)netlify.app$/
+/(\.|^)officeppe\.com$/
 /(\.|^)supersonicads\.com$/
 /(\.|^)veryfast\.litimgs\.com/litcams^$/
 /(\.|^)veryfast\.litimgs\.com/streams^$/
@@ -185,4 +186,3 @@
 /^mads\./
 /^pixels?[-.]/
 /^stat(s|istics)?[0-9]*[_.-]/
-
