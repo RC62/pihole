@@ -1,5 +1,5 @@
 # Rob's adguard Whitelist
-# Last Update: 2025-11-21 9:28 PM EST
+# Last Update: 2026/01/31 2:20 PM EST
 #
 #  **********  Unblock Global Exact  **********
 #
@@ -30,6 +30,7 @@
 @@||firebase-settings.crashlytics.com
 @@||fonts.gstatic.com
 @@||gallery.tv.widgets.yahoo.com
+@@||giga.logs.roku.com
 @@||global-dealer-ssl.spotify.com
 @@||googlehosted.l.googleusercontent.com
 @@||graph.facebook.com

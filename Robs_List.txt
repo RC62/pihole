@@ -1,6 +1,6 @@
 # Rob's List
 # Cleaned and Compared to Steven Black's List and Dups Removed
-# Last Update: 2025/12/18 6:26 AM EST
+# Last Update: 2026/01/31 2:21 PM EST
 #
 #
 0.afs.googleadservices.com
@@ -317,6 +317,7 @@ fundingchoicesmessages.google.com
 gateway.googlemaail.com
 gen-l.tk
 ggsoftware-d.openx.net
+giga.logs.roku.com
 gigoogle.com
 globalchildrenschool.googletagmanager.com
 go.ezoic.net
