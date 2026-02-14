@@ -1,9 +1,10 @@
 # Rob's adguard Whitelist
-# Last Update: 2026/01/31 2:20 PM EST
+# Last Update: 2026/02/14 11:53 AM EST
 #
 #  **********  Unblock Global Exact  **********
 #
 @@||accounts.spotify.com
+@@||apm-log-upload-os.hoyoverse.com
 @@||apresolve.spotify.com
 @@||assetshuluimcom-a.akamaihd.net
 @@||audio-ak-spotify-com.akamaized.net
