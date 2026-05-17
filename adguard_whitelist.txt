@@ -1,5 +1,5 @@
 # Rob's adguard Whitelist
-# Last Update: 2026/02/14 11:53 AM EST
+# Last Update: 2026/05/17 3:50 PM
 #
 #  **********  Unblock Global Exact  **********
 #
@@ -96,7 +96,7 @@
 #
 #  **********  Unblock Global RegEx  **********
 #
-@@/(.*)darwin\.hulu.*\.(com$|net$)/
+@@/(.*\.|^)darwin\.hulu.*\.(com$|net$)/
 @@/(.*\.|^)(hulu)(stream|\.map\.fastly|\.com\.akadns)*\.(com$|net$)/
 @@/(.*\.|^)1password(services|usercontent)*\.(com|eu|ca)$/
 @@/(.*\.|^)amazon\.com$/
@@ -145,6 +145,8 @@
 #  **********  Unblock Tags os_android & device_tv  **********
 #
 @@||log-ingestion.samsungacr.com^$ctag=os_android|device_tv
+@@||conduit.redfast.com^$ctag=os_android|device_tv
+@@||kvinit-prod.api.kochava.com^$ctag=os_android|device_tv
 #
 #  **********  Unblock Tags for Security Devices  **********
 #
