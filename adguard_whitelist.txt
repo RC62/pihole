@@ -142,11 +142,11 @@
 # @@/(.*\.|^)apple-dns\.net$/
 #
 #
-#  **********  Unblock Tags os_android & device_tv  **********
+#  **********  Unblock Tags os_android os_ios & device_tv  **********
 #
 @@||log-ingestion.samsungacr.com^$ctag=os_android|device_tv
-@@||conduit.redfast.com^$ctag=os_android|device_tv
-@@||kvinit-prod.api.kochava.com^$ctag=os_android|device_tv
+@@||conduit.redfast.com^$ctag=os_android|device_tv|os_ios
+@@||kvinit-prod.api.kochava.com^$ctag=os_android|device_tv|os_ios
 #
 #  **********  Unblock Tags for Security Devices  **********
 #
