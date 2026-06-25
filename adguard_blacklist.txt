@@ -186,3 +186,10 @@
 /^mads\./
 /^pixels?[-.]/
 /^stat(s|istics)?[0-9]*[_.-]/
+#
+#
+#  **********  Block Peacock TV Ads  **********
+#
+/[^.]+\.mediatailor\.[^.]+\.amazonaws\.com/
+/(\.|^)aragorn-prod-oh-acai-lb\.inbake\.com$/
+/(\.|^)media-event\.adsafeprotected\.com$/
