@@ -1,5 +1,5 @@
 # Rob's adguard Whitelist
-# Last Update: 2026/05/17 3:50 PM
+# Last Update: 2026/06/25 10:08 AM
 #
 #  **********  Unblock Global Exact  **********
 #
