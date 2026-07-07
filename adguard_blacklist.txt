@@ -1,5 +1,5 @@
 # Rob's adguard Blacklist
-# Last Update: 2026/06/25 10:08 AM
+# Last Update: 2026/07/07 5:07 PM
 #
 #
 #  **********  Block Global Exact  **********
@@ -144,6 +144,7 @@
 /^.*veryfast\..*cdn.net$/
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
+/^([^@=\/]*\.)?neighborly\.com([^a-zA-Z0-9-.]|$)/
 /^adim(age|g)s?[0-9]*[_.-]/
 /^adtrack(er|ing)?[0-9]*[_.-]/
 /^advert(s|is(ing|ements?))?[0-9]*[_.-]/
