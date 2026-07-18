@@ -1,5 +1,5 @@
 # Rob's adguard Whitelist
-# Last Update: 2026/06/25 10:08 AM
+# Last Update: 2026/07/17 9:05 PM
 #
 #  **********  Unblock Global Exact  **********
 #
@@ -15,6 +15,7 @@
 @@||bambulab.com^
 @@||banner.aws.valenciacollege.edu
 @@||bit.ly
+@@||cbs.hb-api.omtrdc.net
 @@||cdn.judge.me
 @@||cognito-idp.us-east-1.amazonaws.com
 @@||cws-hulu.conviva.com
